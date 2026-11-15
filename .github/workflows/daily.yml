@@ -2,8 +2,13 @@ name: daily-briefing
 
 on:
   schedule:
-    - cron: "37 20 * * *"   # UTC 20:37 = KST 05:37
+    - cron: "20 22 * * *"   # UTC 22:20 = KST 07:20 시작 → GitHub 지연 감안 7시 반 전후 도착
   workflow_dispatch:
+    inputs:
+      send_email:
+        description: "메일 발송"
+        type: boolean
+        default: true
 
 permissions:
   contents: write
@@ -30,7 +35,7 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: 수집·요약·기록·사이트 생성·메일 발송
-        run: python -m briefing.main
+        run: python -m briefing.main ${{ github.event_name == 'workflow_dispatch' && !inputs.send_email && '--no-email' || '' }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SMTP_USER: ${{ secrets.SMTP_USER }}

@@ -10,6 +10,7 @@
 from __future__ import annotations
 
 import datetime as dt
+import html
 import json
 import shutil
 from pathlib import Path
@@ -71,9 +72,17 @@ def build_site(cfg: dict) -> None:
 
     nl = cfg["newsletter"]
     page = ASSET.read_text(encoding="utf-8")
-    page = page.replace("{{TITLE}}", nl["title"]).replace("{{TAGLINE}}", nl.get("tagline", ""))
+    site_url = (nl.get("site_url") or "").rstrip("/") + "/"
+    og_desc = nl.get("tagline", "")
+    if days and days[0]["top"]:
+        og_desc = f"{days[0]['d'].replace('-', '.')} · {days[0]['top']}"
+    page = (page.replace("{{TITLE}}", html.escape(nl["title"]))
+                .replace("{{TAGLINE}}", html.escape(nl.get("tagline", "")))
+                .replace("{{OG_DESC}}", html.escape(og_desc))
+                .replace("{{SITE_URL}}", html.escape(site_url)))
     (SITE / "index.html").write_text(page, encoding="utf-8")
     (SITE / ".nojekyll").write_text("")
+    shutil.copy(Path(__file__).with_name("og.png"), SITE / "og.png")  # 링크 미리보기 썸네일
     print(f"[info] 사이트 생성: {len(days)}일치, 검색 항목 {len(search)}개")
 
 
