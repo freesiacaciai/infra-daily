@@ -44,6 +44,12 @@ topics:
     max_items: 15
     queries:
       - { q: 'EU energy policy OR Germany power market OR Energiewende', lang: en }
+  - name: "수전해"
+    max_items: 20
+    queries:
+      - { q: '수전해 OR 그린수소 생산 설비', lang: ko }
+      - { q: 'electrolyzer OR electrolysis green hydrogen project', lang: en }
+      - { q: '水電解装置 OR 水電解 グリーン水素', lang: ja }
   - name: "일본 수소·전력"
     max_items: 15
     queries:
