@@ -1,0 +1,41 @@
+{
+  "_note": "테스트용 가상 데이터. 실제 기사 아님.",
+  "news": [
+    {
+      "id": "a1",
+      "topic": "전력·그리드",
+      "title": "[샘플] 국내 변압기 업체, 북미 초고압 변압기 대형 수주",
+      "source": "샘플일보",
+      "link": "https://example.com/a1",
+      "published": "2026-11-15T05:00:00+09:00",
+      "lang": "ko"
+    },
+    {
+      "id": "a2",
+      "topic": "전력·그리드",
+      "title": "[Sample] US utilities report multi-year transformer lead times",
+      "source": "Sample Wire",
+      "link": "https://example.com/a2",
+      "published": "2026-11-15T03:00:00+09:00",
+      "lang": "en"
+    },
+    {
+      "id": "a3",
+      "topic": "데이터센터 냉각",
+      "title": "[Sample] Hyperscaler shifts new AI halls to direct liquid cooling",
+      "source": "Sample Tech",
+      "link": "https://example.com/a3",
+      "published": "2026-11-15T02:00:00+09:00",
+      "lang": "en"
+    },
+    {
+      "id": "a4",
+      "topic": "일본 수소·전력",
+      "title": "[サンプル] 電力会社、データセンター向け需要見通しを上方修正",
+      "source": "サンプル新聞",
+      "link": "https://example.com/a4",
+      "published": "2026-11-15T04:00:00+09:00",
+      "lang": "ja"
+    }
+  ]
+}

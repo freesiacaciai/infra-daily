@@ -1,0 +1,50 @@
+# ─────────────────────────────────────────────
+# 에너지·AI 인프라 데일리 브리핑 설정
+# 비밀값(API 키, 메일 비밀번호)은 여기 쓰지 말고 환경변수/GitHub Secrets로.
+# ─────────────────────────────────────────────
+
+newsletter:
+  title: "AI 인프라 데일리"
+  tagline: "에너지·AI 인프라 산업 동향 자동 요약"
+  site_url: ""              # 예: https://<GitHub아이디>.github.io/<저장소이름>/  (메일에 "웹에서 보기" 링크)
+  audience: "에너지·AI 인프라 산업 동향을 따라가는 엔지니어·실무자. 기술적 맥락과 시장·정책 구조 변화에 관심이 많음."
+  lookback_hours: 26        # 이 시간 이내 기사만 사용 (스케줄 지연 대비 여유 2시간)
+
+llm:
+  model: "claude-sonnet-5-5"
+  max_tokens: 4000
+  max_items_to_llm: 120     # LLM에 넘길 최대 기사 수
+
+# 토픽별 Google News RSS 검색어. lang: ko / ja / en
+# 검색어는 Google 검색 문법 그대로 (OR, "정확한 구문", -제외어)
+topics:
+  - name: "전력·그리드"
+    max_items: 25
+    queries:
+      - { q: '변압기 OR 초고압 OR 전력망 수주', lang: ko }
+      - { q: 'transformer shortage OR grid interconnection data center', lang: en }
+      - { q: '変圧器 OR 送電網 データセンター', lang: ja }
+  - name: "데이터센터 냉각"
+    max_items: 15
+    queries:
+      - { q: '데이터센터 액침냉각 OR 액체냉각', lang: ko }
+      - { q: 'liquid cooling data center OR immersion cooling', lang: en }
+  - name: "광통신"
+    max_items: 15
+    queries:
+      - { q: '광트랜시버 OR 광통신 AI', lang: ko }
+      - { q: 'optical transceiver OR co-packaged optics', lang: en }
+  - name: "가스터빈·발전"
+    max_items: 15
+    queries:
+      - { q: '가스터빈 OR SMR 수주', lang: ko }
+      - { q: 'gas turbine order data center OR gas turbine backlog', lang: en }
+      - { q: 'ガスタービン 受注', lang: ja }
+  - name: "유럽 에너지정책"
+    max_items: 15
+    queries:
+      - { q: 'EU energy policy OR Germany power market OR Energiewende', lang: en }
+  - name: "일본 수소·전력"
+    max_items: 15
+    queries:
+      - { q: '水素 OR 電力需給 OR 原発再稼働', lang: ja }
