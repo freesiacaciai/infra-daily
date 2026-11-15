@@ -7,6 +7,7 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import json
+import os
 from pathlib import Path
 
 import yaml
@@ -31,6 +32,14 @@ def main() -> None:
     now = dt.datetime.now(KST)
     if a.date:
         now = dt.datetime.fromisoformat(a.date).replace(hour=6, tzinfo=KST)
+
+    # 예약 실행은 하루에 여러 번 걸어둔다(GitHub가 가끔 건너뛰기 때문). 이미 정상 발행된 날이면 건너뜀.
+    today = Path("archive") / f"{now:%Y-%m-%d}.json"
+    if os.getenv("GITHUB_EVENT_NAME") == "schedule" and today.exists():
+        if not json.loads(today.read_text(encoding="utf-8")).get("fallback"):
+            print(f"[info] {today.name} 이미 발행됨 — 이번 예약 실행은 건너뜀")
+            build_site(cfg)
+            return
 
     if a.fixture:
         news = json.loads(Path(a.fixture).read_text(encoding="utf-8"))["news"]
