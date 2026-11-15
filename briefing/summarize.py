@@ -1,9 +1,12 @@
-"""LLM 요약. API 키가 없거나 실패하면 헤드라인 목록으로 대체(메일은 무조건 나감)."""
+"""LLM 요약. API 키가 없거나 실패하면 헤드라인 목록으로 대체(메일은 무조건 나감).
+
+모델이 직접 JSON 텍스트를 쓰면 따옴표 하나로 깨질 수 있어서,
+도구 호출(tool use) 형식으로 받아 항상 올바른 구조가 오도록 한다.
+"""
 from __future__ import annotations
 
 import json
 import os
-import re
 
 SYSTEM = """너는 에너지·AI 인프라 산업 동향 분석가다.
 독자: {audience}
@@ -17,20 +20,43 @@ SYSTEM = """너는 에너지·AI 인프라 산업 동향 분석가다.
 - 일본어·영어 기사도 한국어로 쓴다.
 - 기사 원문 문장을 그대로 옮기지 말고 네 말로 쓴다.
 - 각 포인트에 근거 기사 id를 refs로 단다.
-- 반드시 아래 JSON 하나만 출력한다. 다른 텍스트 금지.
+- 결과는 반드시 publish_briefing 도구로 제출한다."""
 
-{{
-  "top3": ["오늘 꼭 알아야 할 것 3개, 각 1문장"],
-  "sections": [{{"topic": "토픽명", "points": [{{"text": "...", "refs": ["id"]}}]}}],
-  "watch": ["앞으로 지켜볼 기술·정책·시장 변수, 1~3개"]
-}}"""
-
-
-def _parse(text: str) -> dict:
-    m = re.search(r"\{.*\}", text, re.S)
-    if not m:
-        raise ValueError("JSON 없음")
-    return json.loads(m.group(0))
+TOOL = {
+    "name": "publish_briefing",
+    "description": "완성된 데일리 브리핑을 제출한다.",
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "top3": {"type": "array", "items": {"type": "string"},
+                     "description": "오늘 꼭 알아야 할 것 3개, 각 1문장"},
+            "sections": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "topic": {"type": "string"},
+                        "points": {
+                            "type": "array",
+                            "items": {
+                                "type": "object",
+                                "properties": {
+                                    "text": {"type": "string"},
+                                    "refs": {"type": "array", "items": {"type": "string"}},
+                                },
+                                "required": ["text", "refs"],
+                            },
+                        },
+                    },
+                    "required": ["topic", "points"],
+                },
+            },
+            "watch": {"type": "array", "items": {"type": "string"},
+                      "description": "앞으로 지켜볼 기술·정책·시장 변수 1~3개"},
+        },
+        "required": ["top3", "sections", "watch"],
+    },
+}
 
 
 def _clean(brief: dict, valid_ids: set[str]) -> dict:
@@ -45,7 +71,7 @@ def _clean(brief: dict, valid_ids: set[str]) -> dict:
 
     brief["sections"] = [
         {"topic": s.get("topic", ""), "points": fix(s.get("points"))}
-        for s in brief.get("sections", []) if fix(s.get("points"))
+        for s in brief.get("sections", []) if isinstance(s, dict) and fix(s.get("points"))
     ]
     brief["top3"] = [t for t in brief.get("top3", []) if isinstance(t, str)][:3]
     brief["watch"] = [t for t in brief.get("watch", []) if isinstance(t, str)][:3]
@@ -78,16 +104,25 @@ def summarize(news: list[dict], cfg: dict) -> dict:
         "news": [{k: n[k] for k in ("id", "topic", "title", "source", "lang")} for n in items],
         "topics": [t["name"] for t in cfg["topics"]],
     }
-    try:
-        client = anthropic.Anthropic()
-        msg = client.messages.create(
-            model=lcfg["model"],
-            max_tokens=lcfg.get("max_tokens", 4000),
-            system=SYSTEM.format(audience=cfg["newsletter"]["audience"]),
-            messages=[{"role": "user", "content": json.dumps(payload, ensure_ascii=False)}],
-        )
-        text = "".join(b.text for b in msg.content if b.type == "text")
-        return _clean(_parse(text), {n["id"] for n in news})
-    except Exception as e:
-        print(f"[warn] LLM 요약 실패: {e}")
-        return fallback(news, f"LLM 요약 실패({type(e).__name__}) — 헤드라인만 표시")
+    client = anthropic.Anthropic()
+    last_err = None
+    for attempt in (1, 2):  # 한 번 실패하면 한 번 더 시도
+        try:
+            msg = client.messages.create(
+                model=lcfg["model"],
+                max_tokens=lcfg.get("max_tokens", 8000),
+                system=SYSTEM.format(audience=cfg["newsletter"]["audience"]),
+                tools=[TOOL],
+                tool_choice={"type": "tool", "name": "publish_briefing"},
+                messages=[{"role": "user", "content": json.dumps(payload, ensure_ascii=False)}],
+            )
+            block = next((b for b in msg.content if b.type == "tool_use"), None)
+            if block is None:
+                raise ValueError(f"도구 응답 없음 (stop_reason={msg.stop_reason})")
+            if msg.stop_reason == "max_tokens":
+                raise ValueError("응답이 max_tokens에서 잘림 — config.yaml의 llm.max_tokens를 늘리세요")
+            return _clean(dict(block.input), {n["id"] for n in news})
+        except Exception as e:
+            last_err = e
+            print(f"[warn] LLM 요약 실패 ({attempt}회차): {type(e).__name__}: {e}")
+    return fallback(news, f"LLM 요약 실패({type(last_err).__name__}) — 헤드라인만 표시")
