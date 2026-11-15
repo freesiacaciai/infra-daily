@@ -1,0 +1,483 @@
+{
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16T08:49+09:00",
+ "n_news": 96,
+ "fallback": null,
+ "top3": [
+  "COP31 전력화 목표를 달성하려면 2035년까지 매년 4,800억 달러 규모의 송전망 투자 공백을 메워야 한다는 분석이 나왔다.",
+  "AI 데이터센터 급증으로 미국에서는 탈탄소를 추진하는 주·기업조차 화석연료 의존이 다시 커지는 한편, 연방 차원에서는 화력발전소 배출 규제가 철폐됐다.",
+  "이란 전쟁발 에너지 충격으로 유럽이 기후 목표를 완화하는 가운데, 우크라이나 에너지 인프라 지원과 그리스의 전기요금 부담 같은 안보·비용 문제가 정책 전면에 올라왔다."
+ ],
+ "sections": [
+  {
+   "topic": "전력·그리드",
+   "points": [
+    {
+     "text": "COP31의 전력화 목표를 이행하려면 2035년까지 연간 4,800억 달러의 송전망 투자 공백을 메워야 한다는 분석이 나왔다. 전력화 목표를 세워도 계통 투자가 따라가지 못하면 병목이 된다는 점을 보여준다.",
+     "refs": [
+      "39d53749"
+     ]
+    },
+    {
+     "text": "미국에서 재생에너지와 가스 발전소의 인허가 절차를 간소화하는 새 법안이 나왔다. 데이터센터 수요 때문에 전원 확충 속도가 중요해진 만큼 인허가가 계통 접속과 함께 핵심 변수가 되고 있다.",
+     "refs": [
+      "92f336d5"
+     ]
+    },
+    {
+     "text": "트럼프 정권에 맞서 탈탄소를 추진하는 미국 주정부와 기업도 AI 데이터센터 급증 때문에 새로운 화석연료 의존에 직면했다는 분석이 나왔다. 여기에 미국이 화력발전소 배출 규제를 철폐했다. 전력 수요 급증과 규제 완화가 겹치면서 온실가스 감축 경로의 불확실성이 커졌다.",
+     "refs": [
+      "96d668fa",
+      "03ed22c3",
+      "6e806566"
+     ]
+    },
+    {
+     "text": "ComEd는 수요가 급증하는 가운데 전력망의 역할을 다시 정의하려 하고 있다. AI 데이터센터용 전력 인프라 시장은 2034년 307억 달러로 커질 것이라는 전망도 나왔다. 배전 사업자와 설비 업계 모두 수요 급증에 대응하는 방향으로 움직이고 있다.",
+     "refs": [
+      "579cd5f6",
+      "4e6058e5"
+     ]
+    },
+    {
+     "text": "파라과이는 암호화폐 채굴용 저가 전력 계약을 2027년 말에 끝내기로 했다. AI 수요와 전력을 두고 경쟁하게 된 것이 배경이다. 저가 전력의 용도가 채굴에서 AI로 옮겨가는 흐름이 보인다.",
+     "refs": [
+      "7653dca7"
+     ]
+    },
+    {
+     "text": "삼성SDI와 LG에너지솔루션이 RE+ 2026에서 AI 데이터센터용 ESS를 두고 맞붙는다. 배터리 업체들이 데이터센터의 전력 품질·피크 대응 수요를 새 시장으로 보고 있다.",
+     "refs": [
+      "4595a895"
+     ]
+    },
+    {
+     "text": "전기기기 수출이 사상 최대 수준이라는 보도가 나왔다. 글로벌 전력망·설비 투자 확대가 제조업 수출에 반영되고 있음을 시사한다.",
+     "refs": [
+      "c3ec7b3a"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "데이터센터 냉각",
+   "points": [
+    {
+     "text": "AI 기업들이 데이터센터를 바다에 두는 방안을 다시 검토하고 있다. 해저 설치로 에너지 효율을 높일 수 있다는 논의다. 냉각 부하가 데이터센터 운영 비용의 핵심이 되면서 입지와 냉각 방식을 함께 보는 시도가 나오고 있다.",
+     "refs": [
+      "4b72e738",
+      "1ba455a3"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "광통신",
+   "points": [
+    {
+     "text": "외부 테스터에게 포토닉 AI 하드웨어가 전달되기 시작했다. 대한광통신은 3분기 영업이익 29억 원으로 전년 적자에서 흑자로 돌아섰다. Sivers Semiconductors는 AI 데이터센터로 사업 방향을 틀었다. 광 기술이 AI 인프라 수요를 따라 시험·실적·사업 전환 단계로 넓어지고 있다.",
+     "refs": [
+      "941b9a28",
+      "b6ebbe2b",
+      "1c398c6b"
+     ]
+    },
+    {
+     "text": "차세대 광통신 소재인 바륨 타이타네이트의 광학 특성이 정밀하게 규명됐다. 중국 화리공업은 광통신 기업을 인수해 사업을 다각화한다. 소재 연구와 업계 재편이 함께 진행되고 있다.",
+     "refs": [
+      "bba5ab07",
+      "84316625"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "가스터빈·발전",
+   "points": [
+    {
+     "text": "두산에너빌리티가 발전사들과 기술교류회를 열고 AI 기반 설비 진단·운영 기술을 공유했다. 고장을 사전에 잡는 예지 정비가 발전설비 가동률 관리의 핵심으로 자리잡고 있다.",
+     "refs": [
+      "4e49d09d",
+      "f3cfb76e",
+      "6a8c4e60"
+     ]
+    },
+    {
+     "text": "오클로와 센트러스가 메타 데이터센터용 SMR 5기의 핵연료 공급 계약을 확정했다. 우라늄 가격은 원전 수요 급증으로 사상 최고치를 기록했다. 빅테크의 전원 확보가 SMR과 핵연료 공급망으로 이어지면서 연료 시장도 영향을 받고 있다.",
+     "refs": [
+      "27efad67",
+      "9648ac79"
+     ]
+    },
+    {
+     "text": "중견 건설사들이 데이터센터, SMR, LNG를 새 먹거리로 삼고 있다. 발전·에너지 인프라가 건설 업계의 사업 전환 대상이 되고 있다.",
+     "refs": [
+      "d4012cbd"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "원전 해체",
+   "points": [
+    {
+     "text": "후쿠시마 제1원전 2호기에서 연료 집合체 126개가 반출됐고 작업은 순조롭다고 전해졌다. 해체 공정의 핵심인 연료 반출이 진전을 보이고 있다.",
+     "refs": [
+      "98e0a965",
+      "666b31a4"
+     ]
+    },
+    {
+     "text": "영국의 원전 인력이 10만 명을 넘었지만 숙련 인력은 여전히 부족하다. 한국에서는 기술 전수 시기를 놓치지 말아야 한다는 지적이 나온다. 해체와 신규 건설이 겹치는 시기에는 인력 확보가 병목이 된다.",
+     "refs": [
+      "f82ac8df",
+      "2a7f7cc3"
+     ]
+    },
+    {
+     "text": "E.ON이 폐원전 부지를 데이터센터 용지로 검토하고 있다. 미국에서는 ECP가 원전 서비스 업체 EnergySolutions를 다시 인수한다. 캘리포니아에서는 원전 철거 이후 부지를 어떻게 쓸지 정해지지 않았다는 지적이 나왔다. 해체 이후 부지를 어떻게 활용할지가 새로운 쟁점이다.",
+     "refs": [
+      "078ecf48",
+      "54dc5191",
+      "91b8e6e3"
+     ]
+    },
+    {
+     "text": "일본에서는 도카이 제2원전의 폐로를 우선해야 한다는 주장이 나왔다. 불확실한 핵융합보다 폐로 작업을 먼저 해야 한다는 논리다.",
+     "refs": [
+      "5f7b99a4"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "풍력 재활용",
+   "points": [
+    {
+     "text": "독일의 한 풍력단지는 터빈 6기를 4기로 바꾸면서 발전량을 약 5배로 늘렸고, 폐블레이드는 방음벽으로 재활용했다. 리파워링과 블레이드 재사용을 함께 하는 사례다.",
+     "refs": [
+      "8f50c9be"
+     ]
+    },
+    {
+     "text": "폐블레이드의 재활용 기술 연구가 이어지고 있다. 한 연구는 블레이드를 냉동·해동해 유리섬유와 수지로 분리했고, 강도의 96%가 유지됐다고 밝혔다. 다른 연구는 폐블레이드를 그래핀 등 고부가 소재로 바꾸는 기술을 개발했다. 매립에 의존하던 폐기 방식의 대안이 될 수 있다.",
+     "refs": [
+      "0d9ad42f",
+      "9c26876e"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "유럽 에너지정책",
+   "points": [
+    {
+     "text": "유럽이 이란 전쟁발 에너지 충격을 완화하려고 기후 목표를 낮추고 있다는 분석이 나왔다. 에너지 안보와 비용 부담이 탈탄소 속도를 조정하는 변수가 되고 있다.",
+     "refs": [
+      "29b2c7bf"
+     ]
+    },
+    {
+     "text": "EU는 그리스 PPC의 전기요금 책정을 둘러싼 반독점 조사 수위를 높였다. 그리스 산업계는 에너지 비용 때문에 EU 지원을 요청했다. 전력시장 경쟁과 산업 경쟁력 문제가 함께 나타난다.",
+     "refs": [
+      "04e2fa8d",
+      "aeaf236f"
+     ]
+    },
+    {
+     "text": "우크라이나와 EU는 러시아의 에너지 인프라 공격에 대응하는 긴급 겨울 지원 패키지를 준비하고 있다. 대서양위원회는 수직 회랑을 최적화해 유럽 에너지 안보를 높이자는 방안을 제시했다. 몰도바는 전력 연결, 저장, 디지털화를 우선 과제로 삼았다. 인프라와 연계가 안보 정책의 중심에 있다.",
+     "refs": [
+      "5f2685ce",
+      "432e8388",
+      "4b4e5223"
+     ]
+    },
+    {
+     "text": "아일랜드에서는 AI 데이터센터 급증에 따른 전력 수요를 두고 소송이 제기돼 에너지 정책이 검증대에 올랐다. 데이터센터 입지에 대한 계통 용량 규제가 법적 쟁점이 되고 있다.",
+     "refs": [
+      "3a803bce",
+      "f6118036"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "수전해",
+   "points": [
+    {
+     "text": "레프솔이 타라고나의 150MW급 그린수소 프로젝트를 승인했다. 제주에너지공사는 재생에너지 출력 변동에 대응하는 하이브리드 수전해 기술 개발에 착수했다. 대규모 상용 프로젝트와 변동성 대응 기술이 함께 진행된다.",
+     "refs": [
+      "ff1de9a9",
+      "a8763139",
+      "c87059b4"
+     ]
+    },
+    {
+     "text": "영국 러프버러대 연구자가 그린수소 생산 기술 연구로 영국왕립공학한림원 펠로십을 받았다. 한국 철강업계는 수소환원제철을 통한 탈석탄을 가속하고 있다. 수소 수요처로 철강이 부각되고 있다.",
+     "refs": [
+      "88d00828",
+      "38bb9e0c"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "일본 수소·전력",
+   "points": [
+    {
+     "text": "가시와자키 가리와 원전 운전 금지 가처분의 두 번째 변론에서 '다음 대지진은 1000년 후'라는 도쿄전력의 주장에 반박이 나왔다. 일본 원전 재가동에서 지진 위험 평가가 여전히 핵심 쟁점이다.",
+     "refs": [
+      "838e120a"
+     ]
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "미국의 인허가 간소화 법안과 배출 규제 철폐가 데이터센터발 전원 확충에서 가스와 재생에너지의 비중을 어떻게 바꾸는지",
+  "송전망 투자 공백을 메울 재원 마련 방안과 아일랜드 등 데이터센터 전력 소송의 확산 여부",
+  "SMR 연료 계약과 폐원전 부지 데이터센터 전환처럼 원전을 AI 전원으로 쓰는 사례가 늘어나는지"
+ ],
+ "refs": {
+  "c3ec7b3a": {
+   "s": "자본시장뉴스",
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1abDNwcnhERzI3OU5zWDFYQmdsYUN5R2xQSVFkSWF1emktaHZYYVB0ZjFla1hHYUgtblo4ZWFuOWxVYkg5bFJIVEVGc05wejhlU0N2QWo0UjNyNU9JMHo4QWF3SzRvUDQ?oc=5",
+   "t": "[수출 1조 달러 시대 上] 전기기기 수출도 최대…왜"
+  },
+  "92f336d5": {
+   "s": "MITテクノロジーレビュー",
+   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSktxMWtnQjRxQUJYVG5CS1R5T2M1NnFpM1NkR1k4Z3pYZ1NncVJRZmxpZ3hxbXlUTWhrNVFlQWFsZUJrRFQxakI3cnRPSmxtVlJYaGVyckhnektzd0k2NlVJbTlHUm1vZ29BUE05T01BN25KU2xybDFNLWlNdjhCUHJ4MFRNLU5aUkpjTGVYZFJ4ak9PSlZMVUJBMGRwUWdSNi1FdTI5NEQ?oc=5",
+   "t": "再エネもガス発電所も建てやすく、手続き簡素化へ米新法案"
+  },
+  "96d668fa": {
+   "s": "JBpress",
+   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iSTJuZ0hnM3BsWUVVLUZzVjQwS21xU0hYcFMtMlMwbjlkODItWEpyeW8temhPb3JXbmlOdUxjX1dnZjBtS2JrdmhnZzRFYXJ5bWFJRURPSDBBSjJLZ1Bn?oc=5",
+   "t": "トランプ政権に逆らい「脱炭素化」進める米国の州政府・企業、だがAIデータセンター急増が招く新たな化石燃料依存(4/5)"
+  },
+  "579cd5f6": {
+   "s": "Chicago Tribune",
+   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzNDUHp5aVpRaTYxXzgzUWJvdlRnREstckl6U2F1MWFENHNPdVItNkZTYnZNSXJPbVNuSzVnSng3UGtGOW9sM1ZlbzRLdTFCWklGaHdscmtxMk5uM05DQTZRU2VtNFlwZVZIYnhoVWx3N1lMRTNlUlhXbXlGNVowUw?oc=5",
+   "t": "As demand soars, ComEd redefining what an electricity grid should be"
+  },
+  "4e6058e5": {
+   "s": "Dellows News",
+   "u": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNa2dUTWJwNUlPZmtJd3d4V1NyNVpkSjNzTlZUMjduWUtRTngzN1Z2T25IakkwXzRvcXBhZHNGUktnLWplSGVz?oc=5",
+   "t": "AIデータセンター電力インフラ市場、2034年に307億米ドルへ拡大予測"
+  },
+  "39d53749": {
+   "s": "GreentechLead",
+   "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRDZTb002TFRlSUJwZXllMVdQeVRseVBJZy1YYzByTVdPdHJaQUJDeTBkSUY3ZU11VkRoWmkxeGxTUXBZZ2pYREpuLWtzU3p3RkRONjJKN2lzWnp4b2dFc3c2aXNrQWg0aVlRcFV1THVWMExIU1hQRTFSWXBIUzRLQTFfSG81TExMaHo4T0pfVnhETW9jOXRHcUpYWFNCZXpWOWpXRVNDOEdPY0ZiemRLSzR5SjdTZEs3a24wSTNDT1l5M1QzSnktVw?oc=5",
+   "t": "COP31 Electrification Target Exposes $480 Billion Annual Power Grid Investment Gap by 2035"
+  },
+  "4595a895": {
+   "s": "BigGo ファイナンス",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wV0hPNk4xODZFeFZKdDFtTUw2R29CZERRWV9iR2FtTlhMV29iai12Z0dmR1JHWVlvNDFLR29fNk5Zak5sYTBMbHBlLWFic09lY0doTklCb2UtUGQ2T1o2dndVNThxMnIzZnVza2xLdVBUM0Zh?oc=5",
+   "t": "韓国サムスンSDIとLGエナジーソリューション、ラスベガスRE+ 2026でAIデータセンター向けESSで激突"
+  },
+  "4b72e738": {
+   "s": "IEEE Spectrum",
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YVFB2Y2U0dXdsRmx4QzgzSUJFdmVVZGw1dXh1QWdjeC0ybTN2cGNWNHVCbTZRcHZJUnlnVTlmV3hkYmV1OG9rRjZaS1FjMldST1lrRXYxZ0dNaHBKWkEzMGxNRlFaTGJlNjdSdl9R?oc=5",
+   "t": "Want an Energy-Efficient Data Center? Build It Underwater"
+  },
+  "1ba455a3": {
+   "s": "Yahoo Tech",
+   "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcXdlRGxaZlVhY25XeFZ1ajBoRVFYX0JTdHM4aUFXVGg2U0c5NlRQRm1NZjM5VHV3a0F6eEIyZWp2TGZPXzJGYUVSbHcwSXl3dm9vaEtfajZfbktLTmFySjh5b2ViYjIzN2lVSll0Y3dHc2ZaUXpWemozNFJ4enVELWpWSDBsUQ?oc=5",
+   "t": "AI companies look to the ocean as a place to put more data centers"
+  },
+  "84316625": {
+   "s": "뉴스핌",
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12ZUFWUzZLWGFvV1QxQmdTdE9zcXBoMjBOZzgtaGVZaEZ1UVlQZHpGQUlwaDBSSjRCMENwdEFzQmlDSWFDemJnY3VsUy0tdUhvbUluNnJ0RktKd1Bx?oc=5",
+   "t": "[중국 특징주] 나이키 공급업체 '화리공업', 광통신 기업 인수로 사업 다각화"
+  },
+  "941b9a28": {
+   "s": "MarketScale",
+   "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWN3XzlERGVSbWx1YkU4LXNyanJNTndWeTZFTTlobWFoYjUzNnRIeEwtUHFWYnBKVUNXQ09tWXUzX1lFNE1fXzFJdmRESm83MlE2QjF5T01saHh6QlhOeWtQaUZCX1dPTmVabmxEdUpGOXVaWUczbHM0TkhWNl8zS1VZRXRwMDRNWEtSZEt3VE9MeWwxdklhaE14S3ZzR19KS1E?oc=5",
+   "t": "Photonic AI hardware is now in outside testers' hands"
+  },
+  "b6ebbe2b": {
+   "s": "비건뉴스",
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Mb2tFUG8yOXdQZlpkTGs3clRDN2FzV24xdmMtd0pnSmRRejJZNS1veEpvclJQRkpsRVJsdDZ1Q01ockpTZTJ5eWd6NHMzMFBQS1FEX0ROYnNLR0p6QVZUMXRZTy1ZQQ?oc=5",
+   "t": "대한광통신 3분기 영업익 29억원…전년 적자서 흑자 전환"
+  },
+  "1c398c6b": {
+   "s": "ad-hoc-news.de",
+   "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWXNYaTZhYUlWSzFFb0VVWWlCd3RnVHpxd0VhQjVtZWNETU1SaGRlLWt0SzRnOVA1ZVV2a3dlajcxTndNZG9mcjR4Q2pMQ2FvQUFuUkFUYW9CNWp4dkIyUmNHM0pJQVZNU1dvVEhGTjBwSEN0YlNaREtCQmo0S3dMUWRfcjVCdmRvRTB4cmZGamhNNGdES3hfQ1dNV0dwLXNLR3VxZUdNMFdwaEJFX0pyb0ptSTlDRkNtMW9jZy1xNGJFRExNWHNJaFdiemY0U3NSQnkzcEE4ZHFZTS01MVNOTA?oc=5",
+   "t": "Sivers Semiconductors Pivots to AI Data Centers as Shares Slip in Chip Rout"
+  },
+  "bba5ab07": {
+   "s": "웹이코노미",
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KVGpMSHVzcGJxYXVjczM3ZFRweVdkaG9od01HelVYUGJoN0lCQ3l2NDlrTjlIZC1yUTZKU190aHRmZnRmaGNpcnNUVW94ejY5SEQzTk15aGZoYUdYVy1Ob0l2eENuUXZ1dkNTX09idXF6dw?oc=5",
+   "t": "차세대 광통신 소재 바륨 타이타네이트의 빛 특성 정밀 규명"
+  },
+  "27efad67": {
+   "s": "에너지안전신문",
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4UlJHdUhwRGcyaVU4dFZGSmgzWGhJRVgyZGJzWjN2bG4xcDM1eE1wY3hNTmp5ZWFnUkxreTlkcWdyeGxrZnZzY1dQa3MtRWFlcUpiV3V4X1l6SGhFYnF0Z0MzUkI?oc=5",
+   "t": "오클로·센트러스, 메타 데이터센터용 SMR 5기 핵연료 계약 확정"
+  },
+  "4e49d09d": {
+   "s": "팍스경제TV",
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtZ013ZnVTcEUwRlY1d2NzbzlqNHU1SmdMTlJNWl9WamIxYjBPWGNTTlUyMUVVbDg2NFB1ZDBGSlNrU3pZRzN2NE5zY05xOUVWQ192eS1NYzE1MHhQdkVzLU1QaUtWRjdH?oc=5",
+   "t": "두산에너빌리티, 발전사 초청 기술교류회···AI 설비 진단 기술 공유"
+  },
+  "f3cfb76e": {
+   "s": "자본시장뉴스",
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80SHM4N245eHRjSmYyRm9EWHdOQlpjbjN6TFE0cEZVZTlFV3dIUzZMMnNBc3J3YlJYRUZ1ckFvLTJiZ1ZIeXNwVDhFOVZ2LTdaMFJPYi1YWVNFU1A5N3VmSnRrQW52MFk?oc=5",
+   "t": "두산에너빌리티 AI로 발전설비 관리…고장 미리 잡는다"
+  },
+  "d4012cbd": {
+   "s": "아주경제",
+   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sdVlpSTJJM1lQdDhkR2l2WThnaFlDb2c5dVd6N0NCNExuaEhxa0ptYVp6bEtUd3NJTkFFd0VwRmRIeHVKTnUtbmFMSWFHZDVIQmY0Rm1EeHbSAVhBVV95cUxNbHVZaUkySTNZUHQ4ZEdpdlk4Z2hZQ29nOXVXejdDQjRMbmhIcWtKbWFaemxLVHdzSU5BRXdFcEZkSHh1Sk51LW5hTElhR2Q1SEJmNEZtRHh2?oc=5",
+   "t": "삼성·현대 독주 속 중견 건설사 각자도생…DC·SMR·LNG로 먹거리"
+  },
+  "6a8c4e60": {
+   "s": "디일렉",
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yQXZZR2ZkcTQwVjI4SDJCZC1EYXhJWF9EWnVyUjBDVGt4eEhLNDlhTEFHZ0RsM2ZfUVJOSlozN09yb2ZPd29OampiVllCRVoxbXBnYmVUWEZXV2JIWEhLY0l1WjlIQQ?oc=5",
+   "t": "두산에너빌리티, 발전사와 AI 기반 설비 운영 기술 공유"
+  },
+  "5f7b99a4": {
+   "s": "NEWSつくば",
+   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LclVnVUZDN3FIUDhKS0JIVXdwUElvNTJHbk1nVFgzMTFXYXlTV2lQREJrQkl6TjNzVXVRRHN5Y1JnUjMxQ3VGamF5SQ?oc=5",
+   "t": "未知数の核融合ではなく、東海第2の廃止措置を《黄昏の原子力》2"
+  },
+  "f82ac8df": {
+   "s": "에너지안전신문",
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IMkYyWVlaNW9iY2dkdmxSdVhEWVFUa2ZqSDJKdjhCWGFHeHM1Z0s4aG1EUUpqUUxWNXRMaV9TNllmNk01YmRGYkNXTlZ1YUtHLVBoRTFDTFVzSlM0SklwZUVZUm0?oc=5",
+   "t": "영국 원전 인력 10만명 돌파, 한국 ‘기술 대물림’ 골든타임 잡아야"
+  },
+  "2a7f7cc3": {
+   "s": "에너지안전신문",
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfTVNPaEFHb0FHT1NXeDBFbW5LSGZ2QnpBTEk5amhhS0pUQl9tbENrMlpEQk1qYlZHS002TS1JQngweWdmTXNmODdpNXc5QXRlbHRGU2tOZ185TUFVUmdDRy1pQ2Q?oc=5",
+   "t": "영국 원전 인력 10만명 돌파, 신규 채용 늘어도 숙련인력 부족"
+  },
+  "54dc5191": {
+   "s": "EnergyNow.com",
+   "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWnVidU1kZmN4WUpncWF6UDhmUDllNmtoNUlkejdSbV80bmFDemRxRHp0b0hEbmZwMkU0UFp0RWtvSUx3NDB4SUI1TEFDUlpzY3hzamU2R2lYbXBaaVpSd29ENnZENVBrZVFZX3JkREF2WDRXVXppYTJDVkJnc1QydjIwNVBSYkZ3WkE0U2gwVkJTcE5zR0JSbVI5OW85YzA?oc=5",
+   "t": "Buyout Firm ECP to Re-Acquire Nuclear Services Firm EnergySolutions"
+  },
+  "078ecf48": {
+   "s": "shattered.io",
+   "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX2NTNENTUmJielNBYmpQWTRsQ05jN0YtYW1Td3NwM1BNUkdoTFljZnh4ZmxTdk9ZTWtzZGsxVnRoVkpzbUFNWFJkZDFVbDhtOWgwVkR2OEpkcHlLVU9WbFc1cWJsb0lYZVVmeGJnZWZOYjRvRHUzQkJQLTdwSFZPcGloaDZlUG1KSFR6NV9TOTBVM2hQWVlyMGdR?oc=5",
+   "t": "E.ON Eyes Ex-Nuclear Sites for Data Centres, 0 Named"
+  },
+  "98e0a965": {
+   "s": "UA.NEWS",
+   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2ctOThlc040SDQ0YXRVMG1Pb1MxYjNlUWYxaWp2RmxQcG9LaDRjZUtYWEFXd1ZBUV9kVVN3ZlRYNDA1SVdRRVBtWU92Z2Y4ZFFNVnR0YVpzM09RcVViM2Q0Z2tEblpGSnl6WWpYNExva0ZsMWdEUjlaaHlZak5UM1RTMDhlclRla3h4cGJ0MWRUT2otRDNLQlFROXZWLUM1dFNVdmowT0NwVUFhWEZDMQ?oc=5",
+   "t": "126 fuel assemblies removed from Fukushima No. 1 reactor No. 2 — The Japan Times"
+  },
+  "666b31a4": {
+   "s": "The Japan Times",
+   "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNUxwdFJYRjY4RG8yREw0UHk2TXkyaDlvMmJHM0RBU3phZE04NDFyb0tNckxwTGVfTEotSmVTWFlhaVphTVNLR001dHB5SnNJSF9taG9WaW92MDAwclA1MFctZ3hrbndzMGpjS1B3WmtXYmwwVy1aRlBCekJGSDlraDNsMl84aTQ?oc=5",
+   "t": "Fuel removal at Fukushima No. 2 reactor proceeding smoothly"
+  },
+  "91b8e6e3": {
+   "s": "New York Post",
+   "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSk9nSjdzdVUwUzJmYlZJRldjSV9WSVVWTDBkYVFuNlp3VEpQMW9fX2JUNWNySGN2YkZxX08zQ0NvbzJGMDNzTF9ZVTZIWWtHam9DRV9GX18xeFk3STVyaVZoU1FlSmRURkN3aUlSWEh0MmgyMlB1aW5mMEJ1aWN4UGpZaXg1eDJkaDAyUWxDdkhOOWVQcmZDblZ4bzJaOHJCbGZqZWNLSXJxd1ZkQTBmM2UwTkRmMzVOaUJ3ZmV3?oc=5",
+   "t": "California is clueless about what comes next after iconic nuclear plant demolition"
+  },
+  "8f50c9be": {
+   "s": "EcoPortal.net",
+   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51YkNpd01yZ3FqVV9rcUdueVlmRkxxZUY1aWd0R1ViNjRXc2lvRG5uVmdKY0dsc0M2NExjclUtY0k4OXFJVldrMUp0U0QxX01GQjBhR285cU5fVWJCUFZaT0Z2YUxPbUpXbUtobmtGUmhuc0xKVUM0ZC1OSUVGVDA?oc=5",
+   "t": "German wind farm replaces six turbines with four designed to generate five times more electricity, repurposing old blades as noise barriers"
+  },
+  "0d9ad42f": {
+   "s": "EcoPortal.net",
+   "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oWklRdVBCSkE5SFdqdXU4MkJEUUpGQVlHeFdBQmJjTHdGZXJGSEV1dExGX0UxZi01Q21OYjY2RkY4aHN5OXBNajdES3NZOVJyMXd3dWg2VEZ4cUJWUzdPZktobTVpUEhpd1JCYWJLMHpISy1KN3k1U21n?oc=5",
+   "t": "A blade frozen and thawed for 10 days splits apart into glass fiber and resin, which keeps 96 percent of its strength intact"
+  },
+  "9c26876e": {
+   "s": "Noticias Ambientales",
+   "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV3B4YXh5cEllc3pvUW01VUNSVkZ5YjlLYW5JWElCV0pEWFB1dDNFSmZ5dDJPNVVoaDlFa01vMnJKbVBLUVdabWR3c1BVNVVfSTNtckNOcE83TG9BLVZzLU45cmpHRkdzeG56UGtwT1MtSFRWU2tTd3ltaWdwcU1tcGN2VjdtRTBWel9sM3FnQVNEMHhJQ29aRzk0YVZiMXpmNVEzbzY2bTNmOUc3bDRTZVoyOTdjMjFtRmxQVG9aR3VFZXBNMm1uTXo4dlB2Nm1OTkV0ZHU0dVlKTVVib3hZb2U4RzBzanV3VTlJR9IB7AFBVV95cUxPV3B4YXh5cEllc3pvUW01VUNSVkZ5YjlLYW5JWElCV0pEWFB1dDNFSmZ5dDJPNVVoaDlFa01vMnJKbVBLUVdabWR3c1BVNVVfSTNtckNOcE83TG9BLVZzLU45cmpHRkdzeG56UGtwT1MtSFRWU2tTd3ltaWdwcU1tcGN2VjdtRTBWel9sM3FnQVNEMHhJQ29aRzk0YVZiMXpmNVEzbzY2bTNmOUc3bDRTZVoyOTdjMjFtRmxQVG9aR3VFZXBNMm1uTXo4dlB2Nm1OTkV0ZHU0dVlKTVVib3hZb2U4RzBzanV3VTlJRw?oc=5",
+   "t": "Scientists develop technology to convert used wind turbine blades into graphene and high-value materials"
+  },
+  "5f2685ce": {
+   "s": "Українські Національні Новини (УНН)",
+   "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeUFKSVU3dHp1cGhWV2l6WG92VmYzOHJyNkhUVENNUVRBcDFsUm55SHB0dFAzczBYMWhWbkJaUXMtQWtGLW4xWTY4MUJSUDZBb0VteTZPcnFlWHJDcU9mNGxXOHJUaGtfYzFZRVNoYkU5bTVTcVM0OUlQVFlSekZWN0JvTFBESWU1RU8zdXRMNkdQRWkzSmVoOGNFWUpHN0FXT1hROFBFMng1WWJ0TUVXdzEzZXBpV2VfMnZUbzFVc1I1S01FNk5feHA4Sll6OFVwRFczU1dDY0lFd9IB2gFBVV95cUxQeUFKSVU3dHp1cGhWV2l6WG92VmYzOHJyNkhUVENNUVRBcDFsUm55SHB0dFAzczBYMWhWbkJaUXMtQWtGLW4xWTY4MUJSUDZBb0VteTZPcnFlWHJDcU9mNGxXOHJUaGtfYzFZRVNoYkU5bTVTcVM0OUlQVFlSekZWN0JvTFBESWU1RU8zdXRMNkdQRWkzSmVoOGNFWUpHN0FXT1hROFBFMng1WWJ0TUVXdzEzZXBpV2VfMnZUbzFVc1I1S01FNk5feHA4Sll6OFVwRFczU1dDY0lFdw?oc=5",
+   "t": "Ukraine and the EU are preparing an emergency winter aid package in response to Russian strikes on energy infrastructure"
+  },
+  "04e2fa8d": {
+   "s": "PYMNTS.com",
+   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWW43T0FudzBOQTJscHpPenZ1NnlpWDFCWVQtR2JpVEJFZzRiYlhfRmNsZXplTVloUTNzMGlaY1didDNPbDczWkt0U2ExLU9MWDk3dkF2VDZqamZEYlBoTlI4YjJHYkUzSlNySkJ0RmpxVWZUc0xsRnNjU01VaV8ybnk3djdYdDZmcllHX1V1Rm0xT0hiZWxyN0cwcEM0dVlMcTE0VTFZZFVuUQ?oc=5",
+   "t": "CPI | EU Escalates Antitrust Case Against Greece’s PPC Over Electricity Pricing"
+  },
+  "4b4e5223": {
+   "s": "logos-pres.md",
+   "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0xpU09kWmlfQTB0NkR4Um5vRkhWeFVSbmVCY3RMRnRNV0dBS0g1eUhXSUhuQk5NRjBwNE9NbHJ2SUItblp6RFNGdG9iY1E5aHNkYTFEelN4TVlYY0dJa2ZZaGg0TExkVzU5SFdxejJ1blFIQWQxNlozS0lBVmFQcHVqaUZ3TWZtdklVMmVwR2oxRTkzbERvREN1d2NKQzhoSlhlQzFhTE1PNDNCUDRZcUltUC01NGM?oc=5",
+   "t": "Moldova Prioritizes Power Links, Energy Storage and Digitalization"
+  },
+  "29b2c7bf": {
+   "s": "EnergyNow",
+   "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb2RVWUZlUl9QTG1hc2hibHBHeklIb0lJUWRHQ3JCem9HdGNVME9mcDJIYUN2YTRpQkowVmFzRVQ5Y0NfTG5OVTJJQlJDcVFfczNRcGNabGZMU0FLbl90Z25qeHo3LWZtS2YtbkFNWHhuY29iWFNLTExzbkZmT1VxYlJUNzVpUDNqdU5uTjY0Y2VWWkI0b25iamhEbDBuc0Qw?oc=5",
+   "t": "Europe Scales Back Climate Goals to Ease Iran War Energy Shock: Bousso"
+  },
+  "432e8388": {
+   "s": "Atlantic Council",
+   "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQenlVOGluaHNRbjFjdmFXdnpzSU4zZTZCQXZSYThCeHBkQVo3cmlGWTZtZHYxYThJZTZWSjE0djhxQkxCVEkwMEYwb1lscjRKWVExWnJkcUFYaEJkazdMbGdfVFN1dDBlNUVIcUNtN2VWWmhMUmY3UFVJLUNjTV9TcVgyLXVnM050cUZzOHRiM0RzVWMtN3hsbmxJZUNGc09yNjV0MWpGZXc2VGRCSzZGdkwtSzhqQ1lDMDg4bWg0TjZVenFZS3B2T01xWVJwMTJsSXd4ak1Na191YmVTVFZoXzktdk9qQi02Z04yMG53ZVVrV2ViQng3cg?oc=5",
+   "t": "A new vision for the Vertical Corridor: European energy security through infrastructure optimization"
+  },
+  "aeaf236f": {
+   "s": "tovima.com",
+   "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM3JSUDBZbmdrMVB0X29EQlRTVmNFMnphcnVDY0tCd1pQYllta3FlZ3JxYWV1QzVHN0RYMHI3STZENnYybU1aTFdfdEZCalItWHdIU3NQRGVGY2FWZHlCWTdQY1g4SDJKWGxGVTFzeFVBMk5ROWdIcEpDWVpEajFVNldVakZOc2xHaXl1UTZQd1RIMmZfOW9haGdn0gGfAUFVX3lxTE9ZbVBiUnZWc25zbC14eWdNT1I0cmtGVWc0bWpyYldoYjhGRmhtRGg0MFpUUGxYUlU0NzJxVjMxbEdIMEJyTWtiVVhlNjRhaG02MTMxN2xQSHJVVTlCRktXcTJmb01hTWppVDJGV3VUQXVGV1NUa0VTYTg3X2hseFN4T1BsZnI1NXEtSmEwUjNLY25kY3ctbGp5Ykd0STV0TQ?oc=5",
+   "t": "Greek Industry Seeks EU Aid as Energy Costs Threaten Companies"
+  },
+  "3a803bce": {
+   "s": "Energy Connects",
+   "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXVSVWNRVXMzRmtqWXZmZURwOXplRlF2UURmUGM2cl9yR0hXaC1nUDZ2SUdkMURuWm9ISm1JaWgzUm11NUlyYi1TS2hfRzZYbWptVC1XSmhJX2tYU3p4NjQ0QmZmOEhaOXI3NTFUdlIzQ3RUM1JtRnV2MDg2RVNXVUcxSWxmR3FCbVJoSE5GRmdfcVFEQjNOQjRPQjB3UlFZS2haV0Vtak56UWl5M0lDbTNqT3Q0MUplam40OEpqUmVWUQ?oc=5",
+   "t": "Ireland’s Data-Center Lawsuit Puts Energy Policy Under Scrutiny"
+  },
+  "88d00828": {
+   "s": "Hydrogen Central",
+   "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd195dzVDVzY2ZjhrT3lpY21hemNPVVRSMEhtRlhlemNVLXViSmtpdVE3YmZKUFNvVUMxa0Ewd1NBSkFjdnZ0YUZLMW1pMXpKaGpkVy1GT2J3Ul9fLXozcUx4M1NFbGt5Qm9sSTJhVWR3d3VJRzJvYnZ6N281bTV4NmpuQlRMMndVbmZtVTRvWTVKODcyaTNidGw4cDRSRHhUVEkxQklZczg2RVppTzhadmkzVi11TmJ4X2ZZUFNUUk5odHhCVEt2SkFIal9mbko5MkpLNFZCNzVnUVpRbTF0eEdmVEY?oc=5",
+   "t": "Loughborough researcher awarded prestigious Royal Academy of Engineering Fellowship to advance green hydrogen production"
+  },
+  "ff1de9a9": {
+   "s": "Rigzone",
+   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2FtTWVFRnQtNkVldnctWXJGZUZtY1AxdjdDSDZTZ1lsRF9KclJEYWstOUtlUlpLNTdoR1dLUjZFNHZoaWVDakhKZWtEZE5SUkIzWWxqS3NTcUE5ZzY0RFpDMlpBR2t5QnAzMDhSRksyUGZTMGpnOExERElEVzR1aUxIMWlQRlpSMTl5eVhQVF85NHlXRndpMmpoT0U0aUhvTlZfcWhvZV9ZY29UVlFYZE1R?oc=5",
+   "t": "Repsol Approves 150 MW Tarragona Green Hydrogen Project"
+  },
+  "a8763139": {
+   "s": "지금제주",
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13d3JSdjh5emY4YUpkc0hrYmhBSndxMFYtdlRETnVJRHNGMVJpYTdNWEZSYmVQbXV5QnZKX3NEQUZWVUF1ajNsTmM4MXhOaWZQZ3VobnhVbTlSLWNGS2FEenVLcXhZSHZEVGlPTGZR?oc=5",
+   "t": "제주에너지공사, 재생에너지 변동에 대응하는 하이브리드 수전해 기술개발 본격 착수"
+  },
+  "c87059b4": {
+   "s": "제민일보",
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QT0Zrek9kbS03b3NyTTdRQ3R0S2RhTFJnRVZXU2dYZjNrWmlXanVDVEU5b2NyZlo3c1JxRFhYV1BWQk1FTHlpTUpELXRMdGc5Zk9TTVg0M25Ca29IcVE3M1BzemZZc0U?oc=5",
+   "t": "재생에너지 변동 대응 하이브리드 수전해 기술개발 본격"
+  },
+  "38bb9e0c": {
+   "s": "뉴시스",
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwN3VYclVNVVVkMDc0cElBNUlrcXBzMVhFUmRUcGwzR083Q1E0YzFERHNSRkVqRW82UnVIdUdMNHVDN2JZTlQwS2tSaHNyV20zeExjMWJBV2VGTzhBNC1UWmtmd0tDbVAzUjBGaHRqT2w0dnVUZW1FedIBeEFVX3lxTFBwN3VYclVNVVVkMDc0cElBNUlrcXBzMVhFUmRUcGwzR083Q1E0YzFERHNSRkVqRW82UnVIdUdMNHVDN2JZTlQwS2tSaHNyV20zeExjMWJBV2VGTzhBNC1UWmtmd0tDbVAzUjBGaHRqT2w0dnVUZW1FeQ?oc=5",
+   "t": "탄소 대신 물 배출하는 '친환경 쇳물'…K철강, 탈석탄 가속 [K수소, 녹색성장의 판을 바꾸다]"
+  },
+  "03ed22c3": {
+   "s": "JBpress",
+   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tVXBuSVU5eWJkNWwzek9lRUQ2dGE1Si1vTkZFcVBKbEdjSzAxZEhCY2N5SVFETDYtSTdFOHdFUVprMGJKeDE1dldEazVldndGcmc4SW1nRkF0MU90T2Nj?oc=5",
+   "t": "トランプ政権に逆らい「脱炭素化」進める米国の州政府・企業、だがAIデータセンター急増が招く新たな化石燃料依存(5/5)"
+  },
+  "7653dca7": {
+   "s": "BigGo ファイナンス",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Mc2NpTXQ2aW1jaHBNaUdvcG5sN2U4dWNNMUdfX3htNHhrbWN0dGdYX3dXQ01UMzdsZE1CWmtjVC1FQjdnSkRjdm5SSDhZNVB6UnVCeHBLVF9pRzZGMkZFZ2hqVHJ0cEdpYW5MVmY5M3JJbHM2?oc=5",
+   "t": "パラグアイ、仮想通貨採掘向け割安電力契約を27年末で終了へ AI需要と競合"
+  },
+  "f6118036": {
+   "s": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81WEMyOG0zOWtRVXZuMEdUMnh5Z196RkQtN1lqZlN2TnlNTlp0c1pmYjl2aW5QWk9ENmNaUnotSnZBX3JhLXBjVE9ad2xPR1huNFY3SEt6UlJtWFQxVWZ1TGYwQ0hNUkVGeTE2UHlHZC0?oc=5",
+   "t": "アイルランドのAIデータセンター急増、電力需要めぐり法的挑戦に直面"
+  },
+  "6e806566": {
+   "s": "山陽新聞",
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KUmlfYkM4ZnhrWGp1RUo2d2toRDJwRFFuNEtCTl9LU0xqYU1nd2luWGJQVHRuUGRQNkliVUFwYlctQmxKVFFweU5YUGxiaUhwR1hiTE5GZUotUQ?oc=5",
+   "t": "米、火力発電所の排出規制撤廃 温暖化防止の目標実現困難に"
+  },
+  "838e120a": {
+   "s": "週刊金曜日",
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHalRFekJIMldVejZtY1hFdjFLWVFTcnhzMllYeDRlczR1aHg1OXRIcTBfd09lQUpPWmxMaUZnUC1sRXpjdGI0OW5YRl95a0JjSUNyV3hITllNeXJ4V1ctd0xTOXY4ZmlJQWtzOGZn?oc=5",
+   "t": "柏崎刈羽運転差止仮処分、第２回弁論 「次回大地震は1000年後」との東電主張に反論"
+  },
+  "9648ac79": {
+   "s": "Vietnam.vn",
+   "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0RwTzdqVTFzMHZQc2phNkFUeUc2Q3pObS1COTV5X3FTVlRkMjdQQVJEWWVNTUZ3M2JWNjRzUWRvNDVhUDBhZEhTNmxVdklqMTgzeTRHU3lpa2ZGcGxtZU14d19OODJMWW45NW9OUWsySTFiWm5EX3dNYUdORFFiY0V5ek1zdi1ZaVJjdw?oc=5",
+   "t": "原子力発電の需要急増に伴い、ウラン価格が過去最高値を記録した。"
+  }
+ }
+}
