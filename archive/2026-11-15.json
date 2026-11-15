@@ -1,8 +1,8 @@
 {
  "date": "2026-11-15",
- "generated_at": "2026-11-15T15:43+09:00",
+ "generated_at": "2026-11-15T15:55+09:00",
  "n_news": 73,
- "fallback": "LLM 요약 실패(JSONDecodeError) — 헤드라인만 표시",
+ "fallback": "LLM 요약 실패(BadRequestError) — 헤드라인만 표시",
  "top3": [],
  "sections": [
   {
