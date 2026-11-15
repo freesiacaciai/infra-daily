@@ -13,7 +13,7 @@ newsletter:
 llm:
   model: "claude-sonnet-5-5"
   max_tokens: 8000
-  max_items_to_llm: 120     # LLM에 넘길 최대 기사 수
+  max_items_to_llm: 150     # LLM에 넘길 최대 기사 수
 
 # 토픽별 Google News RSS 검색어. lang: ko / ja / en
 # 검색어는 Google 검색 문법 그대로 (OR, "정확한 구문", -제외어)
@@ -40,6 +40,18 @@ topics:
       - { q: '가스터빈 OR SMR 수주', lang: ko }
       - { q: 'gas turbine order data center OR gas turbine backlog', lang: en }
       - { q: 'ガスタービン 受注', lang: ja }
+  - name: "원전 해체"
+    max_items: 15
+    queries:
+      - { q: '원전 해체 OR 고리1호기 해체 OR 원전해체 산업', lang: ko }
+      - { q: 'nuclear decommissioning OR reactor decommissioning', lang: en }
+      - { q: '廃炉 原発 OR 原子力 廃止措置', lang: ja }
+  - name: "풍력 재활용"
+    max_items: 10
+    queries:
+      - { q: '풍력 블레이드 재활용 OR 풍력발전기 재활용', lang: ko }
+      - { q: 'wind turbine blade recycling OR wind turbine recycling', lang: en }
+      - { q: '風車 ブレード リサイクル OR 風力発電 リサイクル', lang: ja }
   - name: "유럽 에너지정책"
     max_items: 15
     queries:
