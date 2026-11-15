@@ -1,0 +1,647 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T15:43+09:00",
+ "n_news": 73,
+ "fallback": "LLM 요약 실패(JSONDecodeError) — 헤드라인만 표시",
+ "top3": [],
+ "sections": [
+  {
+   "topic": "전력·그리드",
+   "points": [
+    {
+     "text": "韓国サムスンSDIとLGエナジーソリューション、ラスベガスRE+ 2026でAIデータセンター向けESSで激突",
+     "refs": [
+      "4595a895"
+     ]
+    },
+    {
+     "text": "일진전기 영업이익 98% 폭증…북미 변압기 수주가 바꾼 실적",
+     "refs": [
+      "fb281d33"
+     ]
+    },
+    {
+     "text": "データセンターの拡大に「よりスマートなエネルギー管理」が不可欠な理由",
+     "refs": [
+      "2a6ee82c"
+     ]
+    },
+    {
+     "text": "密輸対策のチップ位置確認は可能、エヌビディアが議員に非公開で説明",
+     "refs": [
+      "31df0f99"
+     ]
+    },
+    {
+     "text": "SLB(SLB)의 시추 계약 수주가 투자 전망을 바꿔놓았다",
+     "refs": [
+      "b055d198"
+     ]
+    },
+    {
+     "text": "용어 설명에서 상세 정보로 이어지는 빨간모자와 늑대",
+     "refs": [
+      "d8bbe8c1"
+     ]
+    },
+    {
+     "text": "「ファンと共に去りぬ」の現実味 AIデータセンター過熱投資に一穴",
+     "refs": [
+      "3564c3ad"
+     ]
+    },
+    {
+     "text": "체코, 전력망 현대화·AI 데이터센터 투자 확대…전력기자재 시장 '활기'",
+     "refs": [
+      "5452bec3"
+     ]
+    },
+    {
+     "text": "シースボンディングトランス市場2035年予測：系統更新と再生可能エネルギーが需要を牽引 - ニュースと統計",
+     "refs": [
+      "e522ebba"
+     ]
+    },
+    {
+     "text": "スペースX、AI計算拠点に740億ドル超を計画―電源・冷却設計と12月の地元審議",
+     "refs": [
+      "0e980e8d"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "데이터센터 냉각",
+   "points": [
+    {
+     "text": "[DC KOREA 2026] 센추리산업, TICA ‘AI 데이터센터 냉각 솔루션’ 선보여",
+     "refs": [
+      "ffe66247"
+     ]
+    },
+    {
+     "text": "[DC KOREA 2026] 이머스쿨, ‘CDU와 서버 사이’ 잇는 맞춤형 랙 매니폴드",
+     "refs": [
+      "db1f681b"
+     ]
+    },
+    {
+     "text": "[DC KOREA 2026] 데우스, 전력·냉각·IT 통합한 모듈형 ‘AI 엣지 큐브’ 첫 공개",
+     "refs": [
+      "1536f1c4"
+     ]
+    },
+    {
+     "text": "[DC KOREA 2026] GST, AI 데이터센터 대응 액침·직접액체냉각 장비 4종 공개",
+     "refs": [
+      "c5869ef7"
+     ]
+    },
+    {
+     "text": "[통신] KT 품질만족지수 3개 부문 1위, LG유플러스 액체냉각 표준 개발·IPTV 평가 1위…SKT 뮤지컬 초청 행사",
+     "refs": [
+      "40d625e4"
+     ]
+    },
+    {
+     "text": "Data Centers",
+     "refs": [
+      "06fbb1a8"
+     ]
+    },
+    {
+     "text": "Digital Realty Trust boosts Japan data center investment by $10B",
+     "refs": [
+      "606c5248"
+     ]
+    },
+    {
+     "text": "AI Data Centers: CEO Janine Yorio to Help Neighbors Share in the Profits",
+     "refs": [
+      "7ef97962"
+     ]
+    },
+    {
+     "text": "LG유플러스, AI 토큰 사업 내년 본격 시동",
+     "refs": [
+      "7b74437e"
+     ]
+    },
+    {
+     "text": "Axelera AI Unveils Titania, Aiming to Run 1.6-Trillion-Parameter AI Models on a Single Air-Cooled Server",
+     "refs": [
+      "8d8f37f0"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "광통신",
+   "points": [
+    {
+     "text": "차세대 광통신 소재 바륨 타이타네이트의 빛 특성 정밀 규명",
+     "refs": [
+      "bba5ab07"
+     ]
+    },
+    {
+     "text": "Vuzix Earnings Call Highlights Causeway Growth Amid Losses",
+     "refs": [
+      "77d07d7b"
+     ]
+    },
+    {
+     "text": "'블루웨이브 쇼크'에도 일주일새 32% '쑥'...든든한 ETF는? - 머니투데이",
+     "refs": [
+      "53bc73f8"
+     ]
+    },
+    {
+     "text": "인공지능 경쟁과 공급망 보안 문제.",
+     "refs": [
+      "6ee18150"
+     ]
+    },
+    {
+     "text": "TE Connectivity plans New York optics facility with more than 860 jobs",
+     "refs": [
+      "3827fe06"
+     ]
+    },
+    {
+     "text": "Coherent stock faces mixed analyst targets after AI outlook",
+     "refs": [
+      "e46ce97c"
+     ]
+    },
+    {
+     "text": "Wanma Technology (300698.SZ): Currently not involved in thermal management solutions for optical modules or co-packaged optics.",
+     "refs": [
+      "0601f313"
+     ]
+    },
+    {
+     "text": "TTM Technologies And 2 AI Infrastructure Stocks To Own",
+     "refs": [
+      "012cf235"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "가스터빈·발전",
+   "points": [
+    {
+     "text": "삼성·현대 독주 속 중견 건설사 각자도생…DC·SMR·LNG로 먹거리",
+     "refs": [
+      "d4012cbd"
+     ]
+    },
+    {
+     "text": "두산에너빌리티, 발전사와 AI 기반 설비 운영 기술 공유",
+     "refs": [
+      "6a8c4e60"
+     ]
+    },
+    {
+     "text": "Baker Hughes Earnings Call Signals Strong Growth Ahead",
+     "refs": [
+      "3a1df463"
+     ]
+    },
+    {
+     "text": "三菱重工業(株)【7011】：株価・株式情報",
+     "refs": [
+      "80c2f8e3"
+     ]
+    },
+    {
+     "text": "アングル：ＡＩ電力不足で中古タービン市場過熱、退役ジェットエンジンも転用",
+     "refs": [
+      "10da07bd"
+     ]
+    },
+    {
+     "text": "수익성 끌어올린 박상신 대표…DL이앤씨, 일감 확보에 힘 싣는다",
+     "refs": [
+      "440bfec4"
+     ]
+    },
+    {
+     "text": "Siemens Energy CEO Sees Solid Outlook on Broad Electrification",
+     "refs": [
+      "779345ec"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "유럽 에너지정책",
+   "points": [
+    {
+     "text": "Northland Power Earnings Call Signals Growth and Resilience",
+     "refs": [
+      "5782324c"
+     ]
+    },
+    {
+     "text": "3 European Power Stocks Tied To Rising Hedging And Trading Demand",
+     "refs": [
+      "f890fc26"
+     ]
+    },
+    {
+     "text": "3 European Power Stocks Worth Watching After Electricity Price Spikes",
+     "refs": [
+      "bf85e8a8"
+     ]
+    },
+    {
+     "text": "Electrifying Ambitions Meet Tough Reality in Europe",
+     "refs": [
+      "2742e7e6"
+     ]
+    },
+    {
+     "text": "Ground Fault Protection Market Forecast to 2035: Growth Accelerates on Data Center and Renewable Energy Demand",
+     "refs": [
+      "da1d2e19"
+     ]
+    },
+    {
+     "text": "Traction Transformers Market Forecast to 2035: Rail Electrification and Fleet Modernization Drive Forward Growth",
+     "refs": [
+      "e9d5e87d"
+     ]
+    },
+    {
+     "text": "Two new EU laws EVERY DAY: Burnham prepares to hand power back to Brussels",
+     "refs": [
+      "99c53dbe"
+     ]
+    },
+    {
+     "text": "German Clean Power Reaches Record Output While Sector Coupling Faces Systemic Hurdles",
+     "refs": [
+      "a665eddc"
+     ]
+    },
+    {
+     "text": "Finland Hydrogen-Electric Hybrid Truck Pilot Set for Late 2026 - News and Statistics",
+     "refs": [
+      "9463086f"
+     ]
+    },
+    {
+     "text": "Algeria’s New Economic Map: How Five Powers Are Gaining Ground as France Retreats - Report",
+     "refs": [
+      "a9e1e422"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "일본 수소·전력",
+   "points": [
+    {
+     "text": "電気・水素自動車の予算不足により、市・道のカーボン削減目標が未達 : 社会 : 財経日報",
+     "refs": [
+      "a233945b"
+     ]
+    },
+    {
+     "text": "画像2 / 20＞小池都知事「グリーン水素の経済圏を作り出し、脱炭素化を目指す」山梨県にて国際会議「富士ハイドロジェン・サミット2026」が開催",
+     "refs": [
+      "db4c3655"
+     ]
+    },
+    {
+     "text": "フッ化水素酸用ポンプ市場、2035年まで成長へ―半導体・電池向け化学品需要が下支え - ニュースと統計",
+     "refs": [
+      "129c59a0"
+     ]
+    },
+    {
+     "text": "フィンランド、水素・電気ハイブリッドトラック実証を2026年後半に開始へ - ニュースと統計",
+     "refs": [
+      "fe339302"
+     ]
+    },
+    {
+     "text": "SWITCH-150水素フェリー、米国沿岸警備隊の設計基準合意を取得 - ニュースと統計",
+     "refs": [
+      "9890d8b7"
+     ]
+    },
+    {
+     "text": "Burckhardt Compression部門、半導体用水素圧縮機の受注を獲得 - ニュースと統計",
+     "refs": [
+      "db11a775"
+     ]
+    },
+    {
+     "text": "トゥウェンテ大学の研究者3人がネットワーク・水素・廃熱研究でVidi助成金を獲得",
+     "refs": [
+      "fbb35240"
+     ]
+    },
+    {
+     "text": "HARMONIプロジェクト：セメント向けアンモニア・水素燃料｜インペリアル - ニュースと統計",
+     "refs": [
+      "3f1e1ce9"
+     ]
+    },
+    {
+     "text": "書籍発売：「水素豊富な水 ― 科学と健康」",
+     "refs": [
+      "f57a22cb"
+     ]
+    },
+    {
+     "text": "UCC、コーヒーで新提案 新たな味覚体験へ水素焙煎導入の家庭用製品",
+     "refs": [
+      "47d8243a"
+     ]
+    }
+   ]
+  }
+ ],
+ "watch": [],
+ "refs": {
+  "4595a895": {
+   "s": "BigGo ファイナンス",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wV0hPNk4xODZFeFZKdDFtTUw2R29CZERRWV9iR2FtTlhMV29iai12Z0dmR1JHWVlvNDFLR29fNk5Zak5sYTBMbHBlLWFic09lY0doTklCb2UtUGQ2T1o2dndVNThxMnIzZnVza2xLdVBUM0Zh?oc=5",
+   "t": "韓国サムスンSDIとLGエナジーソリューション、ラスベガスRE+ 2026でAIデータセンター向けESSで激突"
+  },
+  "fb281d33": {
+   "s": "핀포인트뉴스",
+   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50RzlsZzVlR1lDWGlUd3czTUlZWFpHZEhreEVNcGxYT2ZMZ0ljZi11M0wxRzJQY3dLQTJDdlpfOVFRUjdVaElaeXVSNE5SSXBTWWdIUFptVjhoODB0bFJNUkRhSl9wSHYyRkRPZUpmcEJvdVBtMGpv0gF3QVVfeXFMTnRHOWxnNWVHWUNYaVR3dzNNSVlYWkdkSGt4RU1wbFhPZkxnSWNmLXUzTDFHMlBjd0tBMkN2Wl85UVFSN1VoSVp5dVI0TlJJcFNZZ0hQWm1WOGg4MHRsUk1SRGFKX3BIdjJGRE9lSmZwQm91UG0wam8?oc=5",
+   "t": "일진전기 영업이익 98% 폭증…북미 변압기 수주가 바꾼 실적"
+  },
+  "2a6ee82c": {
+   "s": "Forbes JAPAN",
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51QzgwUmF4TFhaQ25vYmZzSVR2ajE0c3J2UkxyZXNtOFA0dG50M1R4eDhwMjdUM2VkdWZHUE5YUFliR2pBVVJhTFR2NXNLWjhia2pvLURXY0x1UQ?oc=5",
+   "t": "データセンターの拡大に「よりスマートなエネルギー管理」が不可欠な理由"
+  },
+  "31df0f99": {
+   "s": "MITテクノロジーレビュー",
+   "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeE5RNnpNMUhQSzNMMVBYYW1BcmIzYl9RMk1iSDhFSk1ySWk5Sk1oTUM1b19WUFlzbFRZeUtFN1NTalE5M2QzWExhSzAwVlcyaEhrQm1wbmQ5YWlXREhTNUdySFo5UlAyQ0VLZVlWWncyUmV3RWpscWJrdmEwR2FsOXF2WEU5dGRBNWRwdTNHSjVLanNMOVlOYWxLcVpCMFJ1U2RtbWpXdEJhNGIwSW01ZlZaRFViczdTQllETWt5MGxrU2MzTXh1MDkzRjNvQjE4R3FPUzY4eUFmdERvcHQ5SDh0X3ZXa1o3dHVBWWhB?oc=5",
+   "t": "密輸対策のチップ位置確認は可能、エヌビディアが議員に非公開で説明"
+  },
+  "b055d198": {
+   "s": "Simply Wall St",
+   "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMGFlSmNVSnVOWmpXd0I1TExFZzBUOXN5cnZiaU1YYmMzOU9MTk05R19YSHViU2x2MDllbkpEVlNIalNOZ0xzNFpwSXV2d0xVajZQS1FWZ2tYa1RfTzJVdDVWQjhIamwwTmZXd04yS3VoMWNpbU8zNEdfUndHUVEySjln?oc=5",
+   "t": "SLB(SLB)의 시추 계약 수주가 투자 전망을 바꿔놓았다"
+  },
+  "d8bbe8c1": {
+   "s": "belpostel.com",
+   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHQ0twQjBRMGI3SmdSVHFEQnJwekh2ZGlpeHF1VDFqODUyREpVc3d2RmpYZDhQeEVjQ1plTHZGc0VDTU80TGpTNDVCLUtCTE01azNsbFVIZ1M?oc=5",
+   "t": "용어 설명에서 상세 정보로 이어지는 빨간모자와 늑대"
+  },
+  "3564c3ad": {
+   "s": "日本経済新聞",
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04c3Y3NFhkVzJpVkxQb3NTbmdIWFB4M1JaWnhOXzZCNjMxX25INks2YWpFMlJpNS1NUXBpNi1RZjB5ajZ6RC1lQnA5Nk95WXFOOFRvS3VsdURaZHh0YTJERjQxaTFfNFcySDN3Qg?oc=5",
+   "t": "「ファンと共に去りぬ」の現実味 AIデータセンター過熱投資に一穴"
+  },
+  "5452bec3": {
+   "s": "더구루",
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93djg4T0NTY3FySlkzeWNrM21EWm9pdFE5cHZ6VjhRZFc2ZmxiUFlQSWJoVF8tekVUVWUwc282bnBCMzBNRVVEbnM1THpSOG01Nl84NUJNdkpkaU5kUHJuLWI4UQ?oc=5",
+   "t": "체코, 전력망 현대화·AI 데이터센터 투자 확대…전력기자재 시장 '활기'"
+  },
+  "e522ebba": {
+   "s": "IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRkVqSU1rMHU2cjFjcDFieXg3NjlVWlB6YVBBak1rN0swWURnWDc4LW83NDExTGpwOVJ4c2c0MW92Y0ZJY2FmYUF4S1Q1Z3ZvNWxOeW5Rcjg1SVRPY0VGdW15U2ZkLThwa1pDeGVmcWJDbDZzVUFXbEd6ZFM5VVNScEtCRThFS0l5ZnUxbWFPV0xrODRIUi1DQnBQRGVHcjhITm9lRzJYRTJIU2R6T1BSZENpYVBkcVpPcE5HdnB3WEZmQS1XT2FLR3lWM0ZOOEpaTm9pTUlB?oc=5",
+   "t": "シースボンディングトランス市場2035年予測：系統更新と再生可能エネルギーが需要を牽引 - ニュースと統計"
+  },
+  "0e980e8d": {
+   "s": "財経新聞",
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrcDdoSzlMdVNYV3IydU1VN2dLU1cxRlpHZ3dIclE2dEFLSWRQdUI0NEg3bGd1SEhIUUppeXB4cXcxazFXVXg3UjczclowblhscGdWdmhDSjdSVHNPVGV4UXF0ONIBaEFVX3lxTE9mZkhBbTZEUllHZXFkUG50R2tUelhrem9UX3o2MXlQdVFwd3FuR1dpYkR0NXlVMTVGREVYVHF4ZWllUVNrUnRwZ3oxVkJnZjdSYUpySlJ3bEN0TWROd200VHU0WGtlLWZO?oc=5",
+   "t": "スペースX、AI計算拠点に740億ドル超を計画―電源・冷却設計と12月の地元審議"
+  },
+  "ffe66247": {
+   "s": "냉동공조저널",
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJZGprMUlxeUNIeUdtTy04R2dNOWVwWHg5cXJSQkNIUlFIcUdPd1pfd2FNWjVhZndsVnRjaUxTUTlkMEFrQkJXNlZpbVZ3cXM0SE9zR3JFZDJad0FLdVJnUjNWV0h0SG5qbkE?oc=5",
+   "t": "[DC KOREA 2026] 센추리산업, TICA ‘AI 데이터센터 냉각 솔루션’ 선보여"
+  },
+  "db1f681b": {
+   "s": "냉동공조저널",
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxUjJUOWx5aS1EN012Z0tDYVpibEtRb3hKYTdhaHVOYVFjVmM4dU9pRnhaUjg4TW9YaWE0WGRVbjlBdmFKaXdWcE5Yc0xKdWYwc01Jd2pCclN0VmxJcGhTTjJyZVhMMmNKMkE?oc=5",
+   "t": "[DC KOREA 2026] 이머스쿨, ‘CDU와 서버 사이’ 잇는 맞춤형 랙 매니폴드"
+  },
+  "1536f1c4": {
+   "s": "냉동공조저널",
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSNmZsbzc4TTVFTDRManoxTFJGZ2JMeXBSM1BOUjdwNV9fR2NEUWE2RVAtZTlPV1o2NFd0MExPbGFySk01Yi1xaW1UazRrRmdYcTBaQjZMUDNzUXg3amFDYV8xdy1OcGtlcFE?oc=5",
+   "t": "[DC KOREA 2026] 데우스, 전력·냉각·IT 통합한 모듈형 ‘AI 엣지 큐브’ 첫 공개"
+  },
+  "c5869ef7": {
+   "s": "냉동공조저널",
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XUU54MVN6bG1PSVcxMlpqQXFmU2xoR1hTRzRISEpyLXZET3ZiZmRBRExFNEpxaFpVYk80Yk1PMWFoVnNoaXM1MjRKR2ZxOW0wczFBNzdhSjFpY0N1SFN6YWhPcnRYaXNLS1E?oc=5",
+   "t": "[DC KOREA 2026] GST, AI 데이터센터 대응 액침·직접액체냉각 장비 4종 공개"
+  },
+  "40d625e4": {
+   "s": "웹이코노미",
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IOHpHQVhkNEw4MFViSWFzVjRpSFBIZnZQX3BLZU9SOVJyVHFhcFY2WE1jc29PWXhxd3hXUzRVWkFYeWtra1dhUjQzYnRwYjJFNktKeVZNQ1RvSVlyamIwSnhkdTVqV2trV3FqUkNQVHJOUQ?oc=5",
+   "t": "[통신] KT 품질만족지수 3개 부문 1위, LG유플러스 액체냉각 표준 개발·IPTV 평가 1위…SKT 뮤지컬 초청 행사"
+  },
+  "06fbb1a8": {
+   "s": "Potomac Riverkeeper Network",
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fZ3BNa2ZrSU5vclJ1ODJhVHYwZllwU2htMmJPaHJ3LThaNFR6UV8tR2xXaDhqX0pxOGdKMjBCa1A5Z2wwUWdCdTROaVJkcGt5VDhxWnE0cHBUaEtETERKTQ?oc=5",
+   "t": "Data Centers"
+  },
+  "606c5248": {
+   "s": "Crypto Briefing",
+   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93OVRFMjJiSUUtNzRGOU1lWWN3ZUVpY2dzeW5PTjY0Um9Oc1NnZGN1Q2pHZGpIaG5SVk0wRGhXUjNnc3BZYzJRcVlJeEQwWjRpUlRJMlVtZnJoYi16a3FHTTF4My1TZ2NzcENWLXRERUpaOGlGcmdDT2hQOA?oc=5",
+   "t": "Digital Realty Trust boosts Japan data center investment by $10B"
+  },
+  "7ef97962": {
+   "s": "RESIDENT™ | A Luxury Lifestyle Magazine",
+   "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOejl2dGs4dHRvc09Kc2lOMUF0Y05Pb25MdGloYW5FSUxCZ1F0VTJjR3BKYWRzRFI2bzJXUUJ2ckhQb2NpRlRzS3VTSlFORnpMc0pzM0dybTlhWlI5NGJUSWJVNXA1eDByMWRCTVlFTE1ERm1CcHU0LTdmNG5fT0s3WXZDdHUtajY5X1c0eUVxZWRwcDVqR2NYb1dnQ1NWSGZiUnZVY2UyOUlLek53VGptSUlSdEpBeTlEZkhN?oc=5",
+   "t": "AI Data Centers: CEO Janine Yorio to Help Neighbors Share in the Profits"
+  },
+  "7b74437e": {
+   "s": "톱데일리",
+   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXd3U5WEtpR3JMRW1FWXRuanZaX09iM2hxLVRPUlFVQjZNeGkxQ1h1ZVZzODFwVEhpbW5YUlM5UC1UbWpJU0ZzZFNuOXBQcFFQ?oc=5",
+   "t": "LG유플러스, AI 토큰 사업 내년 본격 시동"
+  },
+  "8d8f37f0": {
+   "s": "XenoSpectrum",
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUSDBQQlJOZkhtcTlxOFBZLTlkaXpuTllIYkYtQkVMZHlzR1dEZk5WYWl6VEtxZ1JtTTF1QWlCOHpCZklENHVUOThJZ3ozSG8xU3NJTGRTVFFHUnI2VXFxZzJsQlFwLURqdkVHdVRQVnp0YTQ?oc=5",
+   "t": "Axelera AI Unveils Titania, Aiming to Run 1.6-Trillion-Parameter AI Models on a Single Air-Cooled Server"
+  },
+  "bba5ab07": {
+   "s": "웹이코노미",
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KVGpMSHVzcGJxYXVjczM3ZFRweVdkaG9od01HelVYUGJoN0lCQ3l2NDlrTjlIZC1yUTZKU190aHRmZnRmaGNpcnNUVW94ejY5SEQzTk15aGZoYUdYVy1Ob0l2eENuUXZ1dkNTX09idXF6dw?oc=5",
+   "t": "차세대 광통신 소재 바륨 타이타네이트의 빛 특성 정밀 규명"
+  },
+  "77d07d7b": {
+   "s": "TipRanks",
+   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZW85cXM1LV9JMVVVZFJ6RzFoTlRkdndlSnJGdVV2UlM1b2VJU2xKUU50ZVJpMTJlbmw4X0JhMGVNVVBfMC1xN2hVTk5wODdILWdpRTM3dWd4cm1tQnRmSmQtNFZJTmdVNm5ud1NpNlg5aTdNWVJMbGZqR1l1X0ktVE9KLVhpMlQxcjc5MDVFMVRnR3hWLWdoSDFkbF9ldUJZUkJiUjU3NGNTRjhEY0VR?oc=5",
+   "t": "Vuzix Earnings Call Highlights Causeway Growth Amid Losses"
+  },
+  "53bc73f8": {
+   "s": "머니투데이",
+   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHOVI5LXpFakJXRTM3ZUJJb3hTQzEwWUlZZ0VyTXV1YVZHUVNKLXFyYkVYZURjYVdqUFdObHNOQXI4Y3NoYlQtaElvSTJZUlNDM29CX1RMNkFJbkFyMVU1bjA4N3pycExuY2JCOUpHWEJxWmkxc1HSAXtBVV95cUxOdDNXWi13QjMzdlNaTG44NHEzc25GWm02bnVJNVBlbzZNWDRJNzFPVWpvZkR0QzFVNVpfRmR5MDBhY1AxOUpQWkEtZThOSlBweE05cTRpeUQ1NEhwaVplTWN6blNXRDBxMHhKME1vZ0t4b0ZBVHpjMmhnRlE?oc=5",
+   "t": "'블루웨이브 쇼크'에도 일주일새 32% '쑥'...든든한 ETF는? - 머니투데이"
+  },
+  "6ee18150": {
+   "s": "Vietnam.vn",
+   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CVWo1Zmt0LU5mQldEYnhqaHJJcjhJa280MnFjU0s2YkczMHk1bTRQaUx6Yk9GYkZ1S3ItMDNlRTN2TFNSRl9hdms0c2RwQlBaN1VWeXBNX2E0U2p6U1J6aFZmMEY0TGItWkNLNkZIYk1MXzBmZWxBcjlfQ0I?oc=5",
+   "t": "인공지능 경쟁과 공급망 보안 문제."
+  },
+  "3827fe06": {
+   "s": "London Daily News",
+   "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPXzhwcWJ3c0xoMDlpQ3BIYXQ3WW44TlVsTGJFc3JERjVuX00yTHlGS0w3aTZQYmYxN1hKNllGeWpQRktTRjE2eGd1STNLZTExUDFCWmYwZzY5MFczbFRKbVFHRmExd3dHaHJYdFc0Q1NXLVhyckljakRQemVvYWFnMlpJeGxjYkoxVk16TDR3S1cyaTJnclZfN2V0cEJsTllwWVE?oc=5",
+   "t": "TE Connectivity plans New York optics facility with more than 860 jobs"
+  },
+  "e46ce97c": {
+   "s": "ad-hoc-news.de",
+   "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMERqLU9qWl9xSVFTSzN1U0JNRGlrSGpoQXNfTXFueGgya1RyOWFOWUNLUXdWZnBnRldLZEZBbDFtdmpRUktkWkg1S3pHWm5sallBbl9YN1pycGhRQU1vdm9zaHo1ckl2QjZTbTB5eTlxSk92aDdvT1NNZDRwdmN5UnhmYlNuYTB2ZEpNUlQ1X2d0alV6WmhpWHR2TUE4alZlOFVELXp6cEtGakptdXphdFJiN2xqRFVlQUpEYWFtaw?oc=5",
+   "t": "Coherent stock faces mixed analyst targets after AI outlook"
+  },
+  "0601f313": {
+   "s": "富途牛牛",
+   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeF9ublc3eXE4NmgwaUlsb1BLU0JWcGROZkJJUXh3UExRNEFId1VJMkhtcGtOMWEyWUJlcUY3S1lOMGJBZUZSc0ZESVoxbFgyVlNvVFd0bTNDMTc3SzhaeHgyeTg4Mnl4MWlXS2prd3Q4WWJRM0NFX2tJRGhPcXBhdDc3Tk80Zll5Zy1tWkY3Zl9OQ3h2SUZKN2pqNlo3WlpFNWdObXF5d3ZuemEybnVNZzVYNU4?oc=5",
+   "t": "Wanma Technology (300698.SZ): Currently not involved in thermal management solutions for optical modules or co-packaged optics."
+  },
+  "012cf235": {
+   "s": "Yahoo Finance",
+   "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWm03RGhQcm9jVTVIZWg0R3lXeGFnSHRvU04yb0t2UlpGVGdXQzRMNmdsRFB6RkZvWkZfXzV5bkt0MnVpSENFVTAxOFdWLVY2ZXA0dUw1V1YtM0NlRTh5bmRmTy1sQ1JqOWF5UmRDcWtQWEI1azNEcEdhZ05MS0stbE9FWVJBSFRrUkpQR01TVE1USnpNbnFIS0NDWFZvTjgycVE?oc=5",
+   "t": "TTM Technologies And 2 AI Infrastructure Stocks To Own"
+  },
+  "d4012cbd": {
+   "s": "아주경제",
+   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sdVlpSTJJM1lQdDhkR2l2WThnaFlDb2c5dVd6N0NCNExuaEhxa0ptYVp6bEtUd3NJTkFFd0VwRmRIeHVKTnUtbmFMSWFHZDVIQmY0Rm1EeHbSAVhBVV95cUxNbHVZaUkySTNZUHQ4ZEdpdlk4Z2hZQ29nOXVXejdDQjRMbmhIcWtKbWFaemxLVHdzSU5BRXdFcEZkSHh1Sk51LW5hTElhR2Q1SEJmNEZtRHh2?oc=5",
+   "t": "삼성·현대 독주 속 중견 건설사 각자도생…DC·SMR·LNG로 먹거리"
+  },
+  "6a8c4e60": {
+   "s": "디일렉",
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yQXZZR2ZkcTQwVjI4SDJCZC1EYXhJWF9EWnVyUjBDVGt4eEhLNDlhTEFHZ0RsM2ZfUVJOSlozN09yb2ZPd29OampiVllCRVoxbXBnYmVUWEZXV2JIWEhLY0l1WjlIQQ?oc=5",
+   "t": "두산에너빌리티, 발전사와 AI 기반 설비 운영 기술 공유"
+  },
+  "3a1df463": {
+   "s": "TipRanks",
+   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQjJOek1iTUJGYmZ2enhIcFd6al9QVEJ1SFcxd3FPdjFkNjB2Yk92NjNaM3ZPSllkYjJ4QnFhQlUwZER6MF9sXzBVQW9RbmZBZjBNT090MENES19PUmplSlFVRHJkeW5sdm52b3ZtNlpVRnJPaU5WQmpUeVdqTkpvVmluUDFLc2syd3lIQU9Ud3prbDVSbVprUmlEbmhaT0J6eUUxajBoaFE5QQ?oc=5",
+   "t": "Baker Hughes Earnings Call Signals Strong Growth Ahead"
+  },
+  "80c2f8e3": {
+   "s": "Yahoo!ファイナンス",
+   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rVVJkYUVueENmTXRGTXVYaHJabUotYnZwWnhnZklISmo1TDR2cnU3bmhlVFNGc0xfZmF1VThJMktuejkzZmg5RTRQREJDLWZzemc?oc=5",
+   "t": "三菱重工業(株)【7011】：株価・株式情報"
+  },
+  "10da07bd": {
+   "s": "Reuters",
+   "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wbThrUHRNbFVTUk9IMGhNSndGd2NMSGdnZDc1TWFNeVBEZVNWVVhsdk5HMnRSQV9wdDRXYWZ6MjZLUl8wY1lTTVZHc2c0c3UyTW83WmFJS3ktdDZLeGRhZTZBWXZUUHY4cHc3a2JDNGstZWtUYkVUdFdMZlFHZw?oc=5",
+   "t": "アングル：ＡＩ電力不足で中古タービン市場過熱、退役ジェットエンジンも転用"
+  },
+  "440bfec4": {
+   "s": "글로벌이코노믹",
+   "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOGZvSlNYNGN1aUxzUUh6T3UxQnhZRXJjM0NPLWdKLUNnWHZ0Z3ROM05RdFRySVlVVXJnZjF4T0h1cWw4SDBmdVZfaEV3OURQaGtuLThianQyRlZlSHZRWjlraU05TEFaRFZ6aEY2YWlqWEoyci04d09MaF9JakRhZUNzZGdUSmRvMGc?oc=5",
+   "t": "수익성 끌어올린 박상신 대표…DL이앤씨, 일감 확보에 힘 싣는다"
+  },
+  "779345ec": {
+   "s": "EnergyNow.com",
+   "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1F6SDB3VjV3TjZaTFhlYXNwSmVNbkEzNG5QTDNBck9HYk1pOVd1WGNxLWtaNDdZcm1RcHJSWnJqaVpHNFQ1ZnRtd2FuTzBkN3B3NFBHQklRUEZWXzJBR1ItZGdydTM1UWhzT2tfUThJTldHQXpGcUtuYjVWQkVFRkY4Wlk4UTdWRXduQUVSd2U5NnpFdkwxQQ?oc=5",
+   "t": "Siemens Energy CEO Sees Solid Outlook on Broad Electrification"
+  },
+  "5782324c": {
+   "s": "TipRanks",
+   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHdQU1lPc1BjZTBTV0Y4MTVzZ283blczOE5ya0thZkFmZTYwLVlWMGdfc2tHaUVrcFNJMk5Oa1RpQUxWbVhHMDdwdDBuSDFVaWNsMkQySV9xQ1p2QVR4ZVBuWFhOS2x4N3QwbElNX01hQVBab0k3T3ZSWTdqLTg5TnFDa1FsM1dzM1NqT3lVOEFHOUkxQ0FaNlR5TDNZSG9pZXpuZ0xtMGNTLVFGSEhUaw?oc=5",
+   "t": "Northland Power Earnings Call Signals Growth and Resilience"
+  },
+  "f890fc26": {
+   "s": "Simply Wall St",
+   "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUUFRYmo4VkZGMWZ5YXQ4NEhpTWpqT3EyTXh1aTVJTy1xRUlmaWU2Z3ltaDhWTEpzWGQzTVhLS3lHTHpOWlR1bFN1TGR5d2NETnJiNWxqQzhPbkMxYnJYcm9Yc3l4THhHUHF3YW0zYWVTbkhUNThrR2t5T1o2MzU0YVVXdThVMFlNdUVZTWJCd0lpVDd3cUJ6Um5iNWpzTVlUaWR2TDhCTUZQX1pkTUo4NFhLQkJOSmN2TGVGUEhNR1JFbjdFanVRRmtTdzYyY3BSdGVYZWs1bXhYckxqeGZTTmtB0gHiAUFVX3lxTE9RQVFiajhWRkYxZnlhdDg0SGlNampPcTJNeHVpNUlPLXFFSWZpZTZneW1oOFZMSnNYZDNNWEtLeUdMek5aVHVsU3VMZHl3Y0ROcmI1bGpDOE9uQzFiclhyb1hzeXhMeEdQcXdhbTNhZVNuSFQ1OGtHa3lPWjYzNTRhVVd1OFUwWU11RVlNYkJ3SWlUN3dxQnpSbmI1anNNWVRpZHZMOEJNRlBfWmRNSjg0WEtCQk5KY3ZMZUZQSE1HUkVuN0VqdVFGa1N3NjJjcFJ0ZVhlazVteFhyTGp4ZlNOa0E?oc=5",
+   "t": "3 European Power Stocks Tied To Rising Hedging And Trading Demand"
+  },
+  "bf85e8a8": {
+   "s": "Yahoo Finance",
+   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZWtTandxSDNFRlgyYVNjU0s1Q0dfRDNIZU42ZnpmTWRxTTFPVTFxMkhhUXVRSm44R1NxN2xUZmFFQmVpdnh1Tk1wLWdjTVFWdjRaemNaOUtVSlZTUUdDUU1WNDRmRTFlSnluX3FjUlQ0VUhSZ3pHQlN5WmtZUmZqNDFpWWgyS0Z4NTFCaXo2cw?oc=5",
+   "t": "3 European Power Stocks Worth Watching After Electricity Price Spikes"
+  },
+  "2742e7e6": {
+   "s": "Yahoo Finance",
+   "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYUl6RlJORWhidHp4WnRDVG1MS2h3czhuR1JWNzg0UVBvQ1puR3pmQWxyWVgyZ1FpNXQ1V2FtZEZHZ2dHYlJxLWxCOHFpV3BhcGh3Y1R6amdTZTc1MFFVdW0wdnVnSVg3R3Q1UGhnS0VqWi1lakZQajFaNU9pMS03anh3Wk92ZmVTcG5paXJobzZFUTNpMDVPNWNFR2VQY1U?oc=5",
+   "t": "Electrifying Ambitions Meet Tough Reality in Europe"
+  },
+  "da1d2e19": {
+   "s": "IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOazBjenNkM2NXNUFVRld1SS1RM0ZveDJMWXdqN2Fkdlc3MGJsamRrR1YwRmJlbkhKTDV3eEtCYm0zYU9ETExpX3RJbkF6cDBPd20tMzNjbkhlOFFobG5xT1FTdjJuUExkQjFTalpreFQyTzVEWGtHbDM0bUxiYkU2U1FMMXBrMHFUa1dVZHZVQ1VfZy1FajJMSTJ5bmZmTFdIMGVfYzVtLTV3cVZlaWpWaXFEaW55MzdCOTJ0UHJKQ1pGVmlmaXdrUGhUTDN6bHQ4TTR1aml3?oc=5",
+   "t": "Ground Fault Protection Market Forecast to 2035: Growth Accelerates on Data Center and Renewable Energy Demand"
+  },
+  "e9d5e87d": {
+   "s": "IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcHE5QTl3a1lCaVJUTGxOa05HNTcwTF9ON01NWk53ai1tYVFtbVNDOE5BSTZXT2RSVmZmUFgwWnVIWEpqZV9WTW5YNXYzQWZoWVk4Uzk3NTJvT2NqWFZjS3ZIREQ5enhDdG5vNGdxeHVVS3hnV1U3TjdUV1JUVzU2Y2UzM3gteVpWd3JWMGtQNmhmOTVlblVGbUg4bHd5M3piRGlieElhdDZhVTNuZkpRM2d0cXVNTExFZkxETnAxc0ZoNmVINDQzbmVlQnNRNVo5T28wNHpjOHo?oc=5",
+   "t": "Traction Transformers Market Forecast to 2035: Rail Electrification and Fleet Modernization Drive Forward Growth"
+  },
+  "99c53dbe": {
+   "s": "Reform UK",
+   "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41N3pKMHJFOTlzRzZfU0dQWnlWQnZBT3dYZVdubWk5SVJ4d2s1Yl9hQllqZ2F5Z3lURkVtNnlfMHRCZWk4QXRXVkhQNmg1eW43MDJpRkpPT3Z1bE1wN0ZEYTJzaVN0Rl9MV25PTmFSeTJQM2FwcVRQOGt3?oc=5",
+   "t": "Two new EU laws EVERY DAY: Burnham prepares to hand power back to Brussels"
+  },
+  "a665eddc": {
+   "s": "Bioengineer.org",
+   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObjVtU3pzZEZYZThnODFINDZTWW55S3AzRUtjOHlIcEpCbUdqQUdIWWQyQlNjZWYxRTB0QzBNNFN1YWpaS3JCa2lhc2Jmc0VFbEd6aW00TThLcllWLU5odUdGNlZDb3dGbHVzQjZqU1luSENpeFhFd0UyMXRyMGdoN0t2SWw5SXh3dHlxakY0RjJTSlVUZWl6YlpJak9WVmctOFREVkNUeUZSZU5Rdk1j?oc=5",
+   "t": "German Clean Power Reaches Record Output While Sector Coupling Faces Systemic Hurdles"
+  },
+  "9463086f": {
+   "s": "IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeWRZQlFsTVRHaHRMNFB1Q01FNjc1dV9POUExcTFGQ0tQYkVLdVB2S3JGbmVMNFNfNks0NVZFbjRTZHd0S1hCTVRkYmVSMzFfT1FjdHlJcU5DRmdpR29ORVgxenhiNVlaTEM3b29iLTdsa2JWLXVieEZoN05LbVFWUk00dHI3U1R6ZFh0OWFLT1FSbDFFZDNPd1RTejZGV3hxNFV0Vg?oc=5",
+   "t": "Finland Hydrogen-Electric Hybrid Truck Pilot Set for Late 2026 - News and Statistics"
+  },
+  "a9e1e422": {
+   "s": "دزاير تيوب",
+   "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWDQyNVpOOEo0VUc2LUswbUV2Q3g1MnlwcDkyQ3ZrTmZOY0RWWjFqZDVzSVU2RjdFckwwQUFZRDFZSWtVREs2MG1HNnVUWVgzandXR0Vkanpya25CUkgySmEtc1VQOUtQQXhHekhFbkRUVDF3dHZuYVlOQURTRlVkRUtNNWxJSEVxemNMeVpfLXBUMTd6NlRDMEV2dHc2Z016TGlkUnRoaFBXd3JqRGNBS1J4QkpOS2M?oc=5",
+   "t": "Algeria’s New Economic Map: How Five Powers Are Gaining Ground as France Retreats - Report"
+  },
+  "a233945b": {
+   "s": "재경일보",
+   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYb2ZjVjRTSkJrNHAxUzJGbmJjbzF2aklyRXVWWjhwZmh6aDJGbVlWeVA1eVVkcUJ3Y1YtaGtyUTM4cl9lV0puTmtYbGxCdlNEZGlNQ25aODRVU1pCUnl5UXlRMA?oc=5",
+   "t": "電気・水素自動車の予算不足により、市・道のカーボン削減目標が未達 : 社会 : 財経日報"
+  },
+  "db4c3655": {
+   "s": "ウォーカープラス",
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92VWo3UzhWcmVvUDhrOW5JeEJvUURSa0RsZHdlSlRrejlWeENzY3VFVkxpcnhoU3VVdkJ5Qk9MMkxWNkp1UnlXNWlwTDRhXzBrUTg1WXJSUkF6Rl9ndUgzaXhsY08xNnRoNERJcldB?oc=5",
+   "t": "画像2 / 20＞小池都知事「グリーン水素の経済圏を作り出し、脱炭素化を目指す」山梨県にて国際会議「富士ハイドロジェン・サミット2026」が開催"
+  },
+  "129c59a0": {
+   "s": "IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdWdsbU5yaXBTd0wweUQ3VEFqZFZNeVc4TkF1Ylg4YzBqd3FhS1JIV29qZUpZQ3NyWFVNXzhKdTRVTmhwMFltNnEzSEtQQUpRbUNyLTBIemhuc3VmNW4tNzB5dF95U2lOdjYwalpXRDM1X1NHUFY4MU90UDExLWUwZF83N052d29semNUR2lmcjRFak84ZC1hMmdZTkNVQkJzTW5KYUtkMFNLNmlabHNEa2NaYzZyNTRCMjRYRUZBLXVjaUpDMFJtY2xIM2U?oc=5",
+   "t": "フッ化水素酸用ポンプ市場、2035年まで成長へ―半導体・電池向け化学品需要が下支え - ニュースと統計"
+  },
+  "fe339302": {
+   "s": "IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUw0a1hqSHdLQ01Wdzc0QjV5ZzVadUtiTnJ1OW96UGNvWkxzbW1rYTZYdFA5N0VQQWJuR0NFVzVtbUFqNTEtb3RMQk1aQ2NLMVljaldNOURpVUllV3F2R0ZCYko1U3FpeFRjQ1k0Z0dNVmdmRkhWdmR1Y2ZGWUd2d19pWWFaalUzYkkwdUpvVC1TaVNIejctbk54dERjMUdTOEtnUzlBd2s?oc=5",
+   "t": "フィンランド、水素・電気ハイブリッドトラック実証を2026年後半に開始へ - ニュースと統計"
+  },
+  "9890d8b7": {
+   "s": "IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVjlDLTlURjNscmdhWWFXWTNqcHVJQ29aQ1cyeHlfV1lSbVNPbEF3WHB3QU5tRE9tY2tWeG1pQWlGWXNSN1lxS0M3NmtYZldHbFVvN0N0c01JN05sR1dHekhKVG1lSE53NGdXRjZ4cDROUmdscHBfU1c5UDB5Qnp0UDJ2RHludDBXSEM1MnJmRWZ6Z0hxWUJ4bUZlT29mS1VYVHZBUGNISHk4SWM3MUFBM1lrR1Jsa204eXllWnhQTUxGcTJ1UGc?oc=5",
+   "t": "SWITCH-150水素フェリー、米国沿岸警備隊の設計基準合意を取得 - ニュースと統計"
+  },
+  "db11a775": {
+   "s": "IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2d0ZDZUOFFJYzJaWXB3Q29mWm5CbXBQWWlFXzBTOXIyR21NSmUzS25lRDRodjNqMUtJRkZJMzdzWWpHUTVXbnRYLWZ1OHRrcWtVU3JMOTVzSkZsalFoRWl3WnlIM2d0c3N4VE5RS3ZEbXUxWVVLZTg4VlBOVFhFQVpOSjM1eXB2amFhNGN0WXB3MmdYV1pNSGEtdWdXRDR2VzNWaE5PVUpjX3FVOVlVTkNsYko?oc=5",
+   "t": "Burckhardt Compression部門、半導体用水素圧縮機の受注を獲得 - ニュースと統計"
+  },
+  "fbb35240": {
+   "s": "IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUzFQZWdzbmhDd0szUUliMm54VG56UHNYU3Z0dlBCM2t6YzBTLVlobG5MQl9kMWJjLXExblFKcy13OWhHQUFOejY4Tl95QzFXa1RGcXBnTkFHRlFMd011YnlyNWxFcC10d1J0UnczMUJTX1dRTzRXTFBBOFlUdmt0bTRnNTMyZkZGU25UM1p6MmNQbXo4ZjdEVkNFaG5qaDNGTk1mNnZxSHpoTnBfTm9kOXY5XzJiRUY5a1RoUERMbzRHTUFTWnJR?oc=5",
+   "t": "トゥウェンテ大学の研究者3人がネットワーク・水素・廃熱研究でVidi助成金を獲得"
+  },
+  "3f1e1ce9": {
+   "s": "IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYS1sSWZnSDBnMGd0V2U5ODZqWDNmQzhGeVhOa2tiV1R5R2RwOS1IR21Ma01KUEFQb0UzYzlBVEF6NjF2X0FteHJ4ZmxXbDZvYmUtLVdtRjR2OU95UUxBMWttYlRteGJacXdySllNRkhiUk1zTlItaUU1NWVMVy0tMUIySDQtWmh6V2dIU2YyWHRPbEtJUmFKSW9Nbm9lQQ?oc=5",
+   "t": "HARMONIプロジェクト：セメント向けアンモニア・水素燃料｜インペリアル - ニュースと統計"
+  },
+  "f57a22cb": {
+   "s": "Vietnam.vn",
+   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZzRPdXJpYjliVXhEc0ptdWhHdWMxVDZ2MFdKRlk0VUhrOHFhQ2lWNzNUaXgxWU0xWkQ2QmpqVUJaR0ZpZGdvTXA3eldvUnJFbnNQVDRIb1diWFBNR2JsamVER1prMXFibVdaRkxwTmhnYk5ONU42TmJOSWlVdU9wNHpSQQ?oc=5",
+   "t": "書籍発売：「水素豊富な水 ― 科学と健康」"
+  },
+  "47d8243a": {
+   "s": "食品新聞 WEB版",
+   "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSkdCS244LUJxZEpjVThHQ2ZjLW5jYi1SNHM3SEVpeFJOT29qUDFmLTcyS19wRFZjY1FiSllSSTkwOFBvakVfclY0Ni1DZ1VlN2R2a3VianlOWFE3R09NSDFFN1VCVFNVdDlqdFdxX3Bxc3Nkb1JpTko2aE5qVE5rbld3dUF0bEV1U2w0bWFySGh3YmtObWtpOW41eHBFUQ?oc=5",
+   "t": "UCC、コーヒーで新提案 新たな味覚体験へ水素焙煎導入の家庭用製品"
+  }
+ }
+}
