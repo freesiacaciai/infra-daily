@@ -3,3 +3,4 @@ feedparser>=6.0
 requests>=2.31
 PyYAML>=6.0
 Jinja2>=3.1
+json-repair>=0.30

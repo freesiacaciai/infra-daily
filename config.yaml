@@ -6,13 +6,13 @@
 newsletter:
   title: "AI 인프라 데일리"
   tagline: "에너지·AI 인프라 산업 동향 자동 요약"
-  site_url: ""              # 예: https://<GitHub아이디>.github.io/<저장소이름>/  (메일에 "웹에서 보기" 링크)
+  site_url: "https://freesiacaciai.github.io/infra-daily/"              # 예: https://<GitHub아이디>.github.io/<저장소이름>/  (메일에 "웹에서 보기" 링크)
   audience: "에너지·AI 인프라 산업 동향을 따라가는 엔지니어·실무자. 기술적 맥락과 시장·정책 구조 변화에 관심이 많음."
   lookback_hours: 26        # 이 시간 이내 기사만 사용 (스케줄 지연 대비 여유 2시간)
 
 llm:
   model: "claude-sonnet-5-5"
-  max_tokens: 4000
+  max_tokens: 8000
   max_items_to_llm: 120     # LLM에 넘길 최대 기사 수
 
 # 토픽별 Google News RSS 검색어. lang: ko / ja / en
@@ -47,4 +47,5 @@ topics:
   - name: "일본 수소·전력"
     max_items: 15
     queries:
-      - { q: '水素 OR 電力需給 OR 原発再稼働', lang: ja }
+      - { q: '水素発電 OR 水素サプライチェーン OR アンモニア混焼 -水素水', lang: ja }
+      - { q: '電力需給 OR 原発再稼働 OR 容量市場', lang: ja }

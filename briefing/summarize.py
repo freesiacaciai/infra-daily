@@ -20,7 +20,23 @@ SYSTEM = """너는 에너지·AI 인프라 산업 동향 분석가다.
 - 일본어·영어 기사도 한국어로 쓴다.
 - 기사 원문 문장을 그대로 옮기지 말고 네 말로 쓴다.
 - 각 포인트에 근거 기사 id를 refs로 단다.
-- 결과는 반드시 publish_briefing 도구로 제출한다."""
+- 결과는 publish_briefing 도구로 제출한다."""
+
+TEXT_SUFFIX = """
+
+도구를 쓸 수 없으면 아래 형식의 JSON 하나만 출력한다. 다른 텍스트 금지. 문자열 안의 큰따옴표는 쓰지 말고 작은따옴표나 「」를 쓴다.
+{"top3": ["..."], "sections": [{"topic": "토픽명", "points": [{"text": "...", "refs": ["id"]}]}], "watch": ["..."]}"""
+
+
+def _parse_text(text: str) -> dict:
+    import json_repair
+    start, end = text.find("{"), text.rfind("}")
+    if start < 0 or end < 0:
+        raise ValueError("응답에 JSON 없음")
+    data = json_repair.loads(text[start : end + 1])
+    if not isinstance(data, dict):
+        raise ValueError("JSON 구조가 아님")
+    return data
 
 TOOL = {
     "name": "publish_briefing",
@@ -105,24 +121,33 @@ def summarize(news: list[dict], cfg: dict) -> dict:
         "topics": [t["name"] for t in cfg["topics"]],
     }
     client = anthropic.Anthropic()
+    base = dict(
+        model=lcfg["model"],
+        max_tokens=lcfg.get("max_tokens", 8000),
+        system=SYSTEM.format(audience=cfg["newsletter"]["audience"]),
+        messages=[{"role": "user", "content": json.dumps(payload, ensure_ascii=False)}],
+    )
+    # 1) 도구 호출 방식(형식 보장)  2) 거절되면 일반 텍스트 + JSON 복구 방식
+    modes = [
+        ("tool", dict(tools=[TOOL], tool_choice={"type": "auto"})),
+        ("text", dict(system=base["system"] + TEXT_SUFFIX)),
+        ("text", dict(system=base["system"] + TEXT_SUFFIX)),
+    ]
     last_err = None
-    for attempt in (1, 2):  # 한 번 실패하면 한 번 더 시도
+    for i, (mode, extra) in enumerate(modes, 1):
         try:
-            msg = client.messages.create(
-                model=lcfg["model"],
-                max_tokens=lcfg.get("max_tokens", 8000),
-                system=SYSTEM.format(audience=cfg["newsletter"]["audience"]),
-                tools=[TOOL],
-                tool_choice={"type": "tool", "name": "publish_briefing"},
-                messages=[{"role": "user", "content": json.dumps(payload, ensure_ascii=False)}],
-            )
-            block = next((b for b in msg.content if b.type == "tool_use"), None)
-            if block is None:
-                raise ValueError(f"도구 응답 없음 (stop_reason={msg.stop_reason})")
+            msg = client.messages.create(**{**base, **extra})
             if msg.stop_reason == "max_tokens":
                 raise ValueError("응답이 max_tokens에서 잘림 — config.yaml의 llm.max_tokens를 늘리세요")
-            return _clean(dict(block.input), {n["id"] for n in news})
+            block = next((b for b in msg.content if b.type == "tool_use"), None)
+            if block is not None:
+                data = dict(block.input)
+            else:
+                text = "".join(b.text for b in msg.content if b.type == "text")
+                data = _parse_text(text)
+            print(f"[info] LLM 요약 성공 ({mode} 방식, {i}회차)")
+            return _clean(data, {n["id"] for n in news})
         except Exception as e:
             last_err = e
-            print(f"[warn] LLM 요약 실패 ({attempt}회차): {type(e).__name__}: {e}")
+            print(f"[warn] LLM 요약 실패 ({i}회차, {mode}): {type(e).__name__}: {e}")
     return fallback(news, f"LLM 요약 실패({type(last_err).__name__}) — 헤드라인만 표시")
