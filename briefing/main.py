@@ -54,7 +54,12 @@ def main() -> None:
         print(f"[info] 저장: out/briefing.html  제목: {subject}")
     elif not a.no_email:
         from .send import send_email
-        send_email(subject, body)
+        try:
+            send_email(subject, body)
+        except Exception as e:
+            # 메일이 실패해도 기록 커밋·사이트 배포는 계속 진행 (Actions 요약 화면에 오류 표시)
+            print(f"::error title=메일 발송 실패::{e}")
+            print("[warn] 메일 발송 실패 — 기록과 사이트 배포는 계속 진행합니다.")
 
 
 if __name__ == "__main__":
