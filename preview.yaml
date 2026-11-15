@@ -1,0 +1,29 @@
+newsletter:
+  title: AI 인프라 데일리
+  tagline: 에너지·AI 인프라 산업 동향 자동 요약
+  site_url: https://freesiacaciai.github.io/infra-daily/
+  audience: 에너지·AI 인프라 산업 동향을 따라가는 엔지니어·실무자. 기술적 맥락과 시장·정책 구조 변화에 관심이 많음.
+  lookback_hours: 26
+llm:
+  model: claude-sonnet-5-5
+  max_tokens: 8000
+  max_items_to_llm: 120
+topics:
+- name: 자원재순환
+  max_items: 20
+  queries:
+  - q: 폐배터리 재활용 OR 폐플라스틱 열분해 OR 자원순환 산업
+    lang: ko
+  - q: battery recycling OR plastic pyrolysis OR chemical recycling plant
+    lang: en
+  - q: 廃プラスチック 油化 OR ケミカルリサイクル OR 電池リサイクル
+    lang: ja
+- name: 수전해
+  max_items: 20
+  queries:
+  - q: 수전해 OR 그린수소 생산 설비
+    lang: ko
+  - q: electrolyzer OR electrolysis green hydrogen project
+    lang: en
+  - q: 水電解装置 OR 水電解 グリーン水素
+    lang: ja
