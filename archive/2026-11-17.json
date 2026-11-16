@@ -1,0 +1,425 @@
+{
+ "date": "2026-11-17",
+ "generated_at": "2026-11-17T08:02+09:00",
+ "n_news": 83,
+ "fallback": null,
+ "top3": [
+  "대한전선이 싱가포르에서 2718억원 규모 400kV 초고압 전력망 사업을 수주했고, 국내 언론이 일제히 다뤘다.",
+  "AI 데이터센터 수요로 가스터빈 주문이 100GW에 달하며 지멘스에너지 수주잔고가 사상 최대를 기록했다.",
+  "데이터센터 냉각은 무수(無水) 2상 냉각, 드라이쿨러, 800V DC 전력 연계 등으로 물과 전력 사용을 줄이는 쪽으로 옮겨가고 있다."
+ ],
+ "sections": [
+  {
+   "topic": "전력·그리드",
+   "points": [
+    {
+     "text": "대한전선이 싱가포르에서 400kV급 초고압 전력망 구축 사업을 2718억원에 수주했고, 올해 싱가포르 누적 수주는 4118억원이다. 데이터센터와 재생에너지 연계로 송전망 투자가 커지는 가운데, 초고압 케이블 시공 역량이 미국·유럽에 이어 아시아에서도 수요를 얻고 있다는 신호다.",
+     "refs": [
+      "fb99ab64",
+      "a7a14948",
+      "d634115c",
+      "4178ff5f",
+      "bfedf7a9"
+     ]
+    },
+    {
+     "text": "SK텔레콤이 효성중공업과 GW급 AI 데이터센터 구축에 나선다. 전력기기 제조사와 통신사가 손잡는다는 점에서, 데이터센터 사업의 병목이 서버가 아니라 변압기 등 전력 설비와 수전 용량이라는 점이 드러난다.",
+     "refs": [
+      "653ea294"
+     ]
+    },
+    {
+     "text": "노르웨이에서는 신규 데이터센터에 돌릴 전력이 없다는 취지의 논의가 나왔다. 전력 여유가 있다고 알려진 북유럽에서도 계통 용량이 입지 제약으로 작용하기 시작했다는 뜻이다.",
+     "refs": [
+      "2343dbbd"
+     ]
+    },
+    {
+     "text": "접지변압기 시장은 2035년까지 재생에너지의 계통 연계 확대에 힘입어 성장할 것이라는 전망이 나왔다. 인버터 기반 전원이 늘면서 보호·접지 설비 같은 보조 계통 기기의 수요도 함께 커진다는 구조적 흐름을 보여준다.",
+     "refs": [
+      "e1401b71"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "데이터센터 냉각",
+   "points": [
+    {
+     "text": "ZutaCore는 물을 쓰지 않는 칩-투-루프톱 냉각 구조와 Z₂O를 공개했고, 뮌스터대학은 이 회사의 무수 2상 액냉을 도입했다. 냉각수 사용과 냉각 에너지를 함께 줄이려는 시도가 실제 현장 적용 단계로 넘어가고 있다.",
+     "refs": [
+      "9fb23e94",
+      "0707347c",
+      "92fd8f10"
+     ]
+    },
+    {
+     "text": "60MW급 AI 데이터센터 냉각 설계에서 냉각탑 대신 드라이쿨러를 쓰는 사례가 소개됐다. 대형 AI 시설에서 물 사용 규제와 지역 수자원 부담을 피하는 설계가 주류 옵션으로 올라오고 있다.",
+     "refs": [
+      "f7ab7abb"
+     ]
+    },
+    {
+     "text": "nVent는 액냉과 800V DC 전력 제품군을, Vertiv는 열·유체 관리 생태계를, Daikin은 NVIDIA AI Factory용 냉각 시스템을 내놓았다. 랙 전력 밀도가 올라가면서 냉각과 전력 공급이 한 묶음으로 설계되는 추세다.",
+     "refs": [
+      "0021947c",
+      "906bb0f2",
+      "93dba434",
+      "96dfb47c"
+     ]
+    },
+    {
+     "text": "Aviemore의 무밀봉 마그네틱 커플링 펌프, Airsys의 열관리 아키텍처, Chatsworth의 랙·전력·액냉 제품, Ecolab의 냉각 플랫폼이 잇따라 발표됐다. 액냉 부품과 유체 관리 시장이 넓어지고 있다.",
+     "refs": [
+      "cc8065dc",
+      "5a06e7db",
+      "0a94d6c1",
+      "64bb1d48"
+     ]
+    },
+    {
+     "text": "Obsidian Mission Critical이 액냉 데이터센터용 서비스 사업을 시작했다. 액냉 확산에 따라 설치 이후의 유지보수 인력과 서비스 체계 부족이 새 과제로 떠올랐다.",
+     "refs": [
+      "880ccd1f"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "광통신",
+   "points": [
+    {
+     "text": "광통신 전문가 빌 가트너는 한국 AI 데이터센터의 최대 변수로 전력을 꼽았다. 네트워크 광 인터커넥트 기술이 발전해도 증설 속도는 전력 확보가 좌우한다는 관점이다.",
+     "refs": [
+      "d24712b7"
+     ]
+    },
+    {
+     "text": "대한광통신은 3분기 영업이익 29억원으로 2개 분기 연속 흑자를 냈고, 4분기에는 케이블 판가 인상이 반영될 전망이다. 성호전자는 3분기 영업이익이 703% 늘었는데, 반도체·광통신 계열사가 실적을 이끌었다고 한다. 광케이블 가격과 수요 회복이 실적에 반영되기 시작했다.",
+     "refs": [
+      "cf48a739",
+      "61376fed",
+      "6b38285b",
+      "77374ae3",
+      "12dcecc7"
+     ]
+    },
+    {
+     "text": "NTT와 ispace가 달 광통신 및 레이저 전력 전송 협력에 나섰고, 레오스페이스는 우주 광통신 단말기를 개발했다. 아마존도 저궤도 우주 인터넷망 구축을 추진한다. 광통신 기술이 지상 데이터센터를 넘어 우주 통신 인프라로 확장되고 있다.",
+     "refs": [
+      "b81a74c2",
+      "e0430d37",
+      "0fd87578"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "가스터빈·발전",
+   "points": [
+    {
+     "text": "AI 데이터센터 수요로 가스터빈 주문이 100GW 몰리면서 지멘스에너지의 수주잔고가 사상 최대를 기록했다. 계통 연결이 늦은 데이터센터가 자체 발전을 택하는 흐름이 겹치며 터빈 공급 능력이 전력 수급의 병목이 되고 있다.",
+     "refs": [
+      "bfc34db9"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "원전 해체",
+   "points": [
+    {
+     "text": "영국 도운레이 해체 현장은 현지 기업에 수백만 파운드 규모 계약을 발주했고, 컴브리아에서는 셀라필드로 인력이 빠져나간다는 불만이 나왔다. 해체 사업이 장기 일자리를 만드는 한편, 지역 인력 확보 문제도 키우고 있다.",
+     "refs": [
+      "6cf7e18e",
+      "340ee693"
+     ]
+    },
+    {
+     "text": "독일 원자력 상선의 529톤 원자로를 해체하는 시설이 규제 당국 승인을 받았다. 이 해체는 17년 계획의 일부다. 원자로를 절단해 포장하는 단계로 넘어가는 장기 해체의 절차적 진전이다.",
+     "refs": [
+      "2b1b40b3"
+     ]
+    },
+    {
+     "text": "ECP가 EnergySolutions 인수를 마쳤고, Decom Engineering은 TorqCut 절단 기술을 육상 시장으로 넓힌다. 해체·폐기물 서비스 시장에서 자본 재편과 기술 전용이 함께 일어나고 있다.",
+     "refs": [
+      "6f8fc960",
+      "03ccedb6"
+     ]
+    },
+    {
+     "text": "블루마그넷과 포스코인터내셔널이 원전 방사성 폐액 처리 공동 사업개발 MOU를 맺었다. 해체 과정에서 나오는 폐액 처리가 민간 사업 영역으로 들어오고 있다.",
+     "refs": [
+      "784ab80d"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "수전해",
+   "points": [
+    {
+     "text": "오만은 두쿰의 그린수소 프로젝트 2건을 선정하고 4차 입찰을 시작했다. 정부가 입지와 입찰을 조율하는 방식이 해외에서도 주목받고 있다.",
+     "refs": [
+      "757fa371",
+      "7fe42bca",
+      "4cacc982"
+     ]
+    },
+    {
+     "text": "독일 바트 라우흐슈테트 에네르기파크가 처음으로 그린수소를 생산했고, 프랑스에서는 Qair가 20MW 그린수소 설비를 준공했다. 유럽에서 수전해가 실증을 넘어 상업 규모 가동으로 이어지고 있다.",
+     "refs": [
+      "5852c808",
+      "35c02d3a"
+     ]
+    },
+    {
+     "text": "호주 웨스턴포트에서는 수소 생산 파일럿이 추진되고, 스웨덴 지속가능항공유(SAF) 플랜트는 엔지니어링 계약이 체결됐다. 수소가 모빌리티·연료 합성 수요와 연결되며 활용처가 구체화되고 있다.",
+     "refs": [
+      "542589ca",
+      "cafe6ed4"
+     ]
+    },
+    {
+     "text": "모로코 그린수소 프로그램의 토지 배정을 두고 NGO가 비판했다. 대규모 수소 프로젝트의 사회적 수용성과 토지 이용 문제가 사업 리스크로 떠오른다.",
+     "refs": [
+      "ed3a2159"
+     ]
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "AI 데이터센터 증설이 전력망 용량과 발전설비(가스터빈, 변압기, 초고압 케이블) 공급 능력에 얼마나 제약받는지.",
+  "무수·드라이쿨러 방식과 액냉 및 800V DC 통합 설계가 대형 AI 시설의 표준으로 자리 잡는지.",
+  "오만 4차 입찰과 유럽 상업 규모 수전해 가동이 그린수소 수요 확보로 이어지는지."
+ ],
+ "refs": {
+  "653ea294": {
+   "s": "조선일보",
+   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEUydUJkTHlJY2xsNV80Tl9NTlJzX0N3dEdGeTNMUVNmMEZlQWJNQ25mRnBGdmZ6TUZtYlppb0dNUjR1MnRQN2ZpRmtueHQ4alc0R0ZWeVYtak9aV0YxYk9YUF8yWUhPdmZWUk9UQWxIcGV5OVZiQ3c2bG8xRTVZMQ?oc=5",
+   "t": "SKテレコム、暁星重工業とGW級AIデータセンター構築へ"
+  },
+  "bfedf7a9": {
+   "s": "지이코노미",
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80NVQwZkZVaGFTSjhWMGVhdWZaSzJ5ZEpUdmtHejZEek81WlFVcG8ybFYxdlpTNDRhZTdpUTRwWUdCYWhyd3o5LTBqVVRWYll0UWE3Ym1YSmtBU19rMHBnMHVSaHgzRmM?oc=5",
+   "t": "글로벌 전력망 슈퍼사이클 올라탄 대한전선… 싱가포르서 약 2700억원 수주"
+  },
+  "e1401b71": {
+   "s": "IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFJrV1llVjBIVFVZam5ITS1WeGxoTWFveWFoSlgyWVRnT21oSFNLaEd4RWtFZFU4b2ozOVpJc3lJVVAwcGNLWmVyZlFORjlxNUxycmR0WmFBR3NIUmxFNThlUmNwa2NPbkZWaUhnUFlEY1ZUakpGS0hzV2NtX0xBdE5UajVVYkRHYzVxaGFLNHlsaWtManhUaTJ6UHdwa3BpX085cm5GYUh3ZTRKN21pODMwSjhYVUNmWnJLUjFmS3JpczU4Yk5B?oc=5",
+   "t": "接地変圧器市場2035年予測：再生可能エネルギーの系統連系が成長を牽引"
+  },
+  "2343dbbd": {
+   "s": "Gizmodo",
+   "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3SjE5SGFhbVV0UkdjZE0zdlRJVk1LTDBPa0xvYlFDN1d6dEV3MDN4bGQ2eDdqeEdTRFNtV200VlFlZzlVQWdpTkUwZGxaZzV2VkFibEpPWUFLTDJkZjkybVJzT2xNVjFrLW90elpEOWRBR01sUWpYWjln?oc=5",
+   "t": "ノルウェー「新しいデータセンターに回す電気はねえ！」国の全力を越えてます"
+  },
+  "4178ff5f": {
+   "s": "비즈트리뷴",
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UTnBWazBXakhtamZ6a1ZScTJGbUJIeDNoS0FxbmpoaTR6eTdPUF9VNFZkMGxZNk94MTQ1cGVseUlhWlFHNXQ3TkpPcXg0S2xNUzdaSmZER250RzBWNlBaTVdDS3M3OHVHUXZJaTdQT0w?oc=5",
+   "t": "대한전선, 초고압 전력망 구축 턴키 수주… 美·유럽 이어 싱가포르까지 글로벌 전력망 사업 확대"
+  },
+  "fb99ab64": {
+   "s": "디일렉",
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NRlhUcmJzMEhWbnZpMlBJN2lVSTRmVXg2VTlxTXoxQ0xsX2xsYmRoWmxZMHZLQ0ZNVW5BcVZYTXp3UjdDa25uOFYtUFpoRFZRYW82bXhOSXdma1ByVkJmT3ZYWTRrUQ?oc=5",
+   "t": "대한전선, 싱가포르서 2718억원 초고압 전력망 수주"
+  },
+  "d634115c": {
+   "s": "Daum",
+   "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Bc1IyVTExQ2xxY1UyVFU1QnZ2QnhQQmNRUHM2cF80aFJzLU81NHJoYldIbEFuTHg5S1JhbWtfZWEzM3RMN3c?oc=5",
+   "t": "대한전선, 싱가포르서 올해만 4118억 수주…초고압 1위 수성"
+  },
+  "a7a14948": {
+   "s": "www.dt.co.kr",
+   "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWbUJoTXl6ZWxIekZ0WUlaRHg3U0pMUWRLVjFRdFhreGRtLUZGMy1pVXgwZTJkUXpVcE8zU1I4MXhxVUg3eWY3eVB1N2JQdw?oc=5",
+   "t": "대한전선, 싱가포르서 400㎸ 전력망 구축 맡는다…2718억 수주"
+  },
+  "0021947c": {
+   "s": "Quiver Quantitative",
+   "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPakpyMmpSd01DVzBFOUtZMEdHRXJZUUU5WnlmSDZwUk96UFlUV0owc184NW1oc3lwbmkyYUFqTnBDaUotbUdaWVZWWE5FZVpFcWNDbWlqaWdJRV9nOHBwUXVBWkNHeS1zZEpxQ24xY0xPYklMU1ZEMkZHTFpSUU43RGpfN0UxVUQ1WEp1enJhUDV6TDhEVV9saVcwQ3I0YnRjY2w0SzRHM0RXS3N1RHRTWkVLcEZmR1Q4R3dXU1N6dHBISzcxSFkwRUkzSGRQSERLbnM0?oc=5",
+   "t": "nVent Electric Showcases Expanded Liquid Cooling and 800V DC Power Solutions for AI Data Centers at SC26"
+  },
+  "906bb0f2": {
+   "s": "GlobeNewswire",
+   "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMV9xRHRtTWF2SUJ6NENGZGtFTTVobTNMQnVIS3J5U2RiRnRvUlF4TGd2ZUtIUU91TlFlbm80clVkQ21pOF9JUUJ0NjNObUhhdU84TFpBZm51M0ZrWldITEMwR2J0NTZteTY0X21iVzdUUEtDMVJnM2lGNkxIeHlWZ1BWSlRZejZQY21QVG4wM29LN2hDY1BDUDlPWDBrbjVqblBHYWdZR1Fld3pnLU9PbXhKMnBkMVhKTkUtS0R5Slo0aW5scklKT1FrN25wX3BjcnVucw?oc=5",
+   "t": "nVent Features Expanded Liquid Cooling and Power Portfolio at SC26"
+  },
+  "880ccd1f": {
+   "s": "markets.businessinsider.com",
+   "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNXRKSW00VnluSkRCRmlTREFrd014ODl6MnNUc3MtMGV3MGpxeG5Cd0lOYzdra3h4SVZYeUxrZ3FMTTNZdEIwd3cweGpCTjlRdXF4b2VBX3dSUTJNTy1VZVh5YVpCdjdEeVdTb0FiZTVRa2V5RG1hMmFlZmZ0cklpeEhaQTNaNDVnck1heWVtZTlDYXdtM3VQYWFDTWJCSGYxUE5MWTV2eGx4aW9wXzlpaG9aTmRGMmI2VWd3dUZSeUo0T2dXVl95NzFsdm92ZFdNeXV4LVpReEFuRTRnX3o0?oc=5",
+   "t": "Obsidian Mission Critical Launches to Bridge Service Gap for Liquid Cooled Data Centers"
+  },
+  "cc8065dc": {
+   "s": "Fidelity Investments",
+   "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1hZblpOYzcxMjlFNGtHb0NEdlJQVlFuV0o4QkNJdG5hbGQ1WDB0LXBwM2RFV1FTUGJZTUhEejVlY2M3azljODl3NG9XZWZnUHl6WmJBVG0wd29CRkdJcHZpSXpmYjZ3LWQ1QzNfZldOdmQzLWVzckVUelRxRk5Xbl9MNGI1US1aX3F4aTJB?oc=5",
+   "t": "Aviemore Launches Seal-Less Magnetic Coupling Pump Platform for Liquid-Cooled AI Data Centers"
+  },
+  "9fb23e94": {
+   "s": "Data Center Frontier",
+   "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeVRtdXF4bUdrYng2Wjkya0I4eXRQWkZMYktfa2ljVkR2V2xvTzNVQTBCX0p6c2FqRUkwUWdTc1RCWkNseU1CMkMzNHIxUjJrNU5ZS2lCUlIyVW1fR1dmY0pQdGc3LUMwTmlQV2d4Z25WcU44eFFTZ2dZZWRDZWE3WUNKV0VhOHBIcVJFaFgzbS1uNFQ2RVRqektoVW5sNDJmRGRZR3VKdFdJUUhUR1lWbVFhbFdtWm5KX1RzNXd0QjQ0cHlyRWNVZGRwbEhyQWtfNm15Q1dGRndaZjZOc3BaLTZFUjIzaEcya0tfUWlxWlNDV3c?oc=5",
+   "t": "ZutaCore and Munters Unveil Waterless Chip-to-Rooftop Cooling Architecture for AI Data Centers"
+  },
+  "96dfb47c": {
+   "s": "ACHR News",
+   "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVV8wTW9VLWpmVEwxVWxEakY4VmR4WHF4cGdlYlRROGxCeXRLQmJyTFFtcGtGWkwxZjJwUDNRdm05Wjd1WDVISjB2c2UyTm9zVWcyd0dtX2lmaDBlcEU1WG1pM05xa3J5V3lLLW5waHA1QkZjVFF2QmVSLVRRRG1PeUNjeFl2WXpMd24yWi10ekdjNUh2eXFwNWF6UE1lLTJmQzVMbUNYa3ZVTDFCcTM4WQ?oc=5",
+   "t": "Daikin Cooling System Supports NVIDIA AI Factory Platform Data Centers"
+  },
+  "0707347c": {
+   "s": "Business Wire",
+   "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVDdXNmNGUnEycE0zX3JaYS10d0lxazNrV3otVThNNnNUd3d2QjdkeUNkU28xcjZUbm5oLXpRdTh4alhzX1BHTF8yZTBVMEFzSEtTUnE1R2JMR2FXekNBQVoxeDl3Y0ltNmlSa2N5bUQ3Sy1uWERTWkkzaXZrZkdBV2NGa1lWX2lwRFdlMXhkTkMxV2ZTRmV5NEJCRlR0RE9NZDlTXzN2RzhsTUVwZFZBTExFTGhPN3hB?oc=5",
+   "t": "ZutaCore Unveils Z₂O at SC26: Zero H₂O, Near-Zero Cooling Energy"
+  },
+  "64bb1d48": {
+   "s": "GuruFocus",
+   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVEoxaGpBSjNudWxwc0ZIODFWcXFaREZWOVBGUmhLSG85alJLSTF1NmFpbkdSMmxfSjZBVW1lZ3preW1NQVp3TUdyWndsdXVTY0ZGWFI2ZGVFbzg2OWtyeHhXbXNYWS0wbUI0MEl0YXdUWVdTbTk0SkZqejVxXzJMOUxqVEZ0YkwtalZHbXlrTmtLX3NMODlaOUtXR0hjLWtmNnlFTXN3Z2Y?oc=5",
+   "t": "Ecolab Unveils Advanced AI Data Center Cooling Platform, Ticker ECL"
+  },
+  "f7ab7abb": {
+   "s": "Environmental Protection Online",
+   "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONTVzNWNyM0ZlWlpjTG5SV0lXeG1abVdjdG5LVjU0RDNuVWxjRVd1WXZJdElUSjk3RklxOWVFdGZWSzZnQmVPV3dZWF9aSE9Xa0JrVnpqaXkxTkR0ZU9YbTRRQm83WXh5ZGFaSE9xSWxsUlk4dG9tNTlWU0duWkhvQ3I5aUJvMlFfenIzZmFmWXNwc0ZWdTBHOUpfZGRCR2x6cDE5T2Rxa05XdGpTczhjVEpWMHNTX2xLTWdsUEdscUxSVENiOW1LSzRfcUZqNC12?oc=5",
+   "t": "60-Megawatt Cooling Design for AI Data Centers Uses Dry Coolers Instead of Cooling Towers"
+  },
+  "92fd8f10": {
+   "s": "Data Center Dynamics",
+   "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRUttUmlJVllfTWhiQVlXaUdSQk1SbWttVVNNUWlsR1ZBQWp3LW9FYWhPREtaLVhMVjI4VUEwRTg1d3BCNmw1U2dGS29yZHB4LVJwWHFZalhJODIxUEN3NmpITC1yYk1jRVIzVVgzV3h3aE85WlBXT1hTd01EZnNHZWFROTloNVlJSVZjSVBWa3RBbGpza3hVOFNyS2FWY0U3UFlDbU9fVXRaV1dDYnBQNVcxa2Y4eEl2U3pNZGJqaGtLLUp6cnpvajIxbll3LVE?oc=5",
+   "t": "The University of Münster deploys Zutacore's waterless, two-phase liquid cooling"
+  },
+  "5a06e7db": {
+   "s": "GlobeNewswire",
+   "u": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNdlpsYnJSN3VueWhzTE9BTS0talNzcWo3UlNlb25yQ2V6TklEWTJ4ZnF1QlRvNDM5am1DQnpic3E3ZV92WExZNGJaLWo0QnpXNUpEZzNmN2UySXBCc05nZG1kTnRZMGktbnM3dlVnNGQ5Q2tvc3g2UkczVEtVWk5JeTkzd2pwNkFqTjlpbnZhWXZwM0xOODd5MmgyRnVaUEE2anFvMmpOWDc5ZkxHZ09CdjJvN0dJS0cwcnhLbl9KRlVHcHZFZnhLSDJhQUY2N3BMVWtEeTRzek85Wm9mcTBpYVFha21ET0p3ekc1WGQ4NGo5Rk1nX3RFM0hENVdQUkxFUHFiVjluNS1FMjQtU0phRHJKcVdjejA?oc=5",
+   "t": "Airsys Unveils Arc90, a Thermal Management Architecture"
+  },
+  "0a94d6c1": {
+   "s": "Refindustry",
+   "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWswaXU4MlFkdWtXb3poc2Vhak9xVkV4X2lKcXRYRlkzd0o5aFFVaDhNZjJKU0swdWRMQ3lWNW93aEJMLU53SWNkekpPMHpTbGdGXy10Z2NqcW9hbXRUd09xWHRwcmVOQ1FtS0xuWjRzSW5weEtTUDdMeWVqVVc3eXdKeUkySFk1S01abzFFWEJCbjg4Y2s0VktkUjJjM3dXV1RJYmdjZw?oc=5",
+   "t": "Chatsworth Products Introduces New Rack, Power and Liquid Cooling Solutions"
+  },
+  "93dba434": {
+   "s": "varindia",
+   "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUHZ3eFo2QURGU3VsQmNQNDBya0ZlZXBBMi1MR1V6d3lGRnBkb2pwdld2SE9zOGVwMWlsamFWRGl5ZFVPMW83YnRHQ1B3WEVKblJCOTJfZ0dnUVYxSVZPcGVYXy1UdE1BSjVlTEo0QkJoY2E5bHc0WVdpeXpwUmpZbkhrMFdzN2JVem5rR2F6YXFzT084YnN5THlFdmJEQ0JXYlBxMmJpVk9DX3pzcG5qQW9UeXAzZFVfcklxOEg2U0hReGdDS0ZQYjdza1JtLVVCOUZrYU5VcExMZw?oc=5",
+   "t": "Vertiv Offers Global Ecosystem to Strengthen End-to-End Thermal and Fluid Management for AI-Scale Infrastructure"
+  },
+  "b81a74c2": {
+   "s": "Unite.AI",
+   "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLXVOa0ptc3FmWVJXcmp1RmVIRnFIcFFreWdFQnJIMzFUdkthb0VNU2ZZWW1jSHV5Y3FIaTNKTUNDdlREVG8zaUFKM1ZEdWt5NDUtU295aTUzMGc2ZzdrZnNFVFVBNkhFclRVV2pqUjdOaC1uWWw3ZzVQdXBaQ2VjRV9n?oc=5",
+   "t": "NTT와 ispace, 달 광통신 및 레이저 전력 전송 협력"
+  },
+  "0fd87578": {
+   "s": "인공지능신문",
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sakxJbFltS1FaVjNoUjNqbGJBRm1hdGlwRl9NaEpHci1rV0xpbWhIY2F3ZG13a254YnluWUdDSEZGekVsRHQ3dVQ2dzNLbHBiRDdLWF9paUdTT3MtSlR2cUJSaC1SbW8?oc=5",
+   "t": "아마존, 지상 640km에 우주 인터넷망 구축…인공지능 시대 글로벌 통신 인프라 확장"
+  },
+  "77374ae3": {
+   "s": "리드경제",
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYME1oU04xbkpxbXBEWktNLUNjOWFHakVqc3M0OHZNUS0tWGp6d3QzcFJWQ043WHFEQkRadm1Db0E5OVVjSHFfbXVDZllHU3U1dW1pRFhkRGJRaXItSWVKa1dIRG12dzlZdGYwVzM5RDg?oc=5",
+   "t": "성호전자, 3분기 영업익 703% '대폭발'…43억 어닝 서프라이즈"
+  },
+  "12dcecc7": {
+   "s": "내외경제TV",
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zNzJfOHRzVHRKRHpPVldFVnNxTWpKZElrX0kxUXk5ZmRiQk51NWZYbkpUZ0RCY3Q5U1BNSTBkd0hxeV9NYmtfaGtIS0JLZUpwTmVuemNvTjJESlFEYkRtenRpQXlGUUh4OGtB?oc=5",
+   "t": "성호전자, 반도체·광통신 계열사 실적 견인…영업익 49억"
+  },
+  "6b38285b": {
+   "s": "뉴스핌",
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RR05KaFJ3NjlJY0VHQXpwQlNpQUVmRmJzS0s3Y1hwM2xPVEh3Wmx2MTk1UHluMEFRTHVUbEpQWHd4NW1vdlZBQllYUTM0ZDQySXZfN2JvUXV3dVlK?oc=5",
+   "t": "대한광통신, 3분기 영업익 29억원 달성"
+  },
+  "61376fed": {
+   "s": "이데일리",
+   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHNGc2Y4ZlNsZU8yNmZWUDYzbUcxYnVYVE9NZEJaVk5HN2d0QXc1QklhTEU0Um9kZXJzQmlLZUlUR2l4NE5aSkpoeTVsWkhkQ1pNWnlFanYwWkZrc3BXYUszMWNFZ25McEE0TWJlSVdIb2FuUWFEZGNRc2RFa1cwZQ?oc=5",
+   "t": "대한광통신, 3분기 영업이익 29억…2개 분기 연속 영업흑자"
+  },
+  "e0430d37": {
+   "s": "재경일보",
+   "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtZXVFNE5PaGloNmlxZTZnOVNCcThnOUdENFJFblZuSGQ5ckdTczBaQUFWZURHVldMcTF1S0dsWmhoNUpXaE1ZR1h4WQ?oc=5",
+   "t": "레오스페이스 우주 광통신 단말기 개발…누적 투자 100억 : 테크/과학"
+  },
+  "d24712b7": {
+   "s": "지디넷코리아",
+   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnZTdGR0hoQkRSY1pXb1UxNVVGTkNhckpkTl9INm9BX1NJb1ZBSnprTXZEYXdRUDdzNVpuMU1ienN4MUU1cTNsbTVQS0QwTFpiOXptUk9B?oc=5",
+   "t": "[인터뷰] '광통신 전문가' 빌 가트너 \"韓 AI 데이터센터, 전력이 최대 변수\""
+  },
+  "cf48a739": {
+   "s": "파이낸스스코프",
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5saHYtLS12VHJXeUxKX0xXS045dVE0Q3Rfb0dqcU5ZelBkOHdUa1p5ZzhxWHozNkt3NGNUcmVsNERucmZ6WjMzZkpfSVY0MjE0cl9hV1NnYWpYWndZUDVWODM2em5vRlFrSFE?oc=5",
+   "t": "대한광통신, 3분기 영업이익 29억원 달성… 4분기 케이블 판가 인상 효과 반영 전망"
+  },
+  "bfc34db9": {
+   "s": "글로벌이코노믹",
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXZCUlYyVWktMEk3NVpLTTNFb2k4YlBSeFZxeEg3YlNCODloQmFNWkJET0I4X3VKejRkUWtfMDFjaG5kaXptbzFOWThRSzU4djFJQnBqdkE0WmNyR1hYal9HcDNEUWcwSXBseF81bGxyQ01FUlpLRDliR2JBT1JGN3Z4SVhXVXpR?oc=5",
+   "t": "AI 데이터센터에 가스터빈 주문 100GW 몰렸다…지멘스에너지 수주잔고 사상 최대"
+  },
+  "6cf7e18e": {
+   "s": "John O'Groat Journal",
+   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVC1PbnRKaUt5NVdwSmY2NnZGY000VWJ3MXBPXzFiQm5udUZZY295eWNadExUdFdTNjZURktKbGpKWDdmblNLUUpBOWNocldoek5HQ1NMc3ZwTG5COVhJV0dwakxLXzZ3cE9PNU5lSVdmWlIzYnV1Qmw3NWtOelBCUnpmUTJtTFU5Q1pNOTN4bTF5Q3NFS0tPdmdjUThXRFE3UkRtU19Fck9rUQ?oc=5",
+   "t": "‘This contract marks a major milestone at Dounreay’ – nuclear decommissioning site awards multi-million pound contract to UK company"
+  },
+  "6f8fc960": {
+   "s": "The Manila Times",
+   "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ3lPV2I4T3ltcWhFRy1pOGt0YVo5MU5Jc295R3ZhNmRKZkFCeEZ3QVh6WXNrSFNTNXQ1RTZsLVkzMk9hZHdpOGhTdGd0N2NuX2RRUGZqbXVTR2E1VFJxY1NrRDRmOXpScHlUdjJURkJMdmcyQ21leTZaWUxMNW1HbDNKY1h1MVpnLVRvLWoxcTVCWGZiOFZRVzM1MmpoeV92YW01UDJodHBnN2M2ckxZRl8wcXl3MERQSjdGLWR6UHo3SmhMYnI5c24zSVVLbGhHY0dlakFHeFdVT1IycUtJ0gHfAUFVX3lxTE1DeU9XYjhPeW1xaEVHLWk4a3RhWjkxTklzb3lHdmE2ZEpmQUJ4RndBWHpZc2tIU1M1dDVFNmwtWTMyT2Fkd2k4aFN0Z3Q3Y25fZFFQZmptdVNHYTVUUnFjU2tENGY5elJweVR2MlRGQkx2ZzJDbWV5NlpZTEw1bUdsM0pjWHUxWmctVG8tajFxNUJYZmI4VlFXMzUyamh5X3ZhbTVQMmh0cGc3YzZyTFlGXzBxeXcwRFBKN0YtZHpQejdKaExicjlzbjNJVUtsaEdjR2VqQUd4V1VPUjJxS0k?oc=5",
+   "t": "Energy Capital Partners (ECP) Completes Acquisition of EnergySolutions"
+  },
+  "2b1b40b3": {
+   "s": "Autonocion",
+   "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHJLMWxyWWc1SXV4cFk0aW5DZEZEcS1YT1A0RkxqdlNzV3F2Q2tVNXJQajlRMnFJVjBBcmk5Skpnc2FDLXY2Qmx2TzZNMUtIVDdNaG1GdDFXTjFnYk1aR0dsRi1xRGItUXk1cmgwcThNWjVyc05zWTQwdFZHZ29pQndxU0NNdHA2MlRwaHJQOV9sbU1iYW1PMXp6X1FPM1VnZkE?oc=5",
+   "t": "A 529-ton reactor pulled out of a German nuclear cargo ship has sat empty of fuel in a concrete shaft near Hamburg for 45 years, and regulators just cleared the hall where it will be cut into pieces and packed for disposal, part of a 17-year teardown of the resea"
+  },
+  "03ccedb6": {
+   "s": "World Pipelines",
+   "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMEZBR1JJSFhjVkxjR2UtTG9ET0VSbl93X0t5clp1UHVvc3k5ZWxPcHFTdlBKT19rWmhfcTlrd3BVMElpSk5sR2NqRkZFRXBWSlVjOFFKbVctQVdRNVZtSkwzbDFYYkUyMVUzNlVzN19FQmxzeVFDUXpfNk0xMlhRc2JyalhKMGhVN0lPSmdBNEdHNFpvLWNtd29ZWjRoRGMtZUhaeVBTdE52RXRaWHNTVW1aa0xNWGdER0R0U29nQ3V5TnZhUnBJ?oc=5",
+   "t": "Decom Engineering expands TorqCut technology into onshore markets"
+  },
+  "340ee693": {
+   "s": "New Civil Engineer",
+   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPalR0YTdPQlhZcTBnTmZhRmVSdG5iWTR0SXZNWWlrckZSY2o3Q3g4cUF6TEY2N19CZFJMQmotaDFma0J5ZVRzY05ucTRRVFh3cThXME9YdW05c2Y4VWx1VjFiQVVMYjFwbjNlMTJROUViU09TdEg2c2JKVi1ZTTU0SGVud3p1TS1OTm52T01FZWNmMS0yVy1ndGdxcVp4T0w0N3kwSkdfQzRuWjBfNlhFd0pONjM1bGtKa2dKbw?oc=5",
+   "t": "Cumbrian businesses ‘frustrated at losing staff to Sellafield’, says MP"
+  },
+  "784ab80d": {
+   "s": "머니투데이",
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yT1pUM09rMW9xSl9VelZxbW9mQWQ4cHJwdW5nLU0taVZfME9RaTY2bGRILXpqN3BSMUFOeFVNTllDcC1YME5QM0NGVkZqcUJZa3lqZmd6UlZGdUt2QkJJdV9JRWc2d1FLMFVwV3ozaS1rd9IBckFVX3lxTE1yT1pUM09rMW9xSl9VelZxbW9mQWQ4cHJwdW5nLU0taVZfME9RaTY2bGRILXpqN3BSMUFOeFVNTllDcC1YME5QM0NGVkZqcUJZa3lqZmd6UlZGdUt2QkJJdV9JRWc2d1FLMFVwV3ozaS1rdw?oc=5",
+   "t": "블루마그넷, 포스코인터내셔널과 '원전 방사성 폐액 처리 공동 사업개발' MOU - 머니투데이"
+  },
+  "5852c808": {
+   "s": "Hydrogen Europe",
+   "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjFJSG1PVG5MNjZJTXgwaEhLQkxyZmNQYklIQ0xoelZvaFp6RVlnZVN3czhrMHRFTGdYdTNRYTNyU0YyWkhwT1VUYnkxcEJhNTRodVNjT1cxeXlnV05nMkZtaVJIWVJUb0t5UnpBWWJ3d3RBb0lQb3lzc1I5bzl4NXZldUl5YkZrcGR4Y2ZIeV80YktOaGs2UTIweEo?oc=5",
+   "t": "Energiepark Bad Lauchstädt produces green hydrogen for the first time"
+  },
+  "4cacc982": {
+   "s": "Hydrogen Fuel News",
+   "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbm1aVUFmalEtWVlIN3dBSEpTV0std0pnMElZRUE4ZmhSbzkyeHlOZXNSenlxejdaTjEzem03VHpTUm1qYWR4VzYwbktfSm1MaXliQXA1UkphYmIwaWhqZXMxU0lOYU9LY0FfZGZjOGU0RkJ1anhzR0ZGVlNpUHpuVTZUb1lKZ0ZIaFZpNWYtNlc1VjhBZXNNNVlycHZVMWVhU2NyUHhNYw?oc=5",
+   "t": "Oman's Coordinated Green Hydrogen Model Draws Global Attention"
+  },
+  "757fa371": {
+   "s": "Fuel Cells Works",
+   "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNUFCMGlfNXRnRnlXM0NxSk15amhRR0Znd0F2S2pLQWVIdVduOXVxNjdvQ1ozX19LTUtRUWFhMXRSY0RLVlNVWDRuZ2VINGpJRS1zUGs2Vlk4M2ozODBIXzh3WUpyckljNUdIWHplU25xeEpCelM2S3p2TTJQSDdOZFZxdTR1MkR2V2RtRXFiMDRWUlNIY3RsMnU2ZjM0d3NFTjhWUVh1VHhyVm9Qc0Q4Y2Y0MERuZ2VKdnpGQkZGRzV1VzROVDV3TFZPaTJLbVQ1R2VLZUo0Zw?oc=5",
+   "t": "Oman Chooses Two Green Hydrogen Projects in Duqm"
+  },
+  "ed3a2159": {
+   "s": "Quantum Commodity Intelligence",
+   "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0I1aG1oTDhjWE9BVzd6NXkzQ3p5UDk2cHAtaW1NTzVHNmdkekdHSDdUZkFDT3J2cG1vbkI5RzBwZUlvSVdINjdXdTRDOEM1amp4YUdNLXpoejJHZ2Q4dTFCWUVCSk9ESnVJaVU5Y2ZKaElJVlEyNzRFcC15RTg3a0NqUENzODBaeHZOQjF6X1JndlBOa3I1c1J0OXhMM3lOLTNkeHpIZHJ1U2VmeGZrdWNma3d3NC1NaVlzaXF3?oc=5",
+   "t": "NGO criticises Morocco's land allocation for green hydrogen programme"
+  },
+  "cafe6ed4": {
+   "s": "Técnicas Reunidas",
+   "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYTV5SE0xLWVRQkNMNUM1NDZ1X0NUOUsxQ0VXdzd6NXVvdjZReUh5dE12d1djTHFyUUFXR3hBUDJfM2xCdkNNQ2dIVlJwb3BrU1VYR3ZqRzBrYnRjQ21NbXduWmxGNGZnMmhUQWtSM0hXVURDU2g0bFhpZnhXbzdEM0xRdXlBdnVkbE5tMm11SVVaYU5SRWxOcFVRY0l6UjhDTlhPQ3hWOEpuN0Vqc3pHbnVyZ2g3S3lHQm84ZjVFOC15Q0hXYUxhZ29QZURXNXEzRWZYd1l4TGI?oc=5",
+   "t": "Técnicas Reunidas awarded the engineering contract for a sustainable synthetic aviation fuel plant in Sweden"
+  },
+  "542589ca": {
+   "s": "Mornington Peninsula News",
+   "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWF9SWDlsUThQb3hJYUV6Rm9oY2d6QzRRYzBpaWtQLThmbnR1SjdjZlRYOUU1Z0FUM2pHT3BFN3hscmVNX2pERmUwRTdNaTJUVm91UnRKTVRadE9TTzJRNDYwaUNmVjl3MUlHZWxkNW4tR0lIazhlU3Q1dUJnamZoWXRQX3hiZVQzZzdSRlpHVS02QQ?oc=5",
+   "t": "New hydrogen production pilot set for Western Port"
+  },
+  "35c02d3a": {
+   "s": "energynews.pro",
+   "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnZScmJjVlJWSHN1aUV0dVp3ektJVE5CY1BTcWlrT3ExblM0ZTItV0FvTDlOOW9ZZE1OYzFRemFnc25fRElOUVRTWWlQaHh2NXp0UHpXZkdtcUx5ZEd2NGlhNEpxV0JyVGhPU2ItLUllWmRVZ3JHc1J4SE9IX3JrWUFmTGtyZ0lUdTZUX3hPN3JwRXlFV3JWejBtZ0ttRFVYeTNv?oc=5",
+   "t": "Qair inaugurates 20 MW green hydrogen plant at Port-la-Nouvelle in the Aude"
+  },
+  "7fe42bca": {
+   "s": "energynews.pro",
+   "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcm9rQmFpZlhKMGNFTEs3MmpQd3NaaVlab2RPQ3hObEUzZ09lU0ZqYzVLWm1xS1lwOU1FUV9Hc0hUaE9vNVl2SXlpcjdxWWZvLXJ1QzRkUTNZZXpSQm1lNEUyRng4WXhFNHRpd2s4T1ZuaFpCR2h4bjFaU3VGV25Sbkx4bS0yazl6dTdLNVR3U3JLOTdsRS1uSUtNOWVmMFN2RGUtcHpvMWpFaEJDNVE?oc=5",
+   "t": "Oman Awards Two Green Hydrogen Projects in Duqm and Launches a Fourth Auction Round"
+  }
+ }
+}
