@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import os
+import re
 import smtplib
 import ssl
 from email.mime.multipart import MIMEMultipart
@@ -21,7 +22,8 @@ def send_email(subject: str, html_body: str) -> None:
     pw = os.environ.get("SMTP_PASSWORD", "").strip()
     if "gmail" in host:
         pw = pw.replace(" ", "")  # 앱 비밀번호는 공백 없이 16자리
-    to = [a.strip() for a in os.environ.get("MAIL_TO", "").split(",") if a.strip()]
+    # 쉼표·세미콜론·공백·줄바꿈 어느 것으로 구분해도 됨
+    to = [a for a in re.split(r"[,;\s]+", os.environ.get("MAIL_TO", "")) if a]
 
     print(f"[info] SMTP 점검: host={host} user={_mask(user)} 비밀번호 길이={len(pw)} 수신자={len(to)}명")
     problems = []
