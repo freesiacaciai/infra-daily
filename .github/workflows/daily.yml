@@ -9,6 +9,10 @@ on:
         description: "메일 발송"
         type: boolean
         default: true
+      auto:
+        description: "자동 실행으로 처리 (주말·공휴일·이미 발행된 날은 건너뜀)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -41,6 +45,7 @@ jobs:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
+          AUTO_RUN: ${{ inputs.auto && 'true' || 'false' }}
 
       - name: 기록 커밋
         run: |

@@ -19,6 +19,17 @@ from .summarize import summarize
 KST = dt.timezone(dt.timedelta(hours=9))
 
 
+def _lookback_hours(cfg: dict, now: dt.datetime) -> float:
+    """직전 발행일 이후 기사를 모두 담도록 수집 기간을 늘림 (월요일·연휴 다음날 대비). 최대 5일."""
+    base = cfg["newsletter"].get("lookback_hours", 26)
+    prev = sorted(p.stem for p in Path("archive").glob("*.json") if p.stem < f"{now:%Y-%m-%d}")
+    if not prev:
+        return base
+    last = dt.datetime.fromisoformat(prev[-1]).replace(hour=7, tzinfo=KST)
+    hours = (now - last).total_seconds() / 3600 + 2
+    return min(max(base, hours), 120)
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--config", default="config.yaml")
@@ -33,9 +44,20 @@ def main() -> None:
     if a.date:
         now = dt.datetime.fromisoformat(a.date).replace(hour=6, tzinfo=KST)
 
+    auto = os.getenv("GITHUB_EVENT_NAME") == "schedule" or os.getenv("AUTO_RUN") == "true"
+
+    # 자동 실행은 주말·공휴일(한국) 건너뜀. 수동 실행은 언제든 가능.
+    if auto and not a.date:
+        import holidays
+        hol = holidays.KR(years=now.year).get(now.date())
+        if now.weekday() >= 5 or hol:
+            print(f"[info] {now:%Y-%m-%d} {hol or '주말'} — 자동 실행 건너뜀")
+            build_site(cfg)
+            return
+
     # 예약 실행은 하루에 여러 번 걸어둔다(GitHub가 가끔 건너뛰기 때문). 이미 정상 발행된 날이면 건너뜀.
     today = Path("archive") / f"{now:%Y-%m-%d}.json"
-    if os.getenv("GITHUB_EVENT_NAME") == "schedule" and today.exists():
+    if auto and today.exists():
         if not json.loads(today.read_text(encoding="utf-8")).get("fallback"):
             print(f"[info] {today.name} 이미 발행됨 — 이번 예약 실행은 건너뜀")
             build_site(cfg)
@@ -45,7 +67,7 @@ def main() -> None:
         news = json.loads(Path(a.fixture).read_text(encoding="utf-8"))["news"]
     else:
         from .collect import collect_news
-        news = collect_news(cfg, now)
+        news = collect_news(cfg, now, _lookback_hours(cfg, now))
 
     brief = summarize(news, cfg)
     save_archive(now, brief, news)

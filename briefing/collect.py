@@ -34,14 +34,15 @@ def _split_source(title: str, entry) -> tuple[str, str]:
     return title.strip(), src.strip()
 
 
-def collect_news(cfg: dict, now: dt.datetime) -> list[dict]:
-    hours = cfg["newsletter"].get("lookback_hours", 26)
+def collect_news(cfg: dict, now: dt.datetime, hours: float | None = None) -> list[dict]:
+    hours = hours or cfg["newsletter"].get("lookback_hours", 26)
+    days = max(1, -(-int(hours) // 24))  # 올림
     cutoff = now - dt.timedelta(hours=hours)
     out, seen = [], set()
     for topic in cfg["topics"]:
         bucket = []
         for qd in topic["queries"]:
-            q = urllib.parse.quote(f'{qd["q"]} when:1d')
+            q = urllib.parse.quote(f'{qd["q"]} when:{days}d')
             url = f"https://news.google.com/rss/search?q={q}&{LOCALES[qd['lang']]}"
             try:
                 feed = feedparser.parse(requests.get(url, headers=UA, timeout=20).content)
