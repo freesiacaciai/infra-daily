@@ -14,6 +14,7 @@ SYSTEM = """너는 에너지·AI 인프라 산업 동향 분석가다.
 규칙:
 - 입력된 기사 제목 목록만 근거로 쓴다. 목록에 없는 사실·수치를 지어내지 않는다.
 - 비슷한 기사는 하나의 포인트로 묶는다. 사소하거나 광고성 기사는 버린다.
+- 섹션당 포인트는 최대 4개. 중요도가 낮은 것부터 버린다.
 - 각 포인트는 한국어 1~2문장. "무슨 일 → 기술·시장·정책 관점에서 왜 중요한가" 순서.
 - 산업 구조, 기술 흐름, 수급, 정책 변화에 초점을 둔다.
 - 주가·투자 판단·종목 수혜 여부는 언급하지 않는다. 기업명은 사실 전달에 필요할 때만 쓴다.
@@ -125,7 +126,7 @@ def summarize(news: list[dict], cfg: dict) -> dict:
     client = anthropic.Anthropic()
     base = dict(
         model=lcfg["model"],
-        max_tokens=lcfg.get("max_tokens", 8000),
+        max_tokens=lcfg.get("max_tokens", 16000),
         system=SYSTEM.format(audience=cfg["newsletter"]["audience"]),
         messages=[{"role": "user", "content": json.dumps(payload, ensure_ascii=False)}],
     )
