@@ -62,6 +62,12 @@ topics:
       - { q: '수전해 OR 그린수소 생산 설비', lang: ko }
       - { q: 'electrolyzer OR electrolysis green hydrogen project', lang: en }
       - { q: '水電解装置 OR 水電解 グリーン水素', lang: ja }
+  - name: "CCUS"
+    max_items: 15
+    queries:
+      - { q: 'CCUS OR 탄소포집 OR 이산화탄소 저장 사업', lang: ko }
+      - { q: 'carbon capture project OR CCUS OR CO2 storage', lang: en }
+      - { q: 'CCS 二酸化炭素回収 OR CCUS 事業', lang: ja }
   - name: "일본 수소·전력"
     max_items: 15
     queries:
