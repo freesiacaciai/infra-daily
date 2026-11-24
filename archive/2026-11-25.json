@@ -1,0 +1,691 @@
+{
+ "date": "2026-11-25",
+ "generated_at": "2026-11-25T07:22+09:00",
+ "n_news": 145,
+ "fallback": null,
+ "top3": [
+  "AI 전력 수요 때문에 설비 납기가 4년까지 늘고 가스터빈 가격이 30% 올랐으며, 데이터센터가 중고 터빈 시장까지 찾고 있다.",
+  "일본은 데이터센터와 계통용 배터리의 계통 연결 지연을 풀려고 수전 제한을 도입하기로 했고, 미국 상원은 발전·송전 인허가를 줄이는 법안을 통과시켰다.",
+  "포르투갈이 하이퍼스케일 데이터센터의 식수 냉각을 막는 법을 추진하는 등, 냉각 방식이 물 규제 문제로 번지고 있다."
+ ],
+ "sections": [
+  {
+   "topic": "전력·그리드",
+   "points": [
+    {
+     "text": "일본은 데이터센터와 계통용 축전지의 계통 연결이 길어지자 수전 제한 등을 도입해 해소하기로 했다. 미국 상원은 AI 전력 수요에 대비해 발전·송전 인허가를 단축하는 법안을 통과시켰고, 환경단체는 이에 반발한다. 텍사스(ERCOT)에서도 데이터센터 정책이 계통의 미래를 좌우한다는 논의가 나온다. 계통 접속과 인허가가 AI 인프라 확장의 병목이자 정책 쟁점이 되고 있다.",
+     "refs": [
+      "c18a708b",
+      "898cd0ab",
+      "5d821699"
+     ]
+    },
+    {
+     "text": "한국 변압기의 미국 수출이 하반기에 78% 늘었다. 효성중공업 수주잔고는 18.9조 원으로 역대 최대이고, LS ELECTRIC 수주잔고는 7조 원에 육박한다. 히타치에너지의 태국 변압기 공장도 데이터센터 수요로 매출이 두 배가 될 전망이다. 변압기 등 전력기기 공급망이 데이터센터 수요로 북미와 아시아에서 함께 확대되는 흐름이다.",
+     "refs": [
+      "57dbed8a",
+      "00c79724",
+      "feb52806",
+      "4a156edc"
+     ]
+    },
+    {
+     "text": "LS전선이 미국 뉴욕 'Propel NY' 프로젝트용 약 7,000억 원 규모 케이블 공급을 따내 본격 공사에 들어갔다. 미국 송전망 증설이 케이블 수요로 이어지고 있다는 사례다.",
+     "refs": [
+      "ddf62330",
+      "3c0ceaad"
+     ]
+    },
+    {
+     "text": "AI 데이터센터에서 배터리를 단순 백업이 아니라 능동적 전력 버퍼로 쓰자는 논의가 나온다. Crusoe 같은 업체는 AI 데이터센터용 태양광과 저장을 결합하는 모델을 추진한다. 계통 연결이 늦어지는 만큼 부지 내 발전·저장으로 부하 변동과 접속 지연을 줄이려는 방향이다.",
+     "refs": [
+      "dda40b2b",
+      "c7181c2e"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "데이터센터 냉각",
+   "points": [
+    {
+     "text": "포르투갈은 하이퍼스케일 데이터센터가 식수로 서버를 냉각하는 것을 막는 엄격한 법을 추진한다. 데이터센터의 물 의존도를 줄이는 설계와 AI의 환경 비용에 대한 논의도 이어진다. 냉각 방식 선택이 이제 효율뿐 아니라 수자원 규제 문제가 되고 있다.",
+     "refs": [
+      "c610bc62",
+      "27b1286b",
+      "0fc0b12a"
+     ]
+    },
+    {
+     "text": "AI 열부하 때문에 액체냉각으로의 전환이 이어지고 있다. 서버 백플레인 냉각 채널, DLC 냉각유체, 냉각액 모니터링 장비 시장이 커질 전망이고, 침지냉각 유체는 소재 호환성과 신뢰성 한계가 검토 대상이다. 액체냉각이 확산되면서 유체 화학과 소재 신뢰성이 설계의 핵심 변수가 되고 있다.",
+     "refs": [
+      "13607c67",
+      "0733573e",
+      "68162b7d",
+      "300c0bc2"
+     ]
+    },
+    {
+     "text": "액체냉각이 늘면서 스테인리스(STS) 배관·설비 수요가 철강 불황의 돌파구로 거론된다. 냉각 확산이 소재·부품 업계의 수요 구조에도 영향을 준다는 신호다.",
+     "refs": [
+      "77164340",
+      "28043f30"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "광통신",
+   "points": [
+    {
+     "text": "AOI가 두 번째 하이퍼스케일러 고객을 확보했고 4년짜리 AI 광학 부품 공급 계약도 맺었다. AI 데이터센터 광 트랜시버용 레이저 부품이 장기 계약 방식으로 공급되는 흐름이다.",
+     "refs": [
+      "bcb6106c",
+      "c5135733"
+     ]
+    },
+    {
+     "text": "전쟁에서 드론 사용이 늘면서 광섬유 가격이 7배 올라 AI 산업의 핵심 소재 공급망이 흔들린다는 보도가 나왔다. AI 네트워크 증설이 군수 수요와 소재를 두고 경합할 수 있다는 점에서 공급 리스크로 볼 만하다.",
+     "refs": [
+      "72a0d047"
+     ]
+    },
+    {
+     "text": "삼성전자가 특허 인수로 실리콘 포토닉스 포트폴리오를 넓혔다. 전력 부담이 큰 AI 네트워크에서 광 기반 인터커넥트로 가려는 기술 흐름과 맞닿아 있다.",
+     "refs": [
+      "a8ac4074",
+      "de33217e"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "가스터빈·발전",
+   "points": [
+    {
+     "text": "AI 전력 확보 경쟁으로 설비 납기가 4년까지 늘었고 가스터빈 가격은 30% 올랐다. 2030년 이전에는 터빈을 못 받는 데이터센터가 중고시장으로 가고 있다. 발전 설비 공급 능력이 AI 인프라 확장 속도를 제약하고 있다.",
+     "refs": [
+      "df496058",
+      "96945a1d"
+     ]
+    },
+    {
+     "text": "가스터빈 시장은 2034년 435억 달러 규모로 커질 것이라는 전망이 나왔다. 중국에서는 수발가스의 가스터빈 설비 수주가 1000억 원을 넘었다. 두산에너빌리티는 원전과 가스터빈 수주잔고가 함께 부각된다. 가스터빈 공급 경쟁이 중국을 포함해 여러 곳에서 커지고 있다.",
+     "refs": [
+      "81319fc7",
+      "56b91668",
+      "77a4f210",
+      "657a695b"
+     ]
+    },
+    {
+     "text": "효성굿스프링스가 원전용 펌프로 미국 기계학회(ASME) 인증을 받아 체코·SMR 시장 수주 기반을 마련했다. 현대건설은 미국 SMR과 유럽 원전 설계에 참여한다. 원전 기자재는 인증을 받아야 해외 시장에 들어갈 수 있다는 점을 보여준다.",
+     "refs": [
+      "e055fef9",
+      "bc4e036b",
+      "7f0a1e7b",
+      "a80534a6"
+     ]
+    },
+    {
+     "text": "두산의 협력사인 미국 뉴스케일이 루마니아 SMR 사업을 왜곡했다는 혐의로 소송을 당했다. SMR 상용화 단계에서 사업 신뢰성과 정보 공개 리스크가 드러났다.",
+     "refs": [
+      "0a3866c8"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "원전 해체",
+   "points": [
+    {
+     "text": "TEPCO는 후쿠시마 폐로 조직과 배상·부흥 조직을 통합한다. 요미우리는 TEPCO가 자본 제휴의 조건으로 정부의 거부권을 제시했다고 전했다. 폐로와 배상을 하나의 틀로 묶는 일이 정부 관여 수준 논의와 이어진다.",
+     "refs": [
+      "3f5a94f9",
+      "effe8e93",
+      "ccc78bab"
+     ]
+    },
+    {
+     "text": "스코틀랜드 Chapelcross 옛 원전 부지에 165억 파운드 규모 데이터센터 계획이 나왔고 수소 플랜트 계획도 승인됐다. 퇴역 원전 부지는 이미 계통과 인프라가 있어 AI·수소 인프라 후보지로 재활용된다.",
+     "refs": [
+      "452ebfb5",
+      "2a94b847"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "풍력 재활용",
+   "points": [
+    {
+     "text": "풍력 업계는 보고된 블레이드 폐기물의 97%를 매립하지 않고 처리했다고 밝혔다. 재활용 실적이 쌓이면서 업계가 순환경제 대응을 보여주려 한다.",
+     "refs": [
+      "d62e2ce5",
+      "d55b19d5"
+     ]
+    },
+    {
+     "text": "스페인 업체가 현장에서 블레이드를 재활용할 수 있는 인가를 받았다. WindEurope은 EU 순환경제법이 풍력 업계의 모범 사례를 바탕으로 만들어져야 한다고 주장한다. 현장 처리 기술과 규제 설계가 함께 움직이고 있다.",
+     "refs": [
+      "5f7124e9",
+      "20960bf0"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "유럽 에너지정책",
+   "points": [
+    {
+     "text": "독일 연립정부는 전기세 인하 재원을 마련하려고 재생에너지 보조금 예산을 줄이기로 했다. 전기요금 부담을 낮추는 대신 재생에너지 지원 규모가 줄어드는 정책 재조정이다.",
+     "refs": [
+      "8f6d514d"
+     ]
+    },
+    {
+     "text": "비셰그라드 그룹 정상들은 ETS2(건물·수송 탄소시장) 시행을 2030년으로 미루라고 요구했다. 영국에서는 EU와 맺을 탄소 관련 합의를 두고 의회 방어가 이어진다. 탄소 가격제를 둘러싼 부담과 연계가 정치 쟁점이다.",
+     "refs": [
+      "84e1f18a",
+      "98434b2c"
+     ]
+    },
+    {
+     "text": "티센크루프 스틸이 뒤스부르크 DRI 설비용 수소 조달 입찰을 열었다. 철강 탈탄소가 수소 수급 계약 단계로 넘어가고 있다.",
+     "refs": [
+      "1e66d940"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "수전해",
+   "points": [
+    {
+     "text": "지필로스가 수자원공사 송산글로벌교육연구센터에 100kW급 오프그리드 수전해 설비를 설치해 태양광만으로 그린수소를 만든다. 지역에서 만들어 지역에서 쓰는 '지산지소' 모델로 분산형 수소 거점을 넓히려는 시도다.",
+     "refs": [
+      "85326b41",
+      "5aecacee",
+      "7978226f",
+      "0553bbf7"
+     ]
+    },
+    {
+     "text": "thyssenkrupp nucera는 그린수소 관련 비용 때문에 1억 3,600만 유로의 EBIT 손실을 예상한다. 수전해 설비 업계의 수익성 압박이 계속되고 있다.",
+     "refs": [
+      "761d9cd6"
+     ]
+    },
+    {
+     "text": "Sunshine Green Hydrogen은 싱가포르에 첫 AEM 수전해기를 출하했다. 한국은 2028년 5MW급 수전해 시스템 개발을 목표로 한다. 수전해는 방식 다변화와 대형화가 함께 진행된다.",
+     "refs": [
+      "bf8573c3",
+      "3b2c6026"
+     ]
+    },
+    {
+     "text": "호주 대형 재생에너지-수소 프로젝트에 디지털 트윈을 써서 확장과 비용 절감을 노린다. 닛토공업은 자가소비 태양광의 잉여 전력으로 그린수소를 만든다. 프로젝트 설계와 잉여 전력 활용으로 경제성을 높이려는 접근이다.",
+     "refs": [
+      "a361b606",
+      "d9b2bbb3"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "CCUS",
+   "points": [
+    {
+     "text": "가동 중인 탄소포집 설비는 에너지 배출량의 0.18%를 처리하는 데 그치는데도 각국 정부가 약 540억 달러를 배정했다는 지적이 나왔다. Equinor CEO는 비용과 공급 부족이 탄소포집 계약을 막는다고 했고, COP31에서는 탄소포집이 거부됐다. 성과와 투자 규모의 격차, 에너지 전환 지연 논란이 커지고 있다.",
+     "refs": [
+      "30bf1e6c",
+      "098b1338",
+      "c7d02357",
+      "86007d2a"
+     ]
+    },
+    {
+     "text": "싱가포르와 호주가 국경 간 CO2 저장 협정을 맺었다. 말레이시아는 2050년까지 최대 6개 저장 허브와 400억 달러 투자를 목표로 하는 CCUS 로드맵을 내놨다. 아시아·태평양에서 국가 간 CO2 저장 인프라가 제도화되고 있다.",
+     "refs": [
+      "b7f24e35",
+      "93b47484",
+      "9dca8130"
+     ]
+    },
+    {
+     "text": "캐나다 오일샌드 업계는 Pathways 탄소포집 사업의 최종 결정 시점을 2027년 말로 잡았다. 연방정부의 새 '메가 공제'가 사업을 가능하게 할 수 있다고 본다. 이 사업의 경제성은 세제 지원 설계에 좌우된다.",
+     "refs": [
+      "44c3b65f",
+      "868391a8"
+     ]
+    },
+    {
+     "text": "EnEarth가 Storegga의 지분 30%를 인수하며 스코틀랜드 Acorn CCS 프로젝트를 주도하게 됐다. 영국 CCS 프로젝트의 소유 구조가 바뀌고 있다.",
+     "refs": [
+      "b136de50",
+      "f7bdae8d",
+      "e72fbfd1"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "일본 수소·전력",
+   "points": [
+    {
+     "text": "JERA는 암모니아 혼소를 상용화해 2029년도까지 공급망을 완성하기로 했다. 니가타에서는 천연가스로 수소를 만들어 발전하는 실증이 진행된다. 일본 화력 탈탄소가 암모니아·수소 연료 쪽으로 구체화되고 있다.",
+     "refs": [
+      "cc92ddd5",
+      "64eae56f"
+     ]
+    },
+    {
+     "text": "오릭스가 시가현에서 국내 최대급인 134MW 축전소를 가동했다. 대규모 계통용 저장이 일본에서 본격적으로 상업 운전 단계에 들어갔다.",
+     "refs": [
+      "fd9394a1"
+     ]
+    },
+    {
+     "text": "세계 냉방 전력 수요가 사상 처음 난방 수요를 넘어섰다. 온난화가 전력 소비 구조를 바꾸고 있다.",
+     "refs": [
+      "6bcbeed7",
+      "08f0a6e9"
+     ]
+    },
+    {
+     "text": "규슈는 AI·반도체 설비투자로 앞으로 10년은 호황이 이어질 것이라는 전망이 나왔다. 대규모 산업 수요가 지역 전력 수급에 어떤 부담을 줄지도 함께 봐야 한다.",
+     "refs": [
+      "5d31c93a"
+     ]
+    }
+   ]
+  }
+ ],
+ "watch": [
+  "가스터빈·변압기 등 전력 설비의 납기와 가격이 안정되는지, 그리고 데이터센터의 현장 발전·저장 대안이 얼마나 늘어나는지",
+  "미국 인허가 단축 법안과 일본 수전 제한 같은 계통 접속 제도가 실제 접속 대기 시간을 얼마나 줄이는지",
+  "액체냉각 확산과 수자원 규제(포르투갈 등)가 냉각 방식 선택과 광섬유·소재 공급망에 미치는 영향"
+ ],
+ "refs": {
+  "c18a708b": {
+   "s": "ITmedia",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXSWRaMm5XNnZpUzNqWHVRbERZZlJwRkRsZ1VidlFrVTdROUxFc0N2V3k3bnZ3bFdaQ25EeUFOb2h6em5FaUx1aU5mQy10VG51bUNXODRUYjhxUVJlYnFMWXkzSDFQWF9TMkhpN3g1eV9hcnZz?oc=5",
+   "t": "長期化するデータセンターや系統用蓄電池の系統接続、解消策に受電制限などを導入へ"
+  },
+  "c7181c2e": {
+   "s": "Mezha.net",
+   "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHhEQmlwRWI1TG1VS0VMU2k1bmtOV3J0QXNoVlpkWXhVN3hJS0pwSVpkdGhTa2lqSGlmS0FBVkxDdjZpa2N6S2Y4TDlTRnFCVWktT1Bvc0VkZGt2Wmg3b1JQaEEzUUhZUHo2amdBdmVnaWJEUWlWN092QjB6eVlmY2JkRXdjWjFsQnRIQW5LSVY3Yksz?oc=5",
+   "t": "なぜCrusoeの投資家は、AIデータセンター向けの太陽光発電と蓄電に賭けるのか"
+  },
+  "57dbed8a": {
+   "s": "에너지경제신문",
+   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xSWpHMU5BZXFRdWNmYW9zNWpKNE1uT1BWMDFhQW92Qzh0R3lHc182T2NfSFdXMWhNUUlyOS1kR3BwNXJFLVl1UEEzYU82VldabnJFa3ZROWxMWXM?oc=5",
+   "t": "‘AI 거품론’ 비웃듯…K-변압기 美 수출 하반기 78% 급증"
+  },
+  "00c79724": {
+   "s": "폴리뉴스 Polinews",
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtR0pHRGZKZWZWWUR5LUxyTXVPYzRSWmxLMmdyTl96SUczZE5HbmpwbGZuZWk2V2dIMWxNOE5SSGtsTGd6WG9oQ21peWZEMHhKbkdjQ1pqNFBKSEdWVjVocEV1WGVfNHdfaTNkZ25n?oc=5",
+   "t": "[재계 포커스] 수주잔고 18.9조 '역대 최대' 효성중공업···조현준의 북미 전략, 다음 단계는 '수익성 고도화'"
+  },
+  "feb52806": {
+   "s": "와이드경제",
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tMDlieE5BeFg5RXp6WUc2WjJZRDFjRDRsRG90M0x1RGROVE9vcFkzLW9tbnpiNlhkeVdteldwMUdXWG5lZmUtNm1ZWDdGbnRXUmk5LWNqWlhHMzNwbzl6NThsVGxhbTZnSUhpYQ?oc=5",
+   "t": "[특징주] LS ELECTRIC, AI 데이터센터 전력망 투자 기대·수주잔고 7조 육박에 11%대 급등"
+  },
+  "4a156edc": {
+   "s": "Yahoo!ニュース",
+   "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3VS1PV0lpYkJWNEExRV95ME51amNmTS10eW51cHdHUVJFamFVZUktLTlubU1TamJKNmxZVjVrTzB1aG9iejYwVjc2WTcyUjNOcWI2RkJrM2xOSEpXdHZrNkxhd3J1bjBHWlc3VTR6OHNxYXZFNmdSdWhfYjNVaDQ?oc=5",
+   "t": "【タイ】タイの変圧器工場、売上倍増へ 日立エナジー、ＤＣ需要拡大で（NNA）"
+  },
+  "dda40b2b": {
+   "s": "DataCenterNews Asia Pacific",
+   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDV1WHdDdW0tcE1OS0lWQjV5RXBOUWVUSWxSZEl1TTJlNFVUX2lobFZ1UjNhTW1rU2FGQjB1bHVreXhEZjF5YVBPOGNNNmdoVTBXejcxcFZ4cWdueVNBMW5icTBJOTFxeHVBTmtZN2lRVXNpOXludVVzY3g4eWRSZEVNVzlNRzZlUllXN2YtY2RmUDNPWHlUSEliQnVOcFg2dTdUNVlMdXU4Q1VYamFBTFYyUC1Pel9lNWFUNQ?oc=5",
+   "t": "Rethinking battery roles in AI data centres: From passive backup to active power buffer"
+  },
+  "3c0ceaad": {
+   "s": "Infoseek",
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GeFRjWGI4VTVJVWdXMjFka2RyLXlBeG1OQ0NrT3BreGQ4VWZxaS1BdHZRNXUtUzVuUHhaSjNPN21fUG11TWNIVFJ4SHQyYnBZdS15aXo3U2ZpYjQ0a0gxRVlMYmJ5VlY3VWtpa9IBbEFVX3lxTE5GeFRjWGI4VTVJVWdXMjFka2RyLXlBeG1OQ0NrT3BreGQ4VWZxaS1BdHZRNXUtUzVuUHhaSjNPN21fUG11TWNIVFJ4SHQyYnBZdS15aXo3U2ZpYjQ0a0gxRVlMYmJ5VlY3VWtpaw?oc=5",
+   "t": "LS、米ニューヨークで大規模受注に成功…AI・電力網の最前線走る韓国電線"
+  },
+  "ddf62330": {
+   "s": "CEO저널",
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Yd19LZXgzZzdiME5Pa3ZkTUV4YUxfMHpyYzUxbVFORlNhNmUwTlV0RElfQUMxRU9yVmFFX1Vic2NHaG96UWkyLXRSbEpVcjBsdm9IQktaS1ZTZFZfZlpXQlRDTTdZSVpkU0hz0gFrQVVfeXFMT1h3X0tleDNnN2IwTk9rdmRNRXhhTF8wenJjNTFtUU5GU2E2ZTBOVXRESV9BQzFFT3JWYUVfVWJzY0dob3pRaTItdFJsSlVyMGx2b0hCS1pLVlNkVl9mWldCVENNN1lJWmRTSHM?oc=5",
+   "t": "구본규 LS전선 부회장, 7,000억 美 케이블 공급처는 뉴욕 'Propel NY'…본격 공사 착수"
+  },
+  "5d821699": {
+   "s": "Texas Public Policy Foundation",
+   "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeXBHdmZSdmpRYjJtNVJiLWkxWmN2Sm9LM25vdmNqM2NVd25ab2FNZHJUN1JuUEJMRXNyTmNUOWJhbm5EYU1yS2RfNTZqOGZZZFJuTmJlY2xDNVZfc1ZWREY0aXFfejJfd0stT2hzZ252eTJPV1NhRTNrMG9HaUZqVHRDY1V2M3JwYkcwVWRObkJHOUp4QW1nMGh1RlJFM0IwT3c?oc=5",
+   "t": "An Asset or a Liability: How Data Center Policy Will Shape ERCOT’s Future"
+  },
+  "300c0bc2": {
+   "s": "Bioengineer.org",
+   "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1QtY3dhNnhhU1RzbVhXTHg3ZXNScGpsMnlTMzVkS3ZFMlVudWdzdVBCS1c4Zks3cFFpalE3QVJNZzZ4U3VCV3dYeS10UzlMSmNMMXVYTzRDTk4zVkIxMFpMTW9JMXlSbldGS2FOTEM2MGY2NHZzUWMzb2tBaXR3LWFlVUExUFEtQTFKNVpYWDF5ZUxuaEktOTQwT2FRc3dqaThOS3dVdUhYWlpsREpUTHdDTQ?oc=5",
+   "t": "Review Details Material Compatibility and Reliability Limits in Immersion Cooling Fluids"
+  },
+  "c610bc62": {
+   "s": "Engineerine",
+   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GRGhELUNjYWlpV0RUZWZKamk5OF8zQ1dGaGIzZXVRTmFNWWhobkdnQS1BaElOb0pNV2prYlEtY1R6MXJrY1VxVkNzeDRnYzFBWjZ5QUx4YzFjRi03MEdydUR0U2RmdU1WRWJHNmdEMkQ1WmpVU0E?oc=5",
+   "t": "Portugal Plans Strict New Laws Stopping Hyperscale Data Centers From Cooling Servers With Drinking Water"
+  },
+  "13607c67": {
+   "s": "IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbVpEbXdBWmhYSGNtQmNsUVA1akNyNERlcy1JbmoyYllGSWkwYW9JQ29oUjU3V29OYmM4UmktamVwdE9GRldDTXA0a005Y2FfNWRpR20xaXh3azRiRlNuOXJDaFpNYnhNZ1pfYVYxZlV3NVRLaVRMaTkzTXM2VmZsekdfUXVMejVRYWRZRm41OVo5c0RvNDNWMFVQaTZacDVEZWhzTGw3bXlaaDR6NnVGRTRkVERiUHNTT0pITWdXZ1Zwb1FiTThTcmduNXhWcklZeUQ5UlhFUmdvTC1POUdWTHVSY2I1OXg2?oc=5",
+   "t": "Server Backplane Cooling Channels Market To 2035: AI Thermal Loads Drive Liquid Cooling Shift - News and Statistics"
+  },
+  "0733573e": {
+   "s": "openPR.com",
+   "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdzNKcHZTVjVRMW5ta3Jmc25VcjNrQjZJenBUcTVjVDF1NnhPTlZFbXJPSUVkYi1fVlc1eUJjR040MXJ2bVpBX2dQeGFuVU9vN2RDd0p0MGVmZzlCcXZuZGlTeFRZeUhtTjRhY09SR1FVa20yR2U1dlpQVjhNUVZkQlNOVmduTFdodXNvc2ppOWs?oc=5",
+   "t": "DLC Cooling Fluids Market 2026-2032: AI Data Centers,"
+  },
+  "27b1286b": {
+   "s": "DataCenterNews Asia Pacific",
+   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRjlaZDBvTUd0cUNtendNMWF6bTJXZnRSU3F2YWF1V1d3MWtBY1EwdVhwLXhabjhhYXFPMHZ2cHdXLTlXYjBPWmF2NmZRVV9NXy1qbG9RSGZUdUltQ0djVTJOOG5Tbm9ydWRaZWxMamsxcC14U2FSUzEyUk1ZYWhsamw1bUhlTU54Qzh5RXh2ZFJsZWVmTXp3b2lMVUJ5RG41Ry1yRVNKZEFNUE9sMWdoQ1JLZ1VVTHRjcnd4VA?oc=5",
+   "t": "The blueprint of how to reduce water dependency in the next generation of data centres"
+  },
+  "68162b7d": {
+   "s": "openPR.com",
+   "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0ZUdG9Od3hRTUlrRG4zZlM2RmRQblJ2dGZCM2lXd3FaTHEtcFh5MENNSlNjeFdrZHFwRGpoMjlkUW5BdmlCbDRSMlRWbXBnUHdTLWNuRExDbzlXZTMyaUlrMmVHVnVoUE03TVo0Y0Y3RjZNOGdnbUx2bFFRVEhvSEJ3d1F0Um9rOFZkbXpWazVET1hCMURZOTBveEE1TEhz?oc=5",
+   "t": "AI Data Center Coolant Monitoring Equipment Market to Reach USD"
+  },
+  "77164340": {
+   "s": "이데일리",
+   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNHQ1cE1iQ3NjOHhwRFdNV3lnQ2xRTlAwSlIwQWZLUUZUUDljNkJDNDVkZmNhLXFyS3BUZmZVZ2JkRGlMSnBOV2o1aGtoSEFNaTg5bnByOHdadDVSU1BKR2FkMmg1dV8zTHJlNS1UOFRnVmhYRUprZ3o0enk5MV9Kcg?oc=5",
+   "t": "철강 불황 속 주목받는 스테인리스…\"AI 데이터센터가 돌파구\""
+  },
+  "28043f30": {
+   "s": "스틸데일리",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50SWljLWJ0YmotamU5MjJIcXdwQV93QXQ2b1JPdGFYalFoUkEzU25vM0NUSm9hdFZTeEI5dm9KNG5LeDFRdDZmQXdmQmoyeTNxQmQ4Tkg3bmtrNjZqUE9nbUJRMmQyMkVNMWRrVndqZERBYlJL0gF0QVVfeXFMTnRJaWMtYnRiai1qZTkyMkhxd3BBX3dBdDZvUk90YVhqUWhSQTNTbm8zQ1RKb2F0VlN4Qjl2b0o0bkt4MVF0NmZBd2ZCajJ5M3FCZDhOSDdua2s2NmpQT2dtQlEyZDIyRU0xZGtWd2pkREFiUks?oc=5",
+   "t": "AI 데이터센터 액체 냉각 확대…STS 배관·설비에 새 기회"
+  },
+  "0fc0b12a": {
+   "s": "DW.com",
+   "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUpYbjhCemF4MnFWUVZVY1BoSlIzZGhaMFhoaW5lX01rek9Oc0otYWZhcW0zenZHRWpISjNVUTlONncxSVNRR0pfUE5aZmZpcl9NRjJsRW5TMmZWOTJ5RDEtREdhZndkdWliVU1BN3VuNlhHWjdXS01QX2ZTMWhiS0txaExpclNJ0gGIAUFVX3lxTE14UGg0b2FyUW5pVW1PNF9LYnlkVVhIVElxeHE2bzVwazQ0ZVZGUkRFRHcwcFlZVGx5OWVMTnRwdGlVMThpRkRzd2FzMGZQajNid09wVmxITUwtRjNrVVppaFc5Z2ZuVXk4TnN3aVZIckN5aUFXN3RyV1Z5NHBZWU5YcWVwdURoUGE?oc=5",
+   "t": "The hidden environmental cost of AI data centers"
+  },
+  "bcb6106c": {
+   "s": "Fierce Network",
+   "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYVU3LXhEaFBOT2RoZG5FUWhuSWlwLXBSWndvVE1ZUl9qcXRIR0VCdUVTd3JLX2N3X255ZEtXaDFfYjFlMjNxOFdjUklsYTFRZy14WEpxNEVhV0hnWV9WLVAxSmhfVUgwbFlZUkFKQTVNY3Q4SldUR3pLeHlwZlRzaXVCZF9RY1E5R1E?oc=5",
+   "t": "Lasers steal the show in AOI's second hyperscaler win"
+  },
+  "72a0d047": {
+   "s": "조선일보",
+   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXNSbm94d2ZaWndOVnAwOGE4MFpKcmNPd2NXeDRjOHZZUmxEQ2kyTEx4UnlfRGxyZnh0ak5MeTRYN2VWcTA0aUpXeU9iSkpubVNxQ3hUNUN3bkR6RjVuWWFESmVNV1YzQzl4dndqVU1XaHRvSWNIbGRPRnJibk5iV0piUQ?oc=5",
+   "t": "전쟁서 드론 사용… 광섬유값 7배 폭등, 흔들리는 AI 산업 핵심 소재 공급망"
+  },
+  "c5135733": {
+   "s": "Unite.AI",
+   "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVZhRENQaVJrOWhraXZkVmZnNEc4OUwybU0tSzJON3ZJUlJSNHMxcUtsdjZ5Nm8yWkxJOXBNZDBPT2tGMTVMTUw1WG9FYjdFZEpWUEJkNk1PaFBFbmFaY2wtZGhRTTRJZDREaWl4cWpfeUdCQnJKbGkxWndEdWV6LW8zU1Yxd2RtbXlRMVVSLWgzUQ?oc=5",
+   "t": "Applied Optoelectronics Signs Four-Year AI Optics Supply Agreement"
+  },
+  "de33217e": {
+   "s": "아이씨엔매거진",
+   "u": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOUVlLek9PUjZ3ZUhTbE1zb1EzaG9ZWmxxNGtxc3JGRWtYOHVrdTRaaE9heG5RQTRKRk5DQ2hjeEpVQmoyTENQWURKcnVaT1FfM3A0N3pQY05UVHJEck9HODRhaTZHbC1Zak91VndWZkREc1VtQms0dmZubC1UbXRmZ01kczZDamZSOVhWMWZPVTBCMXktZEdEMXY4VkVVQ1c2T1NWWUdBM2N5S2F1N0k2X2NFRmh0ZzZSRVFEMkp1Y0ViY0doYnNuNDZ2cVNnVzhjWktjekYxOUNGcHl4RGYtV1Y1djJobE8wRlJzSGtBTXVoc2xZOG1CM0lrUHotNjNOR2hiR3Bpem84RDZWUWU0ZHN4cXR6bVNyNUxBcGE1a3BnYlhKNEZZQ3VvaGotRTBrUTVfUVdUMllRUQ?oc=5",
+   "t": "[분석] 11일 만에 복귀한 젠슨 황… 초거대 AI 네트워크 전력 위기와 광통신 전환의 기로"
+  },
+  "a8ac4074": {
+   "s": "LEDinside",
+   "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVOHB2Ri1FS1pfbUJyUE9od0hJb3lCVDA5X2xXWnV3NzVMNWhXREp1SHVrMW1ITHd5OTIwekpwMTlZZGNTTHBNdUxIVUg?oc=5",
+   "t": "[News] Samsung Electronics Expands Silicon Photonics Portfolio Through Patent Acquisitions"
+  },
+  "56b91668": {
+   "s": "뉴스핌",
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15bWhMV21PTVlacmNPWnRpWXN6SERCTGdfMjY5S1JLYzVYbU43WjBGQ3hxdDhNMVJzeS1hUzk4R3JxV2pBUnk2TUhDY0lBcWNNNHF5YzRrNGxCY1FX?oc=5",
+   "t": "[중국 특징주] 수발가스, 가스터빈 설비 수주 1000억원 돌파"
+  },
+  "77a4f210": {
+   "s": "잡포스트",
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPd3BNX2NZNm1pOUVjZGFOT3FlNUdHeFBFUm02U0laVmdLeHRINnVMeF9HNFdOZU5mUi1fekh6RVBRRHBxTjV0ekxHdV8wOUJfeVZUSkc5WjhjakVCTlFobjdDMzhOMXlEOGJ0ekluSzNBZ9IBckFVX3lxTFBPd3BNX2NZNm1pOUVjZGFOT3FlNUdHeFBFUm02U0laVmdLeHRINnVMeF9HNFdOZU5mUi1fekh6RVBRRHBxTjV0ekxHdV8wOUJfeVZUSkc5WjhjakVCTlFobjdDMzhOMXlEOGJ0ekluSzNBZw?oc=5",
+   "t": "원전·가스터빈 수주잔고 부각…두산에너빌리티 6.49% 상승"
+  },
+  "df496058": {
+   "s": "임팩트온",
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZU2RDSXVKZ05kMkxRalB3TE5adHNXNHBiTGFpbEJtNlBTR3o5ZnFNOHVST1FwN2RjdF9SU1NmalgwR0FMUnVETk1xeXRIU0hCUjYwdzd6SFJBd1Yxa2tNTG1TZTN3YWdLTUE?oc=5",
+   "t": "AI 전력 확보 경쟁에 산업 공급망 흔들…설비 납기 4년·가스터빈 가격 30% 상승"
+  },
+  "a80534a6": {
+   "s": "업코리아",
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5U1gwOUYwQWFydzdfTTBNaDlhOGJsXzcyYnNoY1F2alZkT2lMUGo0amVycFJMMFNWMU8ycUgzTTJJUW1kRl9va1pocDRXcWNlSXRGUGN2N1N4ck1oTWJBTDVrU3FBWEJONjlfaXVB?oc=5",
+   "t": "현대건설, 영업익 114% 증가·수주잔고 99.5조…美 SMR·유럽 원전 설계 참여로 기술 역량 확대"
+  },
+  "e055fef9": {
+   "s": "서울STV뉴스",
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51Q2UzQ2EzbWM1LUlLZGlyWXFLcExnYnZLUFNLY24yM0FBR3pGTlRTQUhJZzU4em45anVDbmVieU9CTVNRR3ZFNDhsQm1hNHRuYUNxNl9DcDk4ZnBtdG5VUlA3aUhMOUk?oc=5",
+   "t": "효성굿스프링스, ‘원전 공급용 펌프’ 미국 기계 학회 인증 획득…해외 수주 기대"
+  },
+  "81319fc7": {
+   "s": "투데이에너지",
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WQTdDX2ZkVG1UOXpKdVd6dU54UGxHN2hoT05XR1Q0aGtoUlJEcGhjOXE4NXRlemVkOGRaM0tIMEhrS1BZZVJ6SXVTYlUzSG5oLXZVWHdXSjJlU01jOFcwR3dyVGMxNlpxUlBEYXh3?oc=5",
+   "t": "[시장 전망] 가스터빈 제2의 전성기’…2034년 435억 달러 시장 열린다"
+  },
+  "657a695b": {
+   "s": "한국정경신문",
+   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iM0pLaGI4aVBPZzdDTzlVNnZmQ2R1dldraEJnUTZXdzhXNkw1Um8xYTNhMmFiQXFyR1ZuSHNxYjI1SERuQ2xiOW9Qc3FsMUgyNUE?oc=5",
+   "t": "'두 마리 토끼 잡은' 두산에너빌리티, 원전·가스터빈 쌍끌이..실적개선·미래 성장동력 확보"
+  },
+  "0a3866c8": {
+   "s": "한국신용신문",
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYUUFzOFpRRnFVS2NPRm1JdTRlbC1KeFdkX2xHcmFHQ3hrbUhDb0ZCLXN4RDRQTGdkM0Q5SlRXcjhrZFZoRl9Kd3U3aWh4NGtVTmdFbkJZVmZXdnVlTG95ZG1Qd1c0NTRaQ0t3?oc=5",
+   "t": "두산 협력사 美 뉴스케일, 루마니아 SMR 사업 왜곡 혐의 피소"
+  },
+  "96945a1d": {
+   "s": "마켓잉크",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVSDlGSmMybkxQeWl3bkwtelBzRjROZ01kOVFtaXhQbk10dlZGWHZtOFVTYWdFUXF5eHQ2OUpZSG9oX05rMV9ITXFibW5aVE12OUFrT0xHMjVyZDhBckx2ZTQ1elJCbjBtOGV1aHdvTQ?oc=5",
+   "t": "\"2030년 이전엔 못 받는다\" 가스터빈 공급난에 데이터센터들 중고시장으로"
+  },
+  "bc4e036b": {
+   "s": "뉴스로드",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15QW5aWk9zR3RkY3ItOHZ1QVNpTXNKTjctNUt0MTJ6WWZIOHU4UE5yd3RjMWJ0bW9NVXhaZHZnam9pYmFNVTQwTVdfNVJzVFp0MG9GNFIwRkFGWUN3Mzg4dkhFOFgxVXVLaVdINEczd9IBb0FVX3lxTE15QW5aWk9zR3RkY3ItOHZ1QVNpTXNKTjctNUt0MTJ6WWZIOHU4UE5yd3RjMWJ0bW9NVXhaZHZnam9pYmFNVTQwTVdfNVJzVFp0MG9GNFIwRkFGWUN3Mzg4dkhFOFgxVXVLaVdINEczdw?oc=5",
+   "t": "“ASME 인증으로 글로벌 원전 시장 수주 경쟁력 강화”"
+  },
+  "7f0a1e7b": {
+   "s": "뉴스톱",
+   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02QThZd0stRjFRNlNQRU84dkpYdWlYdDZyOWJUSklEZGptbGVoR2lndzBSaGpHdnFocFVJeHJLWjkxYlAyNVpROXo4NjVUM1JCdThtMkpibmVPbEkwSmc?oc=5",
+   "t": "효성굿스프링스, ‘원전 필수 통행증’ 美 ASME 인증 획득…체코·SMR 시장 정조준"
+  },
+  "3f5a94f9": {
+   "s": "Japan Today",
+   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2tLdGZmYjE1Nk94b1BSWWZUbHFiVGNjdVdJZE1HU3FucjNqcHlpUDVmTkVvNEFBbFV0N1RJcnJVaHAyZTlnSTlMR3BnblpLM3FZVUxIUzg2YkpXaXhiTnRsNF8zTkNpeXBiTHQtNWpYV2JqRDlNbk1CbkgxX3ZWXzRSc1cxRm9XM3lHNXRYTHo1ZWVSemZQcF9xNWk3aEFoVVU5RjJJRENwdkZzaE1Gb0RJemppOENMNFl4bQ?oc=5",
+   "t": "TEPCO to integrate Fukushima nuclear decommissioning, compensation units"
+  },
+  "452ebfb5": {
+   "s": "Construction Review",
+   "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV1JBaGRaNFJ1bzZ3VmxYR1B2WC02bk5FWm1FZHQ0aDVvNU1sUE1tUWNHb0h1SDZ4alc4ZHJtV3F3RnFHakVHWl8tazlCbmRqU3ZBNGt6MDd2RGpXYkhHY0RJUDR2M0JCMkJYbUZWeTFBR3pVazRqNUFaMW1oejhZemktaUtWZmVtWUZBbjVDRnZHSTQxQ09BbXBFZU0yeG9YRzhUUkRWaVEteUZtLUxUOVU0eGM3d0EwS25yT2pRelBPemRJSkhITnVTTXk2X3M?oc=5",
+   "t": "£16.5 Billion Chapelcross Data Center Project Planned at Former Nuclear Power Station in Scotland"
+  },
+  "2a94b847": {
+   "s": "BBC",
+   "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SZXlxYzkxR3pNVHJjaUFQTGkzLWhjOFd2dm1pS2g5N1pkMjlqc3RRRTdvT1ZxZy1sYlJ3cWlSd2RtWVF2aGxUcERTY3pNazhXdU92YnJRSGcwdnhp?oc=5",
+   "t": "Hydrogen plant plans approved on Chapelcross site"
+  },
+  "ccc78bab": {
+   "s": "MarketWatch",
+   "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa2ZZdDdibTNRRTZNV3JWQkp4Wl9mSUxBZXlKQThIMkdyRGFDSEdXV1FiN1l6N0J4cndveXdlWVpxRElxOU03ZDVFaTU4OXVaOEVUeXFFdU50eHNJdXI2cm80OXVpaVVSWWlUa3VMbHFieXgwYzUycUZvU3JsWmVLMWU0bDJSYW9GRGQzUk9OV1ItM1lBMjRTSW56cUpTTU95SjhaWEhpakhRanp0ekFDT0pJQ3M5a1NaNlZuTGZFajU?oc=5",
+   "t": "Yomiuri: TEPCO Names Govt Veto as Condition for Capital Alliance"
+  },
+  "effe8e93": {
+   "s": "www.marketscreener.com",
+   "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQmwzRkVWaHlkOFB3cFhrYjJZdjZFcWthdGxaZUF2OV91RlpxSTlrZ1ZPT1hkUjBZc1M3V3VYMDM4Ukh2Q2s1X2hkb2hqU0lnd2Vhb0l4amhrbU9GbzZ1QWFLbHhHelNUUWRPb2ZJV1dINE1wS0xxRTNwTXdUdmVwTndJTXlmQkp0Sm1RVTBUVnlrYlJJZTZqWUNXa0VsNWYwcTY2Y3BMLWdFOUlrSjNXZlQ1V2dNVDRQc2pMQg?oc=5",
+   "t": "TEPCO to Consolidate Fukushima Decommissioning, Revitalization Units"
+  },
+  "5f7124e9": {
+   "s": "Renewables Now",
+   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeTJ1LVQ3dF91anJhdS1pVXhpNjhzc00tTGV6S2dCRWlzMy1oa0hxemZmSHhSYWZ3R1FQeTZtVHF3VmRVWHhNTnA3dDN4WXV5RnpXRXhLSENOQ3RPTGkyR3lZaVJVRHhpVXcwWnZ4RGNzUXY2VjlOc3N5d3Bqd3VfSXhja2tJb3VYUGV3dkJhTGNva2pydEUzbm5Cd2cxY2N5b21lTHNZQlE?oc=5",
+   "t": "Spanish firm gets authorisation for on-site wind blades recycling"
+  },
+  "d62e2ce5": {
+   "s": "reNEWS",
+   "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQnJTbTBiMHo2TExmckFiNTIxeEdIRVE3Y25DMnkzQnVxWDhwMFFEcjNUWGlpQXFyaWE3bFJZZFNaWjhfSUpmQXlKV0g3YWY1SkJ5Wl9ydTJSNUEwTkJmeEdMVm9BSGw0RGh5a3FmUUFmdVU5WkppOXJzVkJETzBLZVdDTGFmZG1LZjVBcUN5N044dWFqY0JCOEhTUEF5dw?oc=5",
+   "t": "Wind industry ‘diverts 97% of reported blade waste from landfill’"
+  },
+  "d55b19d5": {
+   "s": "Windtech International",
+   "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHFLdHZqNURHQ3hWaHdMMUctM0dpd1BQYnJTTHBmS2xPNDBGaFlIbGQ4NWtTckVkYmd5T1d2YXhuRXprQXAyV2tzY2lYdEo2Qmxaam10TjlSMWlzSlBRNkl3a2JYRnNXUmJSM2R1YmcxaEZ2aEJob2hZVjExdXcxcjZnOXpPc1NHbzgxamJCZ2pXVHJEb21wSmxmV3k1LUtMaHM2aXh3anBVRUJj?oc=5",
+   "t": "Wind industry reports progress in blade waste recycling"
+  },
+  "20960bf0": {
+   "s": "WindEurope",
+   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2RPWVkxWGl6OEw4RWN1QjMxWV9nYTJyWG50TmpZQi1ZQXFSTTVfTG16eDA3dnBucWdCV1VNWUpid2pWX3ZTNFBtaTk2MmNLRE8yT29lS0w3dTJ0bEVjUEwxLXY1NEg2a015eEJQWWllbHV3NXJuTUNrMDVYb0lnRUNIT3pYQWZlcS1nVGh0YUpaM3dhYnVxT1Njb0thZnB6NUdlT1Vn?oc=5",
+   "t": "Europe’s circular Economy Act should build on wind industry’s best practices"
+  },
+  "98434b2c": {
+   "s": "energynews.pro",
+   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmdBWVJLYTNWS2FtTU1CbVM0RFhPd3FPNkRDeFQwdWJ3UG1MS2xMdHQwQjJKWXNGd3VLcGxrTkVjZE81dVB4YWNxbFRFTktGZjFFVzJGUWdaeU44WWtNaG9Iak1KNlRFYlZQemVMRUk3b0NfYkhGdDhYYjFiVENkaEVsNWUyYXpkbDc0TTZzZEVCWm9sU3FiN2xXXzhuc09PU09JT0tVVm0?oc=5",
+   "t": "Andy Burnham defends before Parliament an agreement with the EU covering carbon"
+  },
+  "8f6d514d": {
+   "s": "Reuters",
+   "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZC0ta1g2dXZzaUdFZGZ1WUM1RjlHYWlFYUdWcmJhdjFMMGQtVkgzRzU0WDF2T0xoQXZWYVdDT211azNmQ2pBd1lNVFVtRlc3QUpXZjl4LUN4SXlKYlRKUnFHaDA0aEt5RUV5UTlZSXBkdkF2dmpJRTRkd2hJLTUzb3ZvZXBBTDVyU2tLYjlhdnN6aHhra2U2bDBQS1lPVjlleXFjQmZfdU9kcEd3YWs1MFMtYjE3NE1hcUJvZFhJN2hRUVU?oc=5",
+   "t": "German coalition cuts green power subsidy budget to fund electricity tax cut"
+  },
+  "1e66d940": {
+   "s": "IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbFF6YklUbTJzQnV0M0ozQVRRNklHMjdpYUprSTVPeksteHIySFU3VzVLZ1dBN1hZTXhGWFFnYXNkZXRmRG9RbFBYUlVoWHluZDRIZE9YekZBVm43Q1lDa2Y0MUtuQ0lGaC11SWs0eGFvZ2VZQzgzekZwdEZpQ1FxZi1maXlpU2c2ZVhuYzg5SDZXU1FPN2dHRUkwekRtZkRJc2QyWTRPNmt5TjBtV0IzV1N4SQ?oc=5",
+   "t": "Thyssenkrupp Steel Opens Hydrogen Tender for Duisburg DRI Plant - News and Statistics"
+  },
+  "84e1f18a": {
+   "s": "Euronews.com",
+   "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1VDNzU3M2wtOWMzbWR0dmpvd3VNXzdONy1BSl9UMVdHN01iMGk3Rkg1aVFPQ1BkRVFLT2VzTjNCbnpNSC1kUUpiSDBkcnNkMHVoVzJRTE1oSFR6VGR6MUVYV0NGRjBCOGRtaVp2ZEdKa2RmYkVveV85QTAzc1Rsb3pXSHBBdzRGc3ZlVUdzaXFKREpsWXNPMGJIUFNCX0pmR25Mb3V4LW1jRjVuV3U0?oc=5",
+   "t": "Visegrad Group leaders demand ETS2 delay to 2030"
+  },
+  "a361b606": {
+   "s": "Renew Economy",
+   "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXVYeG55amhBanREeXVkQVJEQm9Jby1WeGlza1hyY0FHQ1lEcTNJdVFBTTFZNlZRTmZfNkxPbDA3SUM5bl9maFE1N2hBMW9DUTBORk5sank3WEEtMm0wNTRFZEVLU0FvWVp1VG02V0plRzdzYXJYMXhlbUV4NWtpWHFsOUdhOGhkQlhDRjZWRTNnakliSVhpdmdjQkhMYjlfV3hJdVJYRUM5Y1V5cW1oNnBWdlN3VHhKc2JSa0l5b0p5ZGPSAcMBQVVfeXFMTk11WHhueWpoQWp0RHl1ZEFSREJvSW8tVnhpc2tYcmNBR0NZRHEzSXVRQU0xWTZWUU5mXzZMT2wwN0lDOW5fZmhRNTdoQTFvQ1EwTkZObGp5N1hBLTJtMDU0RWRFS1NBb1ladVRtNldKZUc3c2FyWDF4ZW1FeDVraVhxbDlHYThoZEJYQ0Y2VkUzZ2pJYklYaXZnY0JITGI5X1d4SXVSWEVDOWNVeXFtaDZwVnZTd1R4SnNiUmtJeW9KeWRj?oc=5",
+   "t": "Digital twin to help scale and cut costs of giant Australian renewables to hydrogen projects"
+  },
+  "85326b41": {
+   "s": "전기신문",
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1SFNGS3JPUGdmdzRnRG9zajlURmhEOGZTRUNFZVNaS1pTNmE5MVpCNVpub3hDcEJQb1MwdFVMRVpqb245N3o0LXM3R29WMXVaLVJPaVIwVEY1RDVuU0l6SWktT3E3WC1rdXdiVWVfeELSAXBBVV95cUxQNUhTRktyT1BnZnc0Z0Rvc2o5VEZoRDhmU0VDRWVTWktaUzZhOTFaQjVabm94Q3BCUG9TMHRVTEVaam9uOTd6NC1zN0dvVjF1Wi1ST2lSMFRGNUQ1blNJeklpLU9xN1gta3V3YlVlX3hC?oc=5",
+   "t": "지필로스, 태양광만으로 그린수소 생산…수자원공사에 설비 구축"
+  },
+  "761d9cd6": {
+   "s": "energynews.pro",
+   "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVpocThXYmxEZXFKMmhvZjFGWGhJMzNEc0dRd2ZJbUlSU1k2TjF3cU12aXRfLXMwWTRXSEdOVFdFQy1RU1YxWHVWTzBxclBxRngxdDdHZjFqd3NaSExEdjZWNVFTcVFTN1h3MDBPRDF2RjItUGVVVkh4Tm84RDRESlp1Vk9xQ2d2Y29mTkM4TGtQN0F1RVVQYnVOcHlDVUtKV0pyaGdsbw?oc=5",
+   "t": "thyssenkrupp nucera expects EBIT loss of €136 million on green hydrogen charges"
+  },
+  "bf8573c3": {
+   "s": "Hydrogen Fuel News",
+   "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM0VNZklQZmVZTGVVUVR4eHoxUGFONFJKUnNPNmZWdWxXdEZRN3BRVzhieC1Pbjg3a2lKVXBiWTdUYkx6Zy1GRFZoZ3RYZmVzb2pDbU9UWE1sZzVTNERrOVpsQ3MwRTJuYl8zdC1VdWZ6RXFFNTJzUTh3Z1dZUzhLV2NmemhXY0xIbkVTN2JvUnJxOHBVX0Z4cG9jcmhzUGs5MzJkc0tBZ05KLXhTWWhZSEFvY2pveGplMWVSLTRONA?oc=5",
+   "t": "Sunshine Green Hydrogen Ships First AEM Electrolyzer to Singapore,"
+  },
+  "3b2c6026": {
+   "s": "기후에너지데이터뱅크",
+   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94LXZOV29VaGI0c1pLb1JCSFhHRFRqR1FCc1ZhQjBnSF9EanVlU1RqNU9nRkpGSXBNX21jTmVPMnpwWWFFRHBZZUdXZnhiSUZzbGNTNmI4NHd2bHlNa3c?oc=5",
+   "t": "[경남수소컨퍼런스] 청정수소 생산기술 경쟁력 높인다…2028년 5MW급 수전해 시스템 개발 목표"
+  },
+  "5aecacee": {
+   "s": "SR타임스",
+   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3dl9IRUpHQ05fVlBQZHNpX2N0cE94WFZKNjluQkRNU2FPcXcyUERrNS0yeXVHWGpUdnQ0VzdpR0tHOGdnNGtVeXQ2d0kySzF5M3pEcGxldGpIR3llcHhkb2dybVlBODjSAWtBVV95cUxNeko3UTNCUERMTi0yamgydDBnNlplUERHZ1ZuYUt1V3U0SUZidHBrZ3c5ZXRWOExUN0lvRDQtdF9fZDZieUZsUWx0ZWwwTEFGZjdKU1JXWGZhcV91Sm00LVlMMkt6X3IxQ09PRQ?oc=5",
+   "t": "지필로스, 수자원공사 송산글로벌교육연구센터에 오프그리드 수전해 설비 설치"
+  },
+  "d9b2bbb3": {
+   "s": "日経BP",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOOVF5Z0JMZkV6V212X3g4T0FVeDF2d2ZKWW1LSFhzbjJ0Q1ZFRjZuVlRpb0FQSFJWWGpoc0h6MjhhNU5jTGp3OXY0Y0NyZnNCWUNRMTVzTnROcF9EZTVqYVVXWXlHY1hNTGEzbkYzZDZtY0la?oc=5",
+   "t": "日東工業、自家消費太陽光の余剰電力を活用しグリーン水素製造・利用 - ニュース - メガソーラービジネス plus"
+  },
+  "7978226f": {
+   "s": "가스신문",
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFTTJqMFBZSVMydG1rbW5mZ2pMWU45czFsVmtLZC1teUFMVE1QZWRUZE5LaUsxcGxXUXFqSXF6MktsSjBTOFJKd0VLdDZlSEF5dFp4ckMzLXRmTzFmc3kzd09uckRibEd1SUNGRTFB0gFuQVVfeXFMUEVNMmowUFlJUzJ0bWttbmZnakxZTjlzMWxWa0tkLW15QUxUTVBlZFRkTktpSzFwbFdRcWpJcXoyS2xKMFM4Ukp3RUt0NmVIQXl0WnhyQzMtdGZPMWZzeTN3T25yRGJsR3VJQ0ZFMUE?oc=5",
+   "t": "지필로스, 100kW급 오프그리드 수전해 가동…분산형 그린수소 거점 확대"
+  },
+  "0553bbf7": {
+   "s": "에너지신문",
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pcHZRTTZsSmtPODBPcGlnbGc1TmRSQ0d6SDVZbjRxd3gtTEhIQVNUaF9DQUVORTNGM0JnbTVwcXJONHRNTHpkTHlQcllLOGRuLVBmVks0cHJCc2RUQUFDb2RJYzNKLUhMMzctUHdYZzVXdw?oc=5",
+   "t": "지역 에너지로 수소 생산…지필로스, ‘지산지소’ 모델 추진"
+  },
+  "30bf1e6c": {
+   "s": "Energy News Beat",
+   "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTm9YR1BYM2YtQjdVclg1S0Vfbm55TmhsWHdpWmhmdWprOG93WnFzVXU2bTBrbWFOaDZYOV9CUEZDam4zUHdGM1B4c1gtdUtfNWxrSFZqNDBvd2thZjZaX1FjSUFMVzRod3liZjAzZnFYVVEwTnVWTlMtUG5pQ2RfYXpzdG1QWHpMRVQyVFNoVENxZHB1ZWNsTkxDQ0tpLUU0Qm9zRVB2NlhJaV9PN2sxbTV6b3lhbGw4SmhkVVlkUUd0RGt6U0toWUNGdFBUZzBFUklV?oc=5",
+   "t": "Operating Carbon-Capture Plants Equal 0.18% of Energy Emissions. Governments Earmarked $54 Billion."
+  },
+  "86007d2a": {
+   "s": "Vietnam.vn",
+   "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNemJDU3FvVjA2WWJmc3NULS1DZjhwd2FJZGgzaWkwQ1dYMGh2bDBpRTExQllhY1lFLUxBRkc2OGswemZmTENDOW5fbXl1eV9SNEREQVpWal8xS0RoYWRzN0NLNld6am84MUkxX0J6OEJLay1aMDl0aERuTG1OeG1wT0dZT0VodjZQWnNxLWtaTUNXVnpSeFE?oc=5",
+   "t": "Carbon capture technology: An excuse to delay the energy transition?"
+  },
+  "44c3b65f": {
+   "s": "EnergyNow",
+   "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV3BhSm52aExHdnhIdl9fNjFkZHlVZWpmMGoyM1JkYmZib3dabllpX0hxdGZTWDdOYkNJMGpCT0RLTXY4X0NCQVBXZGg3QmNqNkw3SW50UE5VZE94WE9ISXZrWmM1WTA2X21oZWUzT0RrVUdKdUl1YklZN011dzFYd0p2RWJrOUNzR1ZiUmNONzdxX3BHTkdRQmdwRzlwYWJKSHFQaWpzb1c?oc=5",
+   "t": "Canada’s Oil Producers Target Late 2027 for Pathways Carbon Capture Decision"
+  },
+  "b7f24e35": {
+   "s": "Petromindo",
+   "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeTZaRE9GbGQzMDgtOUM3blVaRjdhOW5YWnFVcVRGTUFmUF8zWVFqVjNxeE05SDFEQW1tRGhCQjI4MGY4MWMxanU3V1B0eTZVN1FmeC1jUXRUSzh4eHE0T093eHNDdk1uUFRkRDVUakZTeW9zNkw1cXFWQ2wzeFk5R3MwbVZpOVZmcGlJV0VjV3lLYVdQZkpPR2N3WDh0UGRqeFRzME11WWxCaF9oa1RDNEh3?oc=5",
+   "t": "Regional CCS: Singapore, Australia sign cross-border CO2 storage agreement"
+  },
+  "9dca8130": {
+   "s": "The Sun Malaysia",
+   "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFNtSkx4WTZyWERMNUVfVmNBZlp2WngwM2kyWlZySHg5MGltdXFUNUxwZUo0MHhxWk8wdDF5YU9fZFI4eXduVkxHcVBEdDlPNzQ3YnZ5YXZyT2VjbkxsYm5LWkwxVkdjNzc3U0ZYVEhETVBkYWtCOUppVlRoN3Y1a2E5SnUzR2dOYzJHOHpwbzJRdmNzeXZPZUROVUYzTFloa0lNaQ?oc=5",
+   "t": "CCUS Roadmap 2050 outlines 27 initiatives, projects RM160b-170b investments"
+  },
+  "b136de50": {
+   "s": "BusinessGreen",
+   "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVUlJNi1PYmdWSlF1bWVOSlg5eDA3T0xJUGoyU3doUE1hOW94TjM0OVF3LUw5aGEyaG9jb0lJUElLRmtOOWVsbGxJdWE0OE1saUVyc21tenR6alVNTkZlQUtiWHZpMmN5M2trZnhwQklwWnEwaDZoOXU0NkxqdWRJdVpjQUVNcWNhZkJHNDNqdjRGdTN0ZkswODY2aHlWRDgyWndYRWFfb0gwVVJ1czlnNlNYcVI?oc=5",
+   "t": "EnEarth set to acquire stake in flagship Acorn carbon capture and storage project"
+  },
+  "f7bdae8d": {
+   "s": "IndexBox",
+   "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkl6cmxGZDdlM0pEQzMwV0JJZmpjVEo2ZzlWa3FjOW53Q2FGenRFX1hIZUFmSXF1aVlSbFFQMGRYa0VGNXhtektPZWExd2pkczZLN2FGVkUtNnlXQUV6T3VfQlp6WXdkYnRPQ0hqeXdfbl94Tm5zNzJHT0JJekd2QThwZFFqZFlNZk1QWWFwWTJKcU1Vejc5aG9BRXJGVGI2S1lLZTR3?oc=5",
+   "t": "EnEarth, Storegga의 30% 지분 인수해 Acorn CCS 프로젝트 주도 - 뉴스 및 통계"
+  },
+  "e72fbfd1": {
+   "s": "Splash247",
+   "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmNvLUY0Q1NKNGpxNHJOLUNNbkpaMGJ4YlNnMzJpb25lOUJqc2Y1VnV2VUZjOGk2eEVJdFZ1UUkzNTZpOEtOZWxLN19KX2xaOS1ubURaa0cxcVVkOHhvbGNlVTRKblVOZ0pQeWxDNmlZdDNZRTJsQkR0TlE4SGhISl90bGRYUQ?oc=5",
+   "t": "EnEarth takes control of Scottish carbon storage project"
+  },
+  "098b1338": {
+   "s": "Bloomberg.com",
+   "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcGR4WnNuNlo3MU9Tb0VzV1laQ2t4MTNubWYtZHB2amE5eTB2bEFNQnlCbkhDeFItZmowWWxEN0hIQlBmY3ZBWnl6OFJpUXZuMklPbEU0RHNnalZIbHpTODFvU3RRUDdYR01OVlo4eEhxbW9SQkNaMlRIMWZpd21mUldJSWJ5OUpTOUx0R0puNzdNT0ltRFQxSUNfZ1E5OW9tZ000VTNmZ0txdw?oc=5",
+   "t": "Equinor CEO Says Carbon Capture Deals Impeded by Cost, Shortage"
+  },
+  "c7d02357": {
+   "s": "Euronews.com",
+   "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOXpiZXJ6cUo2aFowYzBzXzR0UGZEQ2luTlNueGRxNGVCZ3NLMkY2VjB3M2dpQm9ucElIbWxmTWNHMWdzSkppamktcDVZUy1iV09rOC1vR0hjclQtVHhWdmtkRXdaZWNhVm1vZUhyYVV1NG9CbHplXzZDblNkS29hQ2t1eWx2OVpiTzIxTDhpRGNHRkIzMndGM1R4bVlTTVFQaXhxcGstYW5tVEhXM1VUb0tkOUhHWk45aXY2X0h5elhrTFhv?oc=5",
+   "t": "Carbon capture was rejected at COP31: What is it and does it work?"
+  },
+  "868391a8": {
+   "s": "EnergyNow",
+   "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGlUVUMzd2Zzb1lpY1k2b2o2dDJBTTI3RF9adE9ZRzItQkdGVlBLVHZpV244ZHFEbkhDVEZTLWlmaXRFeEpsbVFGQ2ZtUWFDZWxkaU55dXVIak5aOVpOUzhteEZKUy1WZ2tJcGEyWnNBSVZPZlJ4SE5XQ2ZpWFRJQ1hoRTI2eE1WcmEtS205OWhHOHU4RHFVMW9HVlJJT0lJWUpBV2VndThJWS1uX2RDRHdiQzA1QkhudldMQWFaWFlqUHhablVsSm93?oc=5",
+   "t": "Ottawa’s New ‘Mega Deduction’ Could Help Unlock Pathways Carbon Capture Project, Oil Sands Alliance Says"
+  },
+  "93b47484": {
+   "s": "ET EnergyWorld",
+   "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOR0NMaFZGTXN4Njg2Q0xXQUEzeVE4TTBOeU94M0hONmRyczZrM2FWa2VZSDVOS0JwMEMyVWxVRUJRbTUyVDRqU3pvRmRpTlNjOGFJdzhYU3JaS0MwN1NBcjRVd0tkV0wybHlvQTMzWHk4MEpFdU1YaVRBdGV4TlU4X3ZoNm41aC1MYWk0eHNRNS1MS0l5VlphbGF4MUtmb2lFUU9qdEJHS3dQb2J5bzhRaWJTTlh5b1Z6NFRlbU5TV3dSQXdSTW9pQ0hkVGcxVEx0Y2JSNk0xbTlZUndrd3ZXblRR0gHiAUFVX3lxTE5HQ0xoVkZNc3g2ODZDTFdBQTN5UThNME55T3gzSE42ZHJzNmszYVZrZVlINU5LQnAwQzJVbFVFQlFtNTJUNGpTem9GZGlOU2M4YUl3OFhTclpLQzA3U0FyNFV3S2RXTDJseW9BMzNYeTgwSkV1TVhpVEF0ZXhOVThfdmg2bjVoLUxhaTR4c1E1LUxLSXlWWmFsYXgxS2ZvaUVRT2p0QkdLd1BvYnlvOFFpYlNOWHlvVno0VGVtTlNXd1JBd1JNb2lDSGRUZzFUTHRjYlI2TTFtOVlSd2t3dlduVFE?oc=5",
+   "t": "Malaysia targets up to six carbon storage hubs, $40 billion in investments by 2050"
+  },
+  "5d31c93a": {
+   "s": "経済界ウェブ",
+   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqamNmM3JuOUVpQXlHOFVtelJoblhEYnp5T2NoclFWYnN3a3NKaWIwWDNDRE44cUp5eFF0cWRFSXhaUEFaY3VIYkdmWTFqcnJxY0FZ?oc=5",
+   "t": "九州あと10年は好況続く ＡＩ・半導体の設備投資で"
+  },
+  "64eae56f": {
+   "s": "山陽新聞",
+   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jbHlNUHlhSWFXbmd0WW1kVXBRWXdubDlMR0ppMVgtaEZaTHc1cmt2MFVDTmxLZWhBRDE5YXpxTl9jZ2FFRjdaX2F1Q3Z1dDF3MVE?oc=5",
+   "t": "天然ガスから水素を作り発電 ＣＯ２削減期待、新潟で実証"
+  },
+  "6bcbeed7": {
+   "s": "디지털투데이",
+   "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcG5VODByMUVHdjJQV1ZTSVdjMVJHNThsY1RlX05EakxtS2xtZDNQdFJwbVN2WFlYWUp6bjY1aHE2ek9uN1MzOWE4c2Z3TGFCcGc1cUk5YjkzMUwtRzh1ZEhPdGZfaDhFOEJ6TGNZS3d0VUgxbTZsMVVWcHpMWjhEa0V1eVBWS182cWZTN0dER2ZHT0tFSnVHRHlfSVB1NVpnbjlZbFE3NEkycTBYNE1lQjdySHd0TklRY1MyQkZGeUlORHplS0xyNw?oc=5",
+   "t": "世界の冷房電力需要、初の暖房超え 温暖化で消費構造変化"
+  },
+  "fd9394a1": {
+   "s": "ZDNET Japan",
+   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54eTI5czR1b1FhcEF1ZGNDczNSTmt0UHFsVF9qR0NUMmV3VXh1SmxEalpZSGtyVFkwMlRwLUhlRnNtM240dmNLY1pybnJZUlVXaDZV?oc=5",
+   "t": "【オリックス】滋賀県米原市で国内最大級134MWの蓄電所を運転開始"
+  },
+  "08f0a6e9": {
+   "s": "GIGAZINE",
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yY2pCQkhLMFJNa0ZPLUcyTVBuMDhBM0pEUE1GdnpqYld4OF9fRWo3QkZIZjhPUHpRNzFTR2NxSlE0VG96d29jZ1MxeHM5dU9ma3Vtb2lKSlRLTTFSc1VNUA?oc=5",
+   "t": "世界の冷房電力需要が暖房電力需要を史上初めて上回る"
+  },
+  "898cd0ab": {
+   "s": "セレクトラ",
+   "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamZNTW1UNmJLNlFFQ0FZalpJSE9MNk5KbkNkOE0wdkFubk15d1Jaa1E1dWJoaXJRSWlZTC1hbE9MbzRHVjNTOUdKSGpjRFhzOVNPU2MtWUZSOWIzeDhvQl9FVkhaQnprX205SGstTVluTnM4WmJ0clNHODZuVXN2alRFajI?oc=5",
+   "t": "米上院、AIの電力需要に備え発電・送電の許認可を短縮する法案を可決 環境団体は「保護法の骨抜き」と反発"
+  },
+  "cc92ddd5": {
+   "s": "日刊工業新聞",
+   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjYUJra2JZTTh5T1hJWG5XN0hnOVZiSVV3SEhROVRSZ3JFR2xaWkhDM3NlRDkyNW1HSnZ5NndqRzhmemFkOURIT0VSRzNmcXdkTWxFTEdKZTg?oc=5",
+   "t": "JERA、アンモニア混焼商用化 29年度めど供給網完成"
+  }
+ }
+}
